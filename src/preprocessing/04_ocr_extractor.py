@@ -31,7 +31,7 @@ class OCRExtractor:
             gpu=False
         )
 
-        print("✓ OCR Model Loaded")
+        print(" OCR Model Loaded")
 
     # -------------------------------------------------------------------------
     # Get all Master JSON files
@@ -113,7 +113,7 @@ class OCRExtractor:
                 ensure_ascii=False
             )
 
-        print(f"✓ Updated -> {json_path.name}")
+        print(f" Updated -> {json_path.name}")
 
     # -------------------------------------------------------------------------
     # Process all JSON files
@@ -129,7 +129,7 @@ class OCRExtractor:
 
             self.process_json(json_file)
 
-        print("\n✓ OCR Extraction Completed Successfully")
+        print("\n OCR Extraction Completed Successfully")
 
 
 # =============================================================================
