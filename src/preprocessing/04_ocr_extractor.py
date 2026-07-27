@@ -1,16 +1,11 @@
-# =============================================================================
-# Import Required Libraries
-# =============================================================================
 
+# Import Required Libraries
 import json
 from pathlib import Path
 import easyocr
 
 
-# =============================================================================
-# OCR Extractor
-# =============================================================================
-
+#OCR Extractor
 class OCRExtractor:
     """
     Reads all representative frames and extracts Bengali + English text
@@ -33,18 +28,12 @@ class OCRExtractor:
 
         print(" OCR Model Loaded")
 
-    # -------------------------------------------------------------------------
-    # Get all Master JSON files
-    # -------------------------------------------------------------------------
-
+    
     def get_json_files(self):
 
         return sorted(self.json_directory.glob("*.json"))
 
-    # -------------------------------------------------------------------------
-    # OCR one JSON
-    # -------------------------------------------------------------------------
-
+   
     def process_json(self, json_path):
 
         print(f"\nProcessing {json_path.name}")
@@ -60,9 +49,7 @@ class OCRExtractor:
             print("No frame information found.")
             return
 
-        # ---------------------------------------------------------
-        # OCR each representative frame
-        # ---------------------------------------------------------
+       
 
         for index, frame in enumerate(frame_information, start=1):
 
@@ -98,10 +85,7 @@ class OCRExtractor:
 
                 frame["ocr_text"] = ""
 
-        # ---------------------------------------------------------
-        # Save Updated JSON
-        # ---------------------------------------------------------
-
+       
         master_json["frame_information"] = frame_information
 
         with open(json_path, "w", encoding="utf-8") as file:
@@ -115,9 +99,7 @@ class OCRExtractor:
 
         print(f" Updated -> {json_path.name}")
 
-    # -------------------------------------------------------------------------
-    # Process all JSON files
-    # -------------------------------------------------------------------------
+    
 
     def process_all_json(self):
 
