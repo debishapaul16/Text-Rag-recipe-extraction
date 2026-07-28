@@ -5,244 +5,80 @@
 import json
 from pathlib import Path
 
+from sentence_transformers import SentenceTransformer
+
 
 # =============================================================================
-# Chunk Generator
+# Dense Embedding Generator
 # =============================================================================
 
-class ChunkGenerator:
+class DenseEmbeddingGenerator:
 
     def __init__(self):
 
-        # ---------------------------------------------------------
-        # Master JSON Folder
-        # ---------------------------------------------------------
+        # Chunk Folder
+        self.chunk_directory = Path("data/chunks")
 
-        self.json_directory = Path(
+        # Output Folder
+        self.embedding_directory = Path("data/embeddings")
 
-            "data/json"
-
-        )
-
-        # ---------------------------------------------------------
-        # Output Chunk Folder
-        # ---------------------------------------------------------
-
-        self.chunk_directory = Path(
-
-            "data/chunks"
-
-        )
-
-        # Create folder if it does not exist
-
-        self.chunk_directory.mkdir(
-
+        self.embedding_directory.mkdir(
             parents=True,
-
             exist_ok=True
-
         )
 
-        print("\n========================================")
-        print("Chunk Generator Initialized")
-        print("========================================")
+        print("Loading Sentence Transformer...")
+
+        self.model = SentenceTransformer(
+            "all-MiniLM-L6-v2"
+        )
+
+        print("Model Loaded")
 
 
-    # =========================================================================
-    # Get All Master JSON Files
-    # =========================================================================
+    # -------------------------------------------------------------------------
+    # Get Chunk Files
+    # -------------------------------------------------------------------------
 
-    def get_json_files(self):
+    def get_chunk_files(self):
 
         return sorted(
 
-            self.json_directory.glob(
-
-                "*.json"
-
-            )
-
-        )
-        # =========================================================================
-    # Create Recipe Summary Chunk
-    # =========================================================================
-
-    def create_recipe_summary_chunk(
-
-        self,
-
-        video_id,
-
-        recipe_information
-
-    ):
-
-        dish = recipe_information.get(
-
-            "dish_type",
-
-            ""
-
-        )
-
-        cuisine = recipe_information.get(
-
-            "cuisine",
-
-            ""
-
-        )
-
-        ingredients = ", ".join(
-
-            recipe_information.get(
-
-                "ingredients",
-
-                []
-
+            self.chunk_directory.glob(
+                "*_chunks.json"
             )
 
         )
 
-        steps = " ".join(
 
-            recipe_information.get(
+    # -------------------------------------------------------------------------
+    # Generate Embedding
+    # -------------------------------------------------------------------------
 
-                "estimated_steps",
+    def generate_embedding(self, text):
 
-                []
+        embedding = self.model.encode(
 
-            )
+            text,
 
-        )
-
-        text = (
-
-            f"Dish: {dish}. "
-
-            f"Cuisine: {cuisine}. "
-
-            f"Ingredients: {ingredients}. "
-
-            f"Steps: {steps}."
+            convert_to_numpy=True
 
         )
 
-        return {
-
-            "chunk_id": f"{video_id}_summary",
-
-            "video_id": video_id,
-
-            "type": "recipe_summary",
-
-            "timestamp": 0.0,
-
-            "text": text
-
-        }
+        return embedding.tolist()
 
 
-    # =========================================================================
-    # Create Frame Chunk
-    # =========================================================================
+    # -------------------------------------------------------------------------
+    # Process One Chunk File
+    # -------------------------------------------------------------------------
 
-    def create_frame_chunk(
+    def process_chunk_file(self, chunk_file):
 
-        self,
-
-        video_id,
-
-        frame,
-
-        visual_description,
-
-        detected_objects
-
-    ):
-
-        frame_id = frame["frame_id"]
-
-        shot_id = frame["shot_id"]
-
-        timestamp = frame["timestamp"]
-
-        ocr_text = frame.get(
-
-            "ocr_text",
-
-            ""
-
-        )
-
-        object_names = [
-
-            obj["class_name"]
-
-            for obj in detected_objects
-
-        ]
-
-        object_text = ", ".join(
-
-            sorted(
-
-                set(object_names)
-
-            )
-
-        )
-
-        text = (
-
-            f"At {timestamp:.2f}s. "
-
-            f"Visual: {visual_description}. "
-
-            f"OCR: {ocr_text}. "
-
-            f"Objects: {object_text}."
-
-        )
-
-        return {
-
-            "chunk_id":
-
-                f"{video_id}_{shot_id}_{frame_id}",
-
-            "video_id": video_id,
-
-            "type": "frame_chunk",
-
-            "timestamp": timestamp,
-
-            "text": text
-
-        }
-        # =========================================================================
-    # Process One Master JSON
-    # =========================================================================
-
-    def process_json(
-
-        self,
-
-        json_path
-
-    ):
-
-        print(f"\nProcessing {json_path.name}")
-
-        # ---------------------------------------------------------
-        # Load Master JSON
-        # ---------------------------------------------------------
+        print(f"\nProcessing {chunk_file.name}")
 
         with open(
 
-            json_path,
+            chunk_file,
 
             "r",
 
@@ -250,187 +86,61 @@ class ChunkGenerator:
 
         ) as file:
 
-            master_json = json.load(
+            chunks = json.load(file)
 
-                file
+        embeddings = []
 
-            )
+        for chunk in chunks:
 
-        # ---------------------------------------------------------
-        # Read Required Sections
-        # ---------------------------------------------------------
+            vector = self.generate_embedding(
 
-        video_info = master_json.get(
-
-            "video_info",
-
-            {}
-
-        )
-
-        recipe_information = master_json.get(
-
-            "recipe_information",
-
-            {}
-
-        )
-
-        frame_information = master_json.get(
-
-            "frame_information",
-
-            []
-
-        )
-
-        object_detection = master_json.get(
-
-            "object_detection",
-
-            []
-
-        )
-
-        visual_descriptions = master_json.get(
-
-            "visual_descriptions",
-
-            []
-
-        )
-
-        video_id = video_info.get(
-
-            "video_id",
-
-            "UNKNOWN_VIDEO"
-
-        )
-
-        # ---------------------------------------------------------
-        # Create Lookup Dictionaries
-        # ---------------------------------------------------------
-
-        object_lookup = {
-
-            item["frame_id"]: item["detected_objects"]
-
-            for item in object_detection
-
-        }
-
-        visual_lookup = {
-
-            item["frame_id"]: item["description"]
-
-            for item in visual_descriptions
-
-        }
-
-        # ---------------------------------------------------------
-        # Store All Chunks
-        # ---------------------------------------------------------
-
-        chunks = []
-
-        # ---------------------------------------------------------
-        # Recipe Summary Chunk
-        # ---------------------------------------------------------
-
-        recipe_chunk = self.create_recipe_summary_chunk(
-
-            video_id,
-
-            recipe_information
-
-        )
-
-        chunks.append(
-
-            recipe_chunk
-
-        )
-
-        print("✓ Recipe Summary Chunk Created")
-            # ---------------------------------------------------------
-        # Generate Frame Chunks
-        # ---------------------------------------------------------
-
-        print(
-
-            f"Generating Frame Chunks ({len(frame_information)} Frames)..."
-
-        )
-
-        for frame in frame_information:
-
-            frame_id = frame["frame_id"]
-
-            # ---------------------------------------------------------
-            # Get Visual Description
-            # ---------------------------------------------------------
-
-            visual_description = visual_lookup.get(
-
-                frame_id,
-
-                ""
+                chunk["text"]
 
             )
 
-            # ---------------------------------------------------------
-            # Get Detected Objects
-            # ---------------------------------------------------------
+            embeddings.append(
 
-            detected_objects = object_lookup.get(
+                {
 
-                frame_id,
+                    "chunk_id": chunk["chunk_id"],
 
-                []
+                    "video_id": chunk["video_id"],
 
-            )
+                    "type": chunk["type"],
 
-            # ---------------------------------------------------------
-            # Create Frame Chunk
-            # ---------------------------------------------------------
+                    "timestamp": chunk["timestamp"],
 
-            frame_chunk = self.create_frame_chunk(
+                    "text": chunk["text"],
 
-                video_id,
+                    "embedding": vector
 
-                frame,
-
-                visual_description,
-
-                detected_objects
-
-            )
-
-            chunks.append(
-
-                frame_chunk
+                }
 
             )
 
             print(
 
-                f"✓ Frame Chunk Created : {frame_id}"
+                f"Embedded -> {chunk['chunk_id']}"
 
             )
-            # ---------------------------------------------------------
-        # Save Chunk File
-        # ---------------------------------------------------------
 
-        chunk_file = self.chunk_directory / (
+        output_file = (
 
-            f"{video_id}_chunks.json"
+            self.embedding_directory /
+
+            chunk_file.name.replace(
+
+                "_chunks",
+
+                "_embeddings"
+
+            )
 
         )
 
         with open(
 
-            chunk_file,
+            output_file,
 
             "w",
 
@@ -440,7 +150,7 @@ class ChunkGenerator:
 
             json.dump(
 
-                chunks,
+                embeddings,
 
                 file,
 
@@ -450,72 +160,36 @@ class ChunkGenerator:
 
             )
 
-        print(
-
-            f"\n✓ Saved {len(chunks)} Chunks"
-
-        )
-
-        print(
-
-            f"Chunk File : {chunk_file.name}"
-
-        )
+        print(f"Saved -> {output_file.name}")
 
 
-    # =========================================================================
-    # Process All Master JSON Files
-    # =========================================================================
+    # -------------------------------------------------------------------------
+    # Process All Chunk Files
+    # -------------------------------------------------------------------------
 
-    def process_all_json(
+    def process_all_chunks(self):
 
-        self
+        chunk_files = self.get_chunk_files()
 
-    ):
+        print(f"\nFound {len(chunk_files)} chunk files.")
 
-        json_files = self.get_json_files()
+        for chunk_file in chunk_files:
 
-        print("\n========================================")
-        print("Chunk Generation Started")
-        print("========================================")
+            self.process_chunk_file(
 
-        print(
-
-            f"\nFound {len(json_files)} JSON files.\n"
-
-        )
-
-        for index, json_file in enumerate(
-
-            json_files,
-
-            start=1
-
-        ):
-
-            print(
-
-                f"\n[{index}/{len(json_files)}] "
-
-                f"Processing {json_file.name}"
+                chunk_file
 
             )
 
-            self.process_json(
+        print("\nDense Embedding Generation Completed.")
 
-                json_file
 
-            )
-
-        print("\n========================================")
-        print("✓ Chunk Generation Completed")
-        print("========================================")
 # =============================================================================
 # Main
 # =============================================================================
 
 if __name__ == "__main__":
 
-    generator = ChunkGenerator()
+    generator = DenseEmbeddingGenerator()
 
-    generator.process_all_json()
+    generator.process_all_chunks()

@@ -1,0 +1,394 @@
+[
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_summary",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "recipe_summary",
+        "timestamp": 0.0,
+        "text": "Dish: Recipe. Cuisine: Goan. Ingredients: kashmiri chillies, whole garlic, whole ginger, whole cumin, coconut flour, dry coconut, khokra, sugar, jaggery, tamarind, dry kokum, turmeric, salt, fish. Steps: Combine the dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin, and coconut flour in a mixer. Process the mixture until it forms a smooth paste. Add coconut flour, sugar, jaggery, tamarind, kokum, turmeric, and salt to the paste. Mix all ingredients thoroughly until well combined. Cut the fish into desired pieces for cooking. Prepare the masala according to the recipe instructions. Heat the prepared masala in a pan over medium heat. Stir frequently to ensure even distribution of flavors and prevent burning.."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_1_POMFRET_ROAST_FRY_shot_1_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 1.35,
+        "text": "At 1.35s. Visual: A person uses a spoon to mix ingredients in a bowl, with a bottle nearby as an unseen element, preparing a dish with variations. The focus is on the mixing action and the potential for diverse food appearances.. OCR: [|. Objects: bottle, bowl, person, spoon."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_2_POMFRET_ROAST_FRY_shot_2_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 3.35,
+        "text": "At 3.35s. Visual: A person is preparing a dish with variations, showcasing the mixing of ingredients and creating a flavorful meal. Utensils are used to combine the components as they cook, resulting in an appealing final food appearance.. OCR: . Objects: person."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_3_POMFRET_ROAST_FRY_shot_3_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 4.71,
+        "text": "At 4.71s. Visual: A person prepares a dish featuring whole garlic cloves in a bowl, likely experimenting with different variations of the recipe. The image shows a rustic presentation of food being cooked.. OCR: গোটী রসুন. Objects: bowl, donut, person."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_4_POMFRET_ROAST_FRY_shot_4_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 5.93,
+        "text": "At 5.93s. Visual: A person prepares carrots in a bowl, while a donut sits nearby – there are variations to this simple dish.. OCR: গোটী আদী. Objects: bowl, carrot, donut, person."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_5_POMFRET_ROAST_FRY_shot_5_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 6.81,
+        "text": "At 6.81s. Visual: A person is preparing a dish with black mustard seeds (jire), showcasing variations in the recipe as spices are added to what appears to be a simmering pot of food.. OCR: গোট] জিরে. Objects: person."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_6_POMFRET_ROAST_FRY_shot_6_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 8.35,
+        "text": "At 8.35s. Visual: A banana sits alongside a bottle and bowl as someone explores different variations of a recipe. The focus is on the fresh fruit and preparation for diverse cooking methods.. OCR: . Objects: banana, bottle, bowl."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_7_POMFRET_ROAST_FRY_shot_7_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 10.84,
+        "text": "At 10.84s. Visual: A bowl sits ready for preparation as someone explores variations in a recipe. The focus is on gathering ingredients and preparing them for cooking.. OCR: . Objects: bowl."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_8_POMFRET_ROAST_FRY_shot_8_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 13.07,
+        "text": "At 13.07s. Visual: A bottle and bowl sit on a dining table as someone prepares a dish with a cup nearby – variations of this recipe are being explored. The focus is on the ingredients and the action of cooking, resulting in a food appearance that suggests multiple possible outcomes.. OCR: . Objects: bottle, bowl, cup, dining table."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_9_POMFRET_ROAST_FRY_shot_9_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 14.64,
+        "text": "At 14.64s. Visual: A person is preparing a dish with a bowl and cup on a dining table, likely experimenting with different variations of the recipe. The focus appears to be on assembling ingredients for a meal.. OCR: I| ). Objects: bowl, cup, dining table, person."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_10_POMFRET_ROAST_FRY_shot_10_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 15.85,
+        "text": "At 15.85s. Visual: A person prepares a dish in a bowl on a dining table, showcasing variations of the recipe’s ingredients and finished food. The video focuses on the cooking action and the appearance of the prepared food.. OCR: . Objects: bowl, dining table, person."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_11_POMFRET_ROAST_FRY_shot_11_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 17.27,
+        "text": "At 17.27s. Visual: A bowl of Kokas is being prepared on a dining table, showcasing this traditional dessert variation. The creamy, browned dough sits invitingly, ready to be enjoyed.. OCR: শুকগে| কোকাস. Objects: bowl, dining table."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_12_POMFRET_ROAST_FRY_shot_12_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 18.83,
+        "text": "At 18.83s. Visual: A bowl and spoon are used to prepare a creamy masala with a Goan twist, likely incorporating ingredients for a vibrant, flavorful dish.  A cup sits nearby, ready for serving this rich, aromatic creation.. OCR: ছনুদ. Objects: bowl, cup, spoon."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_13_POMFRET_ROAST_FRY_shot_13_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 20.05,
+        "text": "At 20.05s. Visual: A person finely chops spices while preparing a Goan-inspired masala dish, likely using a mortar and pestle to create a fragrant blend for flavorful cooking. The finished masala promises vibrant colors and aromas, ready to be incorporated into a delicious meal.. OCR: [| মিহি করে. Objects: person."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_14_POMFRET_ROAST_FRY_shot_14_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 21.22,
+        "text": "At 21.22s. Visual: A person prepares a vibrant dish with a bottle and cup nearby, adjusting spices for a Goan-inspired masala flavor. The scene showcases ingredients being combined in a bowl, aiming for an appealing final presentation.. OCR: . Objects: bottle, cup, person, vase."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_15_POMFRET_ROAST_FRY_shot_15_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 22.3,
+        "text": "At 22.30s. Visual: A person prepares a masala dish with a bowl and spoon, creating a Goan-inspired recipe at a dining table. The vibrant ingredients are mixed together for a flavorful culinary creation.. OCR: Recheado Masaig. Objects: bowl, cup, dining table, person, spoon."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_16_POMFRET_ROAST_FRY_shot_16_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 24.62,
+        "text": "At 24.62s. Visual: A person uses a bowl and spoon to prepare a vibrant masala dish with a Goan twist, while a cup and fork sit nearby. The resulting food appears rich and flavorful.. OCR: . Objects: bowl, cup, fork, person, spoon."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_17_POMFRET_ROAST_FRY_shot_17_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 26.96,
+        "text": "At 26.96s. Visual: A person prepares a Goan-style masala dish with apples, oranges and a bottle nearby, using a fork and spoon to mix ingredients in a pot beside a potted plant and vase. The vibrant colors of the fruit suggest a flavorful and aromatic meal is being created.. OCR: . Objects: apple, bottle, fork, orange, person, potted plant, spoon, vase."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_18_POMFRET_ROAST_FRY_shot_18_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 27.9,
+        "text": "At 27.90s. Visual: A person prepares a flavorful dish with a Goan twist, likely incorporating spices into a simmering sauce. The scene features a vase in the background as the cook expertly crafts the aromatic meal.. OCR: . Objects: person, vase."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_19_POMFRET_ROAST_FRY_shot_19_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 29.09,
+        "text": "At 29.09s. Visual: A person skillfully prepares a flavorful dish with a knife and spoon, incorporating Goan spices into what appears to be a vibrant curry. The scene features a potted plant and vase as decorative elements around the cooking area.. OCR: . Objects: knife, person, potted plant, spoon, vase."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_20_POMFRET_ROAST_FRY_shot_20_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 30.27,
+        "text": "At 30.27s. Visual: A delicious cake is being prepared with a Goan-inspired masala spice blend. The video shows mixing ingredients and baking to create an enticing dessert.. OCR: . Objects: cake."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_21_POMFRET_ROAST_FRY_shot_21_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 31.16,
+        "text": "At 31.16s. Visual: A bright yellow apple is being sliced with a knife as we prepare a Goan-style masala dish, promising vibrant flavors and a colorful addition to our meal.. OCR: হলুদ. Objects: apple, knife."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_22_POMFRET_ROAST_FRY_shot_22_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 31.95,
+        "text": "At 31.95s. Visual: A person prepares a flavorful masala dish with a Goan twist, using various spices and ingredients in a pan. The finished dish appears vibrant and aromatic, ready to be served.. OCR: ১০ মিনিট. Objects: person."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_23_POMFRET_ROAST_FRY_shot_23_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 32.66,
+        "text": "At 32.66s. Visual: This video shows a vibrant spice blend being created with chopped chillies, ginger, garlic, and cumin, alongside coconut flour, jaggery, tamarind, and kokum – all ground to a fine powder for use in a flavorful dish. The resulting mixture appears bright yellow-orange, promising a spicy and aromatic addition to pizza or other dishes.. OCR: resl দেব. Objects: apple, pizza."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_24_POMFRET_ROAST_FRY_shot_24_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 33.3,
+        "text": "At 33.30s. Visual: A person is grinding spices – including chili peppers, garlic, ginger, and cumin – with coconut flour, sugar, tamarind, and kokum into a vibrant paste for a flavorful dish. The resulting mixture appears bright red from the chilies and turmeric, likely destined for a hot dog application.. OCR: . Objects: hot dog, person, vase."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_25_POMFRET_ROAST_FRY_shot_25_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 33.95,
+        "text": "At 33.95s. Visual: A person carefully grinds a spice blend of Kashmiri chillies, garlic, ginger, and cumin with coconut flour, jaggery, tamarind, kokum, turmeric, and salt in a mixer, creating a vibrant red mixture. The preparation is set against a backdrop of a potted plant and vase, highlighting the fresh ingredients for a flavorful dish.. OCR: . Objects: knife, person, potted plant, vase."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_26_POMFRET_ROAST_FRY_shot_26_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 34.68,
+        "text": "At 34.68s. Visual: A person is grinding a vibrant mixture of Kashmiri chillies, garlic, ginger, and cumin with coconut flour, turmeric, and salt, while adding ingredients like jaggery, tamarind, and kokum for a fragrant spice blend. The finished spice mix appears reddish-orange in color, likely intended to be used as a flavorful base for a dish.. OCR: . Objects: orange, person, potted plant, vase."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_27_POMFRET_ROAST_FRY_shot_27_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 35.6,
+        "text": "At 35.60s. Visual: A vibrant spice blend is created by grinding dried Kashmiri chillies, garlic, ginger, cumin, and turmeric with coconut flour, jaggery, tamarind, kokum, and salt – a fragrant mixture ready for adding to your dish. The resulting powder boasts a rich red hue from the chilies, promising a bold and flavorful result.. OCR: . Objects: ."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_28_POMFRET_ROAST_FRY_shot_28_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 36.52,
+        "text": "At 36.52s. Visual: A person grinds spices like Kashmiri chillies and cumin with coconut flour, turmeric, and salt in a mixer – creating a vibrant paste alongside ingredients such as tamarind and kokum. The finished mixture is then used to prepare a pizza base, showcasing colorful spices and a textured dough.. OCR: . Objects: person, pizza, potted plant."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_29_POMFRET_ROAST_FRY_shot_29_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 37.45,
+        "text": "At 37.45s. Visual: A person meticulously mixes spices like Kashmiri chillies, ginger, and cumin with coconut flour and tamarind, creating a vibrant red paste for a flavorful hot dog topping. The mixture is pulsed in a blender with turmeric and salt until smooth, showcasing finely ground ingredients.. OCR: . Objects: hot dog, person."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_30_POMFRET_ROAST_FRY_shot_30_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 38.4,
+        "text": "At 38.40s. Visual: A person carefully grinds a vibrant spice mixture featuring chopped Kashmiri chillies, garlic, ginger, and cumin with coconut flour, jaggery, tamarind, kokum, turmeric, and salt. The resulting paste is then showcased in a bowl, ready for incorporation into a flavorful dish.. OCR: . Objects: hot dog, person."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_31_POMFRET_ROAST_FRY_shot_31_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 39.39,
+        "text": "At 39.39s. Visual: A vibrant spice blend is created with chopped chillies, garlic, ginger, and cumin, then combined with coconut flour, sugar, tamarind, kokum, turmeric, and salt before being ground to a fine powder. The resulting mixture will be used to flavor a hot dog and banana dish.. OCR: . Objects: banana, hot dog."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_32_POMFRET_ROAST_FRY_shot_32_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 41.19,
+        "text": "At 41.19s. Visual: A person blends a vibrant mixture of dry Kashmiri chillies, garlic, ginger, and spices with coconut flour, tamarind, kokum, and turmeric – creating a colorful paste for a traditional South Indian dish. The ingredients are meticulously ground in a mixer, resulting in a fragrant and textured powder.. OCR: mariingle হোেক. Objects: person."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_33_POMFRET_ROAST_FRY_shot_33_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 43.03,
+        "text": "At 43.03s. Visual: A person grinds vibrant spices – including Kashmiri chillies, garlic, and ginger – with coconut flour and tamarind to create a flavorful mixture. The resulting paste is then studded with sugar, kokum, turmeric, and salt, ready for use in a delicious sandwich.. OCR: . Objects: person, sandwich."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_34_POMFRET_ROAST_FRY_shot_34_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 44.27,
+        "text": "At 44.27s. Visual: A person prepares a flavorful seafood dish, likely using spices and seasonings in a versatile masala recipe popular in Goa. The finished product is a glistening piece of seafood seasoned with fragrant spices, perfect for enjoying with fish.. OCR: . Objects: person."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_35_POMFRET_ROAST_FRY_shot_35_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 45.22,
+        "text": "At 45.22s. Visual: A person prepares a flavorful seafood dish with a hot dog and sandwich, likely inspired by the Goan recipe of reshado masala – showcasing versatile spices used for cooking fish and seafood. The scene features ingredients and utensils associated with preparing a spicy seafood meal.. OCR: বাইরে থেঁকে. Objects: hot dog, person, sandwich."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_36_POMFRET_ROAST_FRY_shot_36_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 46.27,
+        "text": "At 46.27s. Visual: A sandwich filled with apples is being prepared with a flavorful masala spice blend, perfect for seafood dishes like reshado masala traditionally enjoyed in Goa. The finished product promises a vibrant and aromatic meal.. OCR: ভেতর থেঁকে. Objects: apple, sandwich."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_37_POMFRET_ROAST_FRY_shot_37_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 47.65,
+        "text": "At 47.65s. Visual: This vibrant masala spice blend is perfect for seasoning seafood, particularly in Goa where it's known as reshado masala. The recipe highlights its versatility for creating flavorful dishes with any fish or shellfish.. OCR: চগেয গুঁড়েো. Objects: ."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_38_POMFRET_ROAST_FRY_shot_38_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 49.69,
+        "text": "At 49.69s. Visual: A person uses a spoon to prepare a flavorful seafood dish, likely reshado masala – a versatile spice blend traditionally used with fish and prawns from Goa. The finished food appears aromatic and ready to be served over fresh seafood.. OCR: . Objects: person, spoon."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_39_POMFRET_ROAST_FRY_shot_39_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 51.6,
+        "text": "At 51.60s. Visual: A person prepares a flavorful fish dish, utilizing a bowl and knife on a dining table. The vibrant seafood is being seasoned with masala, reflecting a traditional Goan recipe.. OCR: . Objects: bowl, dining table, knife, person."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_40_POMFRET_ROAST_FRY_shot_40_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 52.59,
+        "text": "At 52.59s. Visual: A vibrant bird is being prepared with a flavorful masala spice blend, likely for seafood like fish. The dish, known as reshado masala in Goa, appears rich and aromatic, ready to be served hot.. OCR: . Objects: bird."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_41_POMFRET_ROAST_FRY_shot_41_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 53.3,
+        "text": "At 53.30s. Visual: A person prepares a cake, likely with masala spice, at a dining table – a versatile dish perfect for seafood like fish. The finished product is presented as a delicious treat, possibly inspired by a Goan recipe.. OCR: চেপে ঢেপে. Objects: cake, dining table, person."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_42_POMFRET_ROAST_FRY_shot_42_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 54.53,
+        "text": "At 54.53s. Visual: A person prepares a flavorful cake, likely incorporating masala spices for versatility – perfect for seafood dishes like it’s traditional Goan preparation, reshado masala. The finished cake is ready to be served and enjoyed.. OCR: . Objects: cake, person."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_43_POMFRET_ROAST_FRY_shot_43_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 55.85,
+        "text": "At 55.85s. Visual: A person prepares a flavorful pizza, likely incorporating spices based on a Goa recipe called reshado masala – perfect for seafood dishes. The video showcases the creation of this versatile dish with an emphasis on its appealing appearance and potential use with various fish.. OCR: . Objects: person, pizza."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_44_POMFRET_ROAST_FRY_shot_44_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 56.92,
+        "text": "At 56.92s. Visual: A television displays a preparation of reshado masala, a flavorful spice blend likely used on seafood. The video shows someone combining ingredients to create a vibrant dish perfect for enhancing fish and shellfish.. OCR: . Objects: tv."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_45_POMFRET_ROAST_FRY_shot_45_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 57.92,
+        "text": "At 57.92s. Visual: A fish fillet is being prepared for a meal, with visible cuts made into the protein. The video focuses on creating a sandwich and possibly serving it with a cake.. OCR: . Objects: cake, sandwich."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_46_POMFRET_ROAST_FRY_shot_46_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 59.0,
+        "text": "At 59.00s. Visual: The video shows someone preparing fish by cutting it into pieces.  A close-up reveals the fresh fish as it's being handled with a knife.. OCR: . Objects: ."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_47_POMFRET_ROAST_FRY_shot_47_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 60.36,
+        "text": "At 60.36s. Visual: A person is shown cutting fish as the first step in a recipe. The focus is on preparing the fish for cooking, highlighting the action of slicing and the appearance of the raw fish.. OCR: Medjuym Flgjrne. Objects: person."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_48_POMFRET_ROAST_FRY_shot_48_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 62.14,
+        "text": "At 62.14s. Visual: The video shows a fillet of fish being carefully cut into pieces, preparing it for further cooking.  A focused close-up highlights the fresh appearance of the fish as it's ready to be transformed.. OCR: . Objects: ."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_49_POMFRET_ROAST_FRY_shot_49_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 63.85,
+        "text": "At 63.85s. Visual: The video shows a fish being cut with a knife, preparing for a sandwich and cake. A bottle and toothbrush are visible in the background as well.. OCR: কাঁচা থেকে যাবে. Objects: bottle, cake, knife, sandwich, toothbrush."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_50_POMFRET_ROAST_FRY_shot_50_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 65.75,
+        "text": "At 65.75s. Visual: The video shows a fish being carefully cut into pieces, preparing it for further cooking. The focus is on the process of dividing the fish to ready it for a dish.. OCR: . Objects: ."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_51_POMFRET_ROAST_FRY_shot_51_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 67.98,
+        "text": "At 67.98s. Visual: A cake is being prepared, with the video focusing on cutting fish as a primary ingredient. The presenter demonstrates how to slice the fish for use in the recipe.. OCR: . Objects: cake."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_52_POMFRET_ROAST_FRY_shot_52_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 69.47,
+        "text": "At 69.47s. Visual: The video shows someone cutting a fish into pieces for preparation. The focus is on demonstrating how to slice the fish, suggesting a dish where the fish will be the main ingredient.. OCR: . Objects: ."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_53_POMFRET_ROAST_FRY_shot_53_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 71.12,
+        "text": "At 71.12s. Visual: A person cuts fish while preparing a cake with a bowl. The video showcases the initial preparation of the fish for baking.. OCR: . Objects: bowl, cake, person."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_54_POMFRET_ROAST_FRY_shot_54_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 72.8,
+        "text": "At 72.80s. Visual: A person cuts fish, preparing it for a recipe. The image shows a bowl with the cut fish as the main ingredient.. OCR: ছোট্ট Iwist. Objects: bowl, person."
+    },
+    {
+        "chunk_id": "POMFRET_ROAST_FRY_shot_55_POMFRET_ROAST_FRY_shot_55_f1",
+        "video_id": "POMFRET_ROAST_FRY",
+        "type": "frame_chunk",
+        "timestamp": 73.55,
+        "text": "At 73.55s. Visual: The video shows someone cutting a fish into pieces, preparing for a culinary dish. The focus is on the precise slicing of the ingredient to achieve the desired food presentation.. OCR: . Objects: ."
+    }
+]

@@ -1,0 +1,443 @@
+[
+    {
+        "chunk_id": "CARAMEL_CUSTARD_summary",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "recipe_summary",
+        "timestamp": 0.0,
+        "text": "Dish: Recipe. Cuisine: Unknown. Ingredients: sugar, milk, eggs, egg yolk, salt, vanilla essence, sugar. Steps: Boil the milk until it reaches a hot, smoky consistency. Whisk together whole eggs and egg yolk until well combined. Slowly pour in hot milk while continuously stirring the mixture. Add a pinch of salt to balance the flavors and incorporate vanilla essence. Melt sugar in a pan over medium heat with salt. Stir the melted sugar consistently to prevent burning. Poke the sugar with a nail to test for caramelization.."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_1_CARAMEL_CUSTARD_shot_1_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 0.65,
+        "text": "At 0.65s. Visual: A person is adding two spoons of sugar to a bowl as it boils, creating a sweet liquid for a simple recipe.. OCR: 2 8. Objects: bowl, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_2_CARAMEL_CUSTARD_shot_2_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 1.56,
+        "text": "At 1.56s. Visual: A person is adding two spoonfuls of sugar to a bowl as they prepare to boil the mixture. The resulting liquid will be sweet and bubbly.. OCR: 2tbs; চিনি. Objects: bowl, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_3_CARAMEL_CUSTARD_shot_3_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 2.37,
+        "text": "At 2.37s. Visual: A person carefully measures two spoons of sugar into a cup as it boils, preparing for a sweet dish. Scissors are visible nearby, suggesting preparation of ingredients.. OCR: 2tbsp চিনি. Objects: cup, person, scissors."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_4_CARAMEL_CUSTARD_shot_4_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 4.18,
+        "text": "At 4.18s. Visual: The video shows someone adding two spoons of sugar to a pot while it’s being boiled, likely preparing a sweet beverage. A cup and vase are visible in the background, suggesting an inviting setting for enjoying the finished product.. OCR: . Objects: cup, vase."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_5_CARAMEL_CUSTARD_shot_5_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 5.97,
+        "text": "At 5.97s. Visual: The video shows someone adding two spoons of sugar to a pot while it’s being boiled – creating a simmering liquid with a sweet aroma.. OCR: . Objects: cup."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_6_CARAMEL_CUSTARD_shot_6_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 7.07,
+        "text": "At 7.07s. Visual: A person adds two spoons of sugar to a pot while boiling the mixture – it’s a simple recipe for something sweet! A spoon rests nearby, alongside a potted plant adding a touch of greenery to the scene.. OCR: . Objects: person, potted plant, spoon."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_7_CARAMEL_CUSTARD_shot_7_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 8.12,
+        "text": "At 8.12s. Visual: A person is boiling a mixture with two eggs and sugar in a bowl. The resulting dish appears to be a sweet liquid, sweetened with two spoons of sugar.. OCR: দুটো গোট] ডিম. Objects: bowl, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_8_CARAMEL_CUSTARD_shot_8_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 9.25,
+        "text": "At 9.25s. Visual: A person dips their hands into steaming hot milk, using a bowl and cup on a dining table alongside one egg yolk. The milk is just heated enough to create a smoky effect.. OCR: একটী ডিমের কুসুম. Objects: bowl, cup, dining table, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_9_CARAMEL_CUSTARD_shot_9_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 10.3,
+        "text": "At 10.30s. Visual: A person dips their hands into a bowl of steaming milk, which begins to smoke as it heats. The hot milk is ready for use on a dining table.. OCR: . Objects: bowl, dining table, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_10_CARAMEL_CUSTARD_shot_10_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 10.98,
+        "text": "At 10.98s. Visual: A person dips their hands into hot milk that begins to smoke, creating a visual effect. The steaming milk is being prepared in a bowl, showcasing its slightly hazy appearance.. OCR: . Objects: bowl, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_11_CARAMEL_CUSTARD_shot_11_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 11.73,
+        "text": "At 11.73s. Visual: A person dips their hands into steaming hot milk, creating a smoky effect as it rises from the bowl. The warm milk is ready to be used in the recipe.. OCR: . Objects: bowl, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_12_CARAMEL_CUSTARD_shot_12_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 13.17,
+        "text": "At 13.17s. Visual: Hot milk is simmering in a bowl, beginning to smoke gently as it heats—a wine glass sits nearby. The mixture appears rich and fragrant, perfect for a delicate culinary process.. OCR: চঢডথ|[. Objects: bowl, wine glass."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_13_CARAMEL_CUSTARD_shot_13_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 15.14,
+        "text": "At 15.14s. Visual: Warm milk gently smokes as it heats in a bowl, while a cup and wine glass sit nearby. The creamy liquid is ready for dipping, promising a rich, fragrant addition to your dish.. OCR: . Objects: bowl, cup, wine glass."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_14_CARAMEL_CUSTARD_shot_14_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 17.02,
+        "text": "At 17.02s. Visual: A person dips their hands into hot milk, causing it to smoke as they prepare a dish. The milky liquid is presented in a bowl with a potted plant visible in the background.. OCR: . Objects: bowl, person, potted plant."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_15_CARAMEL_CUSTARD_shot_15_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 18.25,
+        "text": "At 18.25s. Visual: A person mixes two whole eggs and one egg yolk in a bowl with a wine glass nearby, seasoning lightly with salt. The mixture is being prepared for further cooking, showcasing a smooth, blended consistency.. OCR: একটু নুন. Objects: bowl, person, wine glass."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_16_CARAMEL_CUSTARD_shot_16_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 19.23,
+        "text": "At 19.23s. Visual: A person mixes two whole eggs and one egg yolk in a bowl, creating a creamy mixture ready for further preparation. The ingredients combine smoothly, promising a rich dish.. OCR: . Objects: bowl, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_17_CARAMEL_CUSTARD_shot_17_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 21.04,
+        "text": "At 21.04s. Visual: A person mixes two whole eggs and one egg yolk in a bowl with a fork, preparing a creamy mixture. Slices of orange are visible nearby, suggesting they may be incorporated into the dish.. OCR: . Objects: bowl, fork, orange, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_18_CARAMEL_CUSTARD_shot_18_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 23.35,
+        "text": "At 23.35s. Visual: A person is mixing two whole eggs and one egg yolk in a bowl to create a smooth mixture for the recipe. The resulting combination appears creamy and ready for use in the dish.. OCR: . Objects: bowl, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_19_CARAMEL_CUSTARD_shot_19_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 25.32,
+        "text": "At 25.32s. Visual: In a bowl, whisk together two whole eggs and one egg yolk until well combined – creating a smooth, creamy mixture ready for your recipe. This vibrant yellow mixture will form the base of your dish.. OCR: . Objects: bowl."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_20_CARAMEL_CUSTARD_shot_20_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 26.85,
+        "text": "At 26.85s. Visual: In a bowl, whisk together two whole eggs and one egg yolk to create a rich mixture. This will form the base for a delicious cake.. OCR: . Objects: bowl, cake."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_21_CARAMEL_CUSTARD_shot_21_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 28.37,
+        "text": "At 28.37s. Visual: A person mixes two whole eggs and one egg yolk in a bowl with a quick touch, creating a smooth mixture ready for use. The resulting liquid has a creamy appearance perfect for incorporating into the recipe.. OCR: খোঁচাখুঁচি করলেই. Objects: bowl, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_22_CARAMEL_CUSTARD_shot_22_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 29.66,
+        "text": "At 29.66s. Visual: Milk is slowly incorporated into a whipped mixture while continuously stirring to prevent crystallization and achieve a smooth consistency. The resulting mixture appears light and airy as it's gently mixed.. OCR: cry stalization. Objects: ."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_23_CARAMEL_CUSTARD_shot_23_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 31.34,
+        "text": "At 31.34s. Visual: A person is whisking a bowl of milk with steady motions, gradually adding more liquid as it thickens into a whipped consistency. The creamy mixture appears light and airy as it's stirred.. OCR: . Objects: bowl, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_24_CARAMEL_CUSTARD_shot_24_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 33.44,
+        "text": "At 33.44s. Visual: A sliced apple sits in a bowl as milk is slowly added and stirred, creating a creamy mixture. The visual focuses on the ingredients being incorporated into a smooth consistency.. OCR: ঢuvT. Objects: apple, bowl."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_25_CARAMEL_CUSTARD_shot_25_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 34.95,
+        "text": "At 34.95s. Visual: A bowl of milk is being whisked to create a light and airy mixture as more liquid is gradually added with continuous stirring. The resulting texture will be fluffy and blended, perfect for whatever recipe it’s used in.. OCR: . Objects: bowl."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_26_CARAMEL_CUSTARD_shot_26_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 36.66,
+        "text": "At 36.66s. Visual: In a bowl, milk is being whipped and slowly poured in while continuously stirring to achieve a light consistency. The mixture appears creamy as it's delicately combined.. OCR: এইরকম colour. Objects: bowl."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_27_CARAMEL_CUSTARD_shot_27_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 38.38,
+        "text": "At 38.38s. Visual: A person gently stirs a mixture with water, gradually adding milk while continuing to whisk until it’s light and airy. The resulting dish appears creamy and smooth as it's being prepared.. OCR: একটু জল. Objects: person, toilet."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_28_CARAMEL_CUSTARD_shot_28_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 39.3,
+        "text": "At 39.30s. Visual: In this creamy recipe, gently whisk the mixture as milk is slowly added, ensuring it's light and airy with a smooth consistency. Continue stirring until the desired whipped texture is achieved.. OCR: নাড়ান. Objects: ."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_29_CARAMEL_CUSTARD_shot_29_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 40.07,
+        "text": "At 40.07s. Visual: Apples are being stirred into a bowl as more liquid is poured in, creating a smooth mixture. The ingredients blend together while continuously stirred.. OCR: গ্যাস বন্ধ. Objects: apple, bowl."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_30_CARAMEL_CUSTARD_shot_30_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 41.2,
+        "text": "At 41.20s. Visual: A bowl of ingredients is being continuously stirred while more is added to create a creamy mixture. The video shows the ongoing process of mixing and incorporating additional elements into the dish.. OCR: ready. Objects: bowl."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_31_CARAMEL_CUSTARD_shot_31_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 42.81,
+        "text": "At 42.81s. Visual: Someone is steadily pouring and stirring a liquid into a bowl, likely creating a sauce or mixture with wine and perhaps other ingredients from a cup and glass nearby. The food appears to be thickening as it's continuously mixed.. OCR: . Objects: bowl, cup, wine glass."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_32_CARAMEL_CUSTARD_shot_32_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 44.25,
+        "text": "At 44.25s. Visual: A wine glass is being used to add liquid while stirring a mixture, likely creating a smooth sauce as it continues to pour. The focus is on the ongoing cooking process with visual cues of ingredients and utensils.. OCR: . Objects: cup, wine glass."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_33_CARAMEL_CUSTARD_shot_33_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 45.3,
+        "text": "At 45.30s. Visual: A person is steadily pouring and stirring a liquid into a bowl, likely creating a smooth sauce or mixture as it cooks. The scene focuses on the action of adding ingredients to the food with a cup and spoon.. OCR: . Objects: cup, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_34_CARAMEL_CUSTARD_shot_34_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 46.25,
+        "text": "At 46.25s. Visual: A person stirs a mixture in a bowl while pouring it from a cup onto a dining table, creating a creamy dish. The video shows continuous stirring and pouring action as the ingredients blend together.. OCR: )95} দু মিনিটে. Objects: bowl, cup, dining table, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_35_CARAMEL_CUSTARD_shot_35_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 47.17,
+        "text": "At 47.17s. Visual: A person is pouring and stirring scrambled eggs into a cup while seated at a dining table. The smooth, creamy eggs are being mixed as they cook.. OCR: scramel শক্ত. Objects: cup, dining table, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_36_CARAMEL_CUSTARD_shot_36_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 48.22,
+        "text": "At 48.22s. Visual: A person uses two hands to mix ingredients in a bowl, creating a dish that appears ready for serving on a dining table. The focus is on the action of combining the elements with both hands.. OCR: . Objects: bowl, dining table, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_37_CARAMEL_CUSTARD_shot_37_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 49.8,
+        "text": "At 49.80s. Visual: Two hands work together to expertly prepare a dish, utilizing a cup and wine glass for ingredients while showcasing a finished product. The focus is on coordinated movements and the visual appeal of the food.. OCR: . Objects: cup, vase, wine glass."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_38_CARAMEL_CUSTARD_shot_38_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 51.11,
+        "text": "At 51.11s. Visual: A person is carefully working with a cup and utensils to prepare something delicious at a dining table, ensuring neither hand pauses during the process. The finished dish appears ready for serving alongside a potted plant.. OCR: . Objects: cup, dining table, person, potted plant."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_39_CARAMEL_CUSTARD_shot_39_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 51.77,
+        "text": "At 51.77s. Visual: A person uses two hands to stir a bowl of ingredients while preparing something in the video. The finished dish appears ready for serving.. OCR: . Objects: bowl, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_40_CARAMEL_CUSTARD_shot_40_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 52.44,
+        "text": "At 52.44s. Visual: A person is preparing a banana with two hands, emphasizing continuous movement in the kitchen. The focus is on the simple act of handling the fruit as an ingredient.. OCR: ] ]01] J j=gjsjjgble. Objects: banana, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_41_CARAMEL_CUSTARD_shot_41_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 53.05,
+        "text": "At 53.05s. Visual: A person skillfully moves ingredients with both hands while preparing a dish, ensuring neither hand pauses during the cooking process to achieve an appealing final result. The focus is on careful preparation and presentation of the food.. OCR: Non Negiiglble. Objects: person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_42_CARAMEL_CUSTARD_shot_42_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 54.25,
+        "text": "At 54.25s. Visual: A person uses a keyboard while preparing an ingredient, ensuring neither hand pauses during the mixing process to create a visually appealing dish. The finished food appears ready for serving.. OCR: . Objects: keyboard, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_43_CARAMEL_CUSTARD_shot_43_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 56.1,
+        "text": "At 56.10s. Visual: A person mixes vanilla essence and salt into a creamy mixture, preparing caramel alongside – the resulting dessert will be delicately flavored and subtly sweet. The ingredients are combined in a bowl, with the goal of creating a smooth and cool confection.. OCR: . Objects: dining table, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_44_CARAMEL_CUSTARD_shot_44_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 57.52,
+        "text": "At 57.52s. Visual: A person mixes vanilla essence and salt with a small amount of caramel, creating a sweet and balanced treat that’s ready to cool. The video shows careful mixing to ensure all ingredients are well combined.. OCR: . Objects: person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_45_CARAMEL_CUSTARD_shot_45_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 58.31,
+        "text": "At 58.31s. Visual: A person mixes vanilla essence and salt in a bowl, preparing a caramel sauce with careful attention to balance the flavors. The mixture is gently stirred while cooling slightly for a smooth finish.. OCR: . Objects: chair, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_46_CARAMEL_CUSTARD_shot_46_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 59.5,
+        "text": "At 59.50s. Visual: A person carefully adds salt and vanilla essence to a mixture, stirring gently as they prepare a caramel sauce – the resulting dessert will be subtly sweet and balanced in appearance.. OCR: 30 থেকে. Objects: person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_47_CARAMEL_CUSTARD_shot_47_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 60.75,
+        "text": "At 60.75s. Visual: A person mixes vanilla essence and salt into a bowl with a cup nearby, preparing a sweet treat that will cool slightly before creating caramel. The visual shows ingredients being combined for a balanced flavor profile.. OCR: . Objects: bowl, cup, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_48_CARAMEL_CUSTARD_shot_48_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 61.65,
+        "text": "At 61.65s. Visual: A person carefully mixes vanilla essence and salt with a small amount of cooling caramel, creating a sweet and balanced treat. The mixture is gently stirred to ensure everything is well combined before it sets.. OCR: . Objects: person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_49_CARAMEL_CUSTARD_shot_49_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 62.53,
+        "text": "At 62.53s. Visual: A person mixes vanilla essence and salt into a bowl, then prepares caramel. The mixture cools slightly as it’s created for a sweet treat.. OCR: . Objects: bowl, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_50_CARAMEL_CUSTARD_shot_50_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 63.53,
+        "text": "At 63.53s. Visual: A person is melting sugar in a pan over gas, adding salt and creating a shimmering, golden syrup. The scene captures the transformation of granulated sugar into a smooth liquid with a glistening appearance.. OCR: . Objects: person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_51_CARAMEL_CUSTARD_shot_51_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 64.9,
+        "text": "At 64.90s. Visual: A person melts sugar in a pan over gas, adding salt to create a shimmering base for a sweet treat. The mixture is set on a dining table with a bowl nearby.. OCR: . Objects: bowl, dining table, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_52_CARAMEL_CUSTARD_shot_52_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 66.48,
+        "text": "At 66.48s. Visual: A person adds sugar and salt to a pan over gas, melting the sugar for a sweet treat. The video shows the process of cooking with a cup nearby.. OCR: নিজের tooibpick ছাডা. Objects: cup, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_53_CARAMEL_CUSTARD_shot_53_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 67.9,
+        "text": "At 67.90s. Visual: A person melts sugar in a pan over an open flame, adding salt to create a glistening base for a sweet treat. The process is set against a dining table with a bowl and cup nearby.. OCR: . Objects: bowl, cup, dining table, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_54_CARAMEL_CUSTARD_shot_54_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 68.84,
+        "text": "At 68.84s. Visual: A person melts sugar in a pan over gas, adding salt to create a glistening mixture. The scene is set with a bowl and cup on a dining table.. OCR: এরকম clean. Objects: bowl, cup, dining table, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_55_CARAMEL_CUSTARD_shot_55_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 69.62,
+        "text": "At 69.62s. Visual: A person is melting sugar in a pan over gas, adding salt to create a sweet mixture for a recipe. The cooking action takes place on a dining table with a cell phone nearby.. OCR: finisl এসছে. Objects: cell phone, dining table, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_56_CARAMEL_CUSTARD_shot_56_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 70.38,
+        "text": "At 70.38s. Visual: A person melts sugar in a pan over gas, adding salt to create a sweet mixture. The scene unfolds on a dining table with a bowl nearby, suggesting a simple dessert preparation.. OCR: . Objects: bowl, dining table, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_57_CARAMEL_CUSTARD_shot_57_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 71.22,
+        "text": "At 71.22s. Visual: A person is shown poking an unseen item with a nail, likely preparing a small portion of food. The scene includes a dining table and a potted plant in the background, suggesting a casual meal setting.. OCR: . Objects: dining table, person, potted plant."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_58_CARAMEL_CUSTARD_shot_58_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 72.05,
+        "text": "At 72.05s. Visual: A person uses a nail to poke an unidentifiable item, likely testing its firmness. The resulting visual focuses on the action of probing with a nail, suggesting a potential ingredient or food being assessed.. OCR: . Objects: person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_59_CARAMEL_CUSTARD_shot_59_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 72.9,
+        "text": "At 72.90s. Visual: A person is examining a cake’s texture with a nail, suggesting it's ready to be served. The cake sits alongside a potted plant in the background.. OCR: এটার fexture. Objects: cake, person, potted plant."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_60_CARAMEL_CUSTARD_shot_60_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 74.55,
+        "text": "At 74.55s. Visual: A person is testing a cake's doneness with a nail, suggesting it’s likely ready for serving on a dining table. The finished cake appears moist and appealing.. OCR: . Objects: cake, dining table, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_61_CARAMEL_CUSTARD_shot_61_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 76.63,
+        "text": "At 76.63s. Visual: A person pokes a cake with a nail to lighten its texture. The finished cake sits on a dining table.. OCR: fO make it lighter. Objects: cake, dining table, person."
+    },
+    {
+        "chunk_id": "CARAMEL_CUSTARD_shot_62_CARAMEL_CUSTARD_shot_62_f1",
+        "video_id": "CARAMEL_CUSTARD",
+        "type": "frame_chunk",
+        "timestamp": 78.25,
+        "text": "At 78.25s. Visual: A person checks for cake doneness by poking it with a nail. The video shows a finished cake as the final step of the cooking process.. OCR: . Objects: cake, person."
+    }
+]

@@ -1,0 +1,3484 @@
+{
+    "video_info": {
+        "video_id": "POMFRET_ROAST_FRY",
+        "video_name": "POMFRET_ROAST_FRY.mp4",
+        "title": "Pomfret Roast Fry",
+        "category": "Cooking",
+        "language": "Bengali",
+        "creator": "Debisha",
+        "duration": 73.7,
+        "fps": 30.0,
+        "width": 480,
+        "height": 796,
+        "total_frames": 2211,
+        "file_size": "15.92 MB",
+        "video_path": "data/videos/POMFRET_ROAST_FRY.mp4"
+    },
+    "recipe_information": {
+        "dish_type": "Recipe",
+        "ingredients": [
+            "kashmiri chillies",
+            "whole garlic",
+            "whole ginger",
+            "whole cumin",
+            "coconut flour",
+            "dry coconut",
+            "khokra",
+            "sugar",
+            "jaggery",
+            "tamarind",
+            "dry kokum",
+            "turmeric",
+            "salt",
+            "fish"
+        ],
+        "estimated_steps": [
+            "Combine the dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin, and coconut flour in a mixer.",
+            "Process the mixture until it forms a smooth paste.",
+            "Add coconut flour, sugar, jaggery, tamarind, kokum, turmeric, and salt to the paste.",
+            "Mix all ingredients thoroughly until well combined.",
+            "Cut the fish into desired pieces for cooking.",
+            "Prepare the masala according to the recipe instructions.",
+            "Heat the prepared masala in a pan over medium heat.",
+            "Stir frequently to ensure even distribution of flavors and prevent burning."
+        ],
+        "cuisine": "Goan",
+        "tags": [
+            "masala",
+            "fish",
+            "spice blend",
+            "seafood",
+            "Goan cuisine",
+            "tamarind"
+        ]
+    },
+    "audio_information": {
+        "transcript_bn": "ভেরিয়েশন আছে। আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি। প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব। গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড। আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+        "transcript_en": "There are variations. We are making the masala a bit Goan style. First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it in a mixer and add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally dry kokum, and a little turmeric and salt. In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food. Well, this time take the fish and cut it like this first",
+        "timestamps": [
+            {
+                "start": 0.0,
+                "end": 4.0,
+                "text_bn": "ভেরিয়েশন আছে",
+                "text_en": "There are variations"
+            },
+            {
+                "start": 0.0,
+                "end": 5.43,
+                "text_bn": "ভেরিয়েশন আছে",
+                "text_en": "There are variations"
+            },
+            {
+                "start": 2.7,
+                "end": 6.43,
+                "text_bn": "ভেরিয়েশন আছে",
+                "text_en": "There are variations"
+            },
+            {
+                "start": 4.0,
+                "end": 7.2,
+                "text_bn": "ভেরিয়েশন আছে",
+                "text_en": "There are variations"
+            },
+            {
+                "start": 5.43,
+                "end": 9.5,
+                "text_bn": "ভেরিয়েশন আছে",
+                "text_en": "There are variations"
+            },
+            {
+                "start": 6.43,
+                "end": 12.17,
+                "text_bn": "ভেরিয়েশন আছে",
+                "text_en": "There are variations"
+            },
+            {
+                "start": 7.2,
+                "end": 13.97,
+                "text_bn": "ভেরিয়েশন আছে",
+                "text_en": "There are variations"
+            },
+            {
+                "start": 9.5,
+                "end": 15.3,
+                "text_bn": "ভেরিয়েশন আছে",
+                "text_en": "There are variations"
+            },
+            {
+                "start": 12.17,
+                "end": 16.4,
+                "text_bn": "ভেরিয়েশন আছে",
+                "text_en": "There are variations"
+            },
+            {
+                "start": 13.97,
+                "end": 18.13,
+                "text_bn": "ভেরিয়েশন আছে",
+                "text_en": "There are variations"
+            },
+            {
+                "start": 15.3,
+                "end": 19.53,
+                "text_bn": "ভেরিয়েশন আছে",
+                "text_en": "There are variations"
+            },
+            {
+                "start": 16.4,
+                "end": 20.57,
+                "text_bn": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+                "text_en": "We are making the masala a bit Goan style"
+            },
+            {
+                "start": 18.13,
+                "end": 21.87,
+                "text_bn": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+                "text_en": "We are making the masala a bit Goan style"
+            },
+            {
+                "start": 19.53,
+                "end": 22.73,
+                "text_bn": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+                "text_en": "We are making the masala a bit Goan style"
+            },
+            {
+                "start": 20.57,
+                "end": 26.5,
+                "text_bn": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+                "text_en": "We are making the masala a bit Goan style"
+            },
+            {
+                "start": 21.87,
+                "end": 27.43,
+                "text_bn": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+                "text_en": "We are making the masala a bit Goan style"
+            },
+            {
+                "start": 22.73,
+                "end": 28.37,
+                "text_bn": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+                "text_en": "We are making the masala a bit Goan style"
+            },
+            {
+                "start": 26.5,
+                "end": 29.8,
+                "text_bn": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+                "text_en": "We are making the masala a bit Goan style"
+            },
+            {
+                "start": 27.43,
+                "end": 30.73,
+                "text_bn": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+                "text_en": "We are making the masala a bit Goan style"
+            },
+            {
+                "start": 28.37,
+                "end": 31.6,
+                "text_bn": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+                "text_en": "We are making the masala a bit Goan style"
+            },
+            {
+                "start": 29.8,
+                "end": 32.3,
+                "text_bn": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+                "text_en": "We are making the masala a bit Goan style"
+            },
+            {
+                "start": 30.73,
+                "end": 33.03,
+                "text_bn": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+                "text_en": "We are making the masala a bit Goan style"
+            },
+            {
+                "start": 31.6,
+                "end": 33.57,
+                "text_bn": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+                "text_en": "First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it and put it in a mixer, add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally but also dry kokum, and grind it with a little turmeric and salt."
+            },
+            {
+                "start": 32.3,
+                "end": 34.33,
+                "text_bn": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+                "text_en": "First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it and put it in a mixer, add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally but also dry kokum, and grind it with a little turmeric and salt."
+            },
+            {
+                "start": 33.03,
+                "end": 35.03,
+                "text_bn": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+                "text_en": "First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it and put it in a mixer, add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally but also dry kokum, and grind it with a little turmeric and salt."
+            },
+            {
+                "start": 33.57,
+                "end": 36.17,
+                "text_bn": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+                "text_en": "First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it and put it in a mixer, add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally but also dry kokum, and grind it with a little turmeric and salt."
+            },
+            {
+                "start": 34.33,
+                "end": 36.87,
+                "text_bn": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+                "text_en": "First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it and put it in a mixer, add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally but also dry kokum, and grind it with a little turmeric and salt."
+            },
+            {
+                "start": 35.03,
+                "end": 38.03,
+                "text_bn": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+                "text_en": "First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it and put it in a mixer, add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally but also dry kokum, and grind it with a little turmeric and salt."
+            },
+            {
+                "start": 36.17,
+                "end": 38.77,
+                "text_bn": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+                "text_en": "First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it and put it in a mixer, add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally but also dry kokum, and grind it with a little turmeric and salt."
+            },
+            {
+                "start": 36.87,
+                "end": 40.0,
+                "text_bn": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+                "text_en": "First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it and put it in a mixer, add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally but also dry kokum, and grind it with a little turmeric and salt."
+            },
+            {
+                "start": 38.03,
+                "end": 42.37,
+                "text_bn": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+                "text_en": "First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it and put it in a mixer, add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally but also dry kokum, and grind it with a little turmeric and salt."
+            },
+            {
+                "start": 38.77,
+                "end": 43.7,
+                "text_bn": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+                "text_en": "First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it and put it in a mixer, add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally but also dry kokum, and grind it with a little turmeric and salt."
+            },
+            {
+                "start": 40.0,
+                "end": 44.83,
+                "text_bn": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+                "text_en": "First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it and put it in a mixer, add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally but also dry kokum, and grind it with a little turmeric and salt."
+            },
+            {
+                "start": 42.37,
+                "end": 45.6,
+                "text_bn": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+                "text_en": "In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food."
+            },
+            {
+                "start": 43.7,
+                "end": 46.93,
+                "text_bn": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+                "text_en": "In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food."
+            },
+            {
+                "start": 44.83,
+                "end": 48.37,
+                "text_bn": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+                "text_en": "In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food."
+            },
+            {
+                "start": 45.6,
+                "end": 51.0,
+                "text_bn": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+                "text_en": "In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food."
+            },
+            {
+                "start": 46.93,
+                "end": 52.2,
+                "text_bn": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+                "text_en": "In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food."
+            },
+            {
+                "start": 48.37,
+                "end": 52.97,
+                "text_bn": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+                "text_en": "In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food."
+            },
+            {
+                "start": 51.0,
+                "end": 53.63,
+                "text_bn": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+                "text_en": "In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food."
+            },
+            {
+                "start": 52.2,
+                "end": 55.43,
+                "text_bn": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+                "text_en": "In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food."
+            },
+            {
+                "start": 52.97,
+                "end": 56.27,
+                "text_bn": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+                "text_en": "In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food."
+            },
+            {
+                "start": 53.63,
+                "end": 57.57,
+                "text_bn": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+                "text_en": "In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food."
+            },
+            {
+                "start": 55.43,
+                "end": 58.27,
+                "text_bn": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+                "text_en": "In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food."
+            },
+            {
+                "start": 56.27,
+                "end": 59.73,
+                "text_bn": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+                "text_en": "Well, this time take the fish and cut it like this first"
+            },
+            {
+                "start": 57.57,
+                "end": 61.0,
+                "text_bn": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+                "text_en": "Well, this time take the fish and cut it like this first"
+            },
+            {
+                "start": 58.27,
+                "end": 63.27,
+                "text_bn": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+                "text_en": "Well, this time take the fish and cut it like this first"
+            },
+            {
+                "start": 59.73,
+                "end": 64.43,
+                "text_bn": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+                "text_en": "Well, this time take the fish and cut it like this first"
+            },
+            {
+                "start": 61.0,
+                "end": 67.07,
+                "text_bn": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+                "text_en": "Well, this time take the fish and cut it like this first"
+            },
+            {
+                "start": 63.27,
+                "end": 68.9,
+                "text_bn": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+                "text_en": "Well, this time take the fish and cut it like this first"
+            },
+            {
+                "start": 64.43,
+                "end": 70.03,
+                "text_bn": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+                "text_en": "Well, this time take the fish and cut it like this first"
+            },
+            {
+                "start": 67.07,
+                "end": 72.2,
+                "text_bn": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+                "text_en": "Well, this time take the fish and cut it like this first"
+            },
+            {
+                "start": 68.9,
+                "end": 73.4,
+                "text_bn": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+                "text_en": "Well, this time take the fish and cut it like this first"
+            },
+            {
+                "start": 70.03,
+                "end": 73.7,
+                "text_bn": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+                "text_en": "Well, this time take the fish and cut it like this first"
+            },
+            {
+                "start": 72.2,
+                "end": 73.7,
+                "text_bn": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+                "text_en": "Well, this time take the fish and cut it like this first"
+            }
+        ]
+    },
+    "shot_information": [
+        {
+            "shot_id": "shot_1",
+            "start_time": 0.0,
+            "end_time": 2.7,
+            "duration": 2.7,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_1.jpg",
+            "audio_text": "ভেরিয়েশন আছে",
+            "audio_text_bn": "ভেরিয়েশন আছে",
+            "audio_text_en": "There are variations"
+        },
+        {
+            "shot_id": "shot_2",
+            "start_time": 2.7,
+            "end_time": 4.0,
+            "duration": 1.3,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_2.jpg",
+            "audio_text": "ভেরিয়েশন আছে",
+            "audio_text_bn": "ভেরিয়েশন আছে",
+            "audio_text_en": "There are variations"
+        },
+        {
+            "shot_id": "shot_3",
+            "start_time": 4.0,
+            "end_time": 5.43,
+            "duration": 1.43,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_3.jpg",
+            "audio_text": "ভেরিয়েশন আছে",
+            "audio_text_bn": "ভেরিয়েশন আছে",
+            "audio_text_en": "There are variations"
+        },
+        {
+            "shot_id": "shot_4",
+            "start_time": 5.43,
+            "end_time": 6.43,
+            "duration": 1.0,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_4.jpg",
+            "audio_text": "ভেরিয়েশন আছে",
+            "audio_text_bn": "ভেরিয়েশন আছে",
+            "audio_text_en": "There are variations"
+        },
+        {
+            "shot_id": "shot_5",
+            "start_time": 6.43,
+            "end_time": 7.2,
+            "duration": 0.77,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_5.jpg",
+            "audio_text": "ভেরিয়েশন আছে",
+            "audio_text_bn": "ভেরিয়েশন আছে",
+            "audio_text_en": "There are variations"
+        },
+        {
+            "shot_id": "shot_6",
+            "start_time": 7.2,
+            "end_time": 9.5,
+            "duration": 2.3,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_6.jpg",
+            "audio_text": "ভেরিয়েশন আছে",
+            "audio_text_bn": "ভেরিয়েশন আছে",
+            "audio_text_en": "There are variations"
+        },
+        {
+            "shot_id": "shot_7",
+            "start_time": 9.5,
+            "end_time": 12.17,
+            "duration": 2.67,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_7.jpg",
+            "audio_text": "ভেরিয়েশন আছে",
+            "audio_text_bn": "ভেরিয়েশন আছে",
+            "audio_text_en": "There are variations"
+        },
+        {
+            "shot_id": "shot_8",
+            "start_time": 12.17,
+            "end_time": 13.97,
+            "duration": 1.8,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_8.jpg",
+            "audio_text": "ভেরিয়েশন আছে",
+            "audio_text_bn": "ভেরিয়েশন আছে",
+            "audio_text_en": "There are variations"
+        },
+        {
+            "shot_id": "shot_9",
+            "start_time": 13.97,
+            "end_time": 15.3,
+            "duration": 1.33,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_9.jpg",
+            "audio_text": "ভেরিয়েশন আছে",
+            "audio_text_bn": "ভেরিয়েশন আছে",
+            "audio_text_en": "There are variations"
+        },
+        {
+            "shot_id": "shot_10",
+            "start_time": 15.3,
+            "end_time": 16.4,
+            "duration": 1.1,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_10.jpg",
+            "audio_text": "ভেরিয়েশন আছে",
+            "audio_text_bn": "ভেরিয়েশন আছে",
+            "audio_text_en": "There are variations"
+        },
+        {
+            "shot_id": "shot_11",
+            "start_time": 16.4,
+            "end_time": 18.13,
+            "duration": 1.73,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_11.jpg",
+            "audio_text": "ভেরিয়েশন আছে",
+            "audio_text_bn": "ভেরিয়েশন আছে",
+            "audio_text_en": "There are variations"
+        },
+        {
+            "shot_id": "shot_12",
+            "start_time": 18.13,
+            "end_time": 19.53,
+            "duration": 1.4,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_12.jpg",
+            "audio_text": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+            "audio_text_bn": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+            "audio_text_en": "We are making the masala a bit Goan style"
+        },
+        {
+            "shot_id": "shot_13",
+            "start_time": 19.53,
+            "end_time": 20.57,
+            "duration": 1.04,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_13.jpg",
+            "audio_text": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+            "audio_text_bn": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+            "audio_text_en": "We are making the masala a bit Goan style"
+        },
+        {
+            "shot_id": "shot_14",
+            "start_time": 20.57,
+            "end_time": 21.87,
+            "duration": 1.3,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_14.jpg",
+            "audio_text": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+            "audio_text_bn": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+            "audio_text_en": "We are making the masala a bit Goan style"
+        },
+        {
+            "shot_id": "shot_15",
+            "start_time": 21.87,
+            "end_time": 22.73,
+            "duration": 0.86,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_15.jpg",
+            "audio_text": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+            "audio_text_bn": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+            "audio_text_en": "We are making the masala a bit Goan style"
+        },
+        {
+            "shot_id": "shot_16",
+            "start_time": 22.73,
+            "end_time": 26.5,
+            "duration": 3.77,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_16.jpg",
+            "audio_text": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+            "audio_text_bn": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+            "audio_text_en": "We are making the masala a bit Goan style"
+        },
+        {
+            "shot_id": "shot_17",
+            "start_time": 26.5,
+            "end_time": 27.43,
+            "duration": 0.93,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_17.jpg",
+            "audio_text": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+            "audio_text_bn": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+            "audio_text_en": "We are making the masala a bit Goan style"
+        },
+        {
+            "shot_id": "shot_18",
+            "start_time": 27.43,
+            "end_time": 28.37,
+            "duration": 0.94,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_18.jpg",
+            "audio_text": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+            "audio_text_bn": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+            "audio_text_en": "We are making the masala a bit Goan style"
+        },
+        {
+            "shot_id": "shot_19",
+            "start_time": 28.37,
+            "end_time": 29.8,
+            "duration": 1.43,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_19.jpg",
+            "audio_text": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+            "audio_text_bn": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+            "audio_text_en": "We are making the masala a bit Goan style"
+        },
+        {
+            "shot_id": "shot_20",
+            "start_time": 29.8,
+            "end_time": 30.73,
+            "duration": 0.93,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_20.jpg",
+            "audio_text": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+            "audio_text_bn": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+            "audio_text_en": "We are making the masala a bit Goan style"
+        },
+        {
+            "shot_id": "shot_21",
+            "start_time": 30.73,
+            "end_time": 31.6,
+            "duration": 0.87,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_21.jpg",
+            "audio_text": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+            "audio_text_bn": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+            "audio_text_en": "We are making the masala a bit Goan style"
+        },
+        {
+            "shot_id": "shot_22",
+            "start_time": 31.6,
+            "end_time": 32.3,
+            "duration": 0.7,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_22.jpg",
+            "audio_text": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+            "audio_text_bn": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+            "audio_text_en": "We are making the masala a bit Goan style"
+        },
+        {
+            "shot_id": "shot_23",
+            "start_time": 32.3,
+            "end_time": 33.03,
+            "duration": 0.73,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_23.jpg",
+            "audio_text": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+            "audio_text_bn": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+            "audio_text_en": "First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it and put it in a mixer, add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally but also dry kokum, and grind it with a little turmeric and salt."
+        },
+        {
+            "shot_id": "shot_24",
+            "start_time": 33.03,
+            "end_time": 33.57,
+            "duration": 0.54,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_24.jpg",
+            "audio_text": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+            "audio_text_bn": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+            "audio_text_en": "First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it and put it in a mixer, add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally but also dry kokum, and grind it with a little turmeric and salt."
+        },
+        {
+            "shot_id": "shot_25",
+            "start_time": 33.57,
+            "end_time": 34.33,
+            "duration": 0.76,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_25.jpg",
+            "audio_text": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+            "audio_text_bn": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+            "audio_text_en": "First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it and put it in a mixer, add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally but also dry kokum, and grind it with a little turmeric and salt."
+        },
+        {
+            "shot_id": "shot_26",
+            "start_time": 34.33,
+            "end_time": 35.03,
+            "duration": 0.7,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_26.jpg",
+            "audio_text": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+            "audio_text_bn": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+            "audio_text_en": "First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it and put it in a mixer, add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally but also dry kokum, and grind it with a little turmeric and salt."
+        },
+        {
+            "shot_id": "shot_27",
+            "start_time": 35.03,
+            "end_time": 36.17,
+            "duration": 1.14,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_27.jpg",
+            "audio_text": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+            "audio_text_bn": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+            "audio_text_en": "First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it and put it in a mixer, add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally but also dry kokum, and grind it with a little turmeric and salt."
+        },
+        {
+            "shot_id": "shot_28",
+            "start_time": 36.17,
+            "end_time": 36.87,
+            "duration": 0.7,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_28.jpg",
+            "audio_text": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+            "audio_text_bn": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+            "audio_text_en": "First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it and put it in a mixer, add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally but also dry kokum, and grind it with a little turmeric and salt."
+        },
+        {
+            "shot_id": "shot_29",
+            "start_time": 36.87,
+            "end_time": 38.03,
+            "duration": 1.16,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_29.jpg",
+            "audio_text": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+            "audio_text_bn": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+            "audio_text_en": "First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it and put it in a mixer, add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally but also dry kokum, and grind it with a little turmeric and salt."
+        },
+        {
+            "shot_id": "shot_30",
+            "start_time": 38.03,
+            "end_time": 38.77,
+            "duration": 0.74,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_30.jpg",
+            "audio_text": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+            "audio_text_bn": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+            "audio_text_en": "First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it and put it in a mixer, add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally but also dry kokum, and grind it with a little turmeric and salt."
+        },
+        {
+            "shot_id": "shot_31",
+            "start_time": 38.77,
+            "end_time": 40.0,
+            "duration": 1.23,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_31.jpg",
+            "audio_text": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+            "audio_text_bn": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+            "audio_text_en": "First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it and put it in a mixer, add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally but also dry kokum, and grind it with a little turmeric and salt."
+        },
+        {
+            "shot_id": "shot_32",
+            "start_time": 40.0,
+            "end_time": 42.37,
+            "duration": 2.37,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_32.jpg",
+            "audio_text": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+            "audio_text_bn": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+            "audio_text_en": "First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it and put it in a mixer, add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally but also dry kokum, and grind it with a little turmeric and salt."
+        },
+        {
+            "shot_id": "shot_33",
+            "start_time": 42.37,
+            "end_time": 43.7,
+            "duration": 1.33,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_33.jpg",
+            "audio_text": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+            "audio_text_bn": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+            "audio_text_en": "First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it and put it in a mixer, add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally but also dry kokum, and grind it with a little turmeric and salt."
+        },
+        {
+            "shot_id": "shot_34",
+            "start_time": 43.7,
+            "end_time": 44.83,
+            "duration": 1.13,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_34.jpg",
+            "audio_text": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+            "audio_text_bn": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+            "audio_text_en": "In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food."
+        },
+        {
+            "shot_id": "shot_35",
+            "start_time": 44.83,
+            "end_time": 45.6,
+            "duration": 0.77,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_35.jpg",
+            "audio_text": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+            "audio_text_bn": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+            "audio_text_en": "In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food."
+        },
+        {
+            "shot_id": "shot_36",
+            "start_time": 45.6,
+            "end_time": 46.93,
+            "duration": 1.33,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_36.jpg",
+            "audio_text": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+            "audio_text_bn": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+            "audio_text_en": "In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food."
+        },
+        {
+            "shot_id": "shot_37",
+            "start_time": 46.93,
+            "end_time": 48.37,
+            "duration": 1.44,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_37.jpg",
+            "audio_text": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+            "audio_text_bn": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+            "audio_text_en": "In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food."
+        },
+        {
+            "shot_id": "shot_38",
+            "start_time": 48.37,
+            "end_time": 51.0,
+            "duration": 2.63,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_38.jpg",
+            "audio_text": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+            "audio_text_bn": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+            "audio_text_en": "In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food."
+        },
+        {
+            "shot_id": "shot_39",
+            "start_time": 51.0,
+            "end_time": 52.2,
+            "duration": 1.2,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_39.jpg",
+            "audio_text": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+            "audio_text_bn": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+            "audio_text_en": "In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food."
+        },
+        {
+            "shot_id": "shot_40",
+            "start_time": 52.2,
+            "end_time": 52.97,
+            "duration": 0.77,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_40.jpg",
+            "audio_text": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+            "audio_text_bn": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+            "audio_text_en": "In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food."
+        },
+        {
+            "shot_id": "shot_41",
+            "start_time": 52.97,
+            "end_time": 53.63,
+            "duration": 0.66,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_41.jpg",
+            "audio_text": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+            "audio_text_bn": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+            "audio_text_en": "In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food."
+        },
+        {
+            "shot_id": "shot_42",
+            "start_time": 53.63,
+            "end_time": 55.43,
+            "duration": 1.8,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_42.jpg",
+            "audio_text": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+            "audio_text_bn": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+            "audio_text_en": "In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food."
+        },
+        {
+            "shot_id": "shot_43",
+            "start_time": 55.43,
+            "end_time": 56.27,
+            "duration": 0.84,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_43.jpg",
+            "audio_text": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+            "audio_text_bn": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+            "audio_text_en": "In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food."
+        },
+        {
+            "shot_id": "shot_44",
+            "start_time": 56.27,
+            "end_time": 57.57,
+            "duration": 1.3,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_44.jpg",
+            "audio_text": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+            "audio_text_bn": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+            "audio_text_en": "In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food."
+        },
+        {
+            "shot_id": "shot_45",
+            "start_time": 57.57,
+            "end_time": 58.27,
+            "duration": 0.7,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_45.jpg",
+            "audio_text": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+            "audio_text_bn": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+            "audio_text_en": "Well, this time take the fish and cut it like this first"
+        },
+        {
+            "shot_id": "shot_46",
+            "start_time": 58.27,
+            "end_time": 59.73,
+            "duration": 1.46,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_46.jpg",
+            "audio_text": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+            "audio_text_bn": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+            "audio_text_en": "Well, this time take the fish and cut it like this first"
+        },
+        {
+            "shot_id": "shot_47",
+            "start_time": 59.73,
+            "end_time": 61.0,
+            "duration": 1.27,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_47.jpg",
+            "audio_text": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+            "audio_text_bn": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+            "audio_text_en": "Well, this time take the fish and cut it like this first"
+        },
+        {
+            "shot_id": "shot_48",
+            "start_time": 61.0,
+            "end_time": 63.27,
+            "duration": 2.27,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_48.jpg",
+            "audio_text": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+            "audio_text_bn": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+            "audio_text_en": "Well, this time take the fish and cut it like this first"
+        },
+        {
+            "shot_id": "shot_49",
+            "start_time": 63.27,
+            "end_time": 64.43,
+            "duration": 1.16,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_49.jpg",
+            "audio_text": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+            "audio_text_bn": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+            "audio_text_en": "Well, this time take the fish and cut it like this first"
+        },
+        {
+            "shot_id": "shot_50",
+            "start_time": 64.43,
+            "end_time": 67.07,
+            "duration": 2.64,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_50.jpg",
+            "audio_text": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+            "audio_text_bn": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+            "audio_text_en": "Well, this time take the fish and cut it like this first"
+        },
+        {
+            "shot_id": "shot_51",
+            "start_time": 67.07,
+            "end_time": 68.9,
+            "duration": 1.83,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_51.jpg",
+            "audio_text": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+            "audio_text_bn": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+            "audio_text_en": "Well, this time take the fish and cut it like this first"
+        },
+        {
+            "shot_id": "shot_52",
+            "start_time": 68.9,
+            "end_time": 70.03,
+            "duration": 1.13,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_52.jpg",
+            "audio_text": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+            "audio_text_bn": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+            "audio_text_en": "Well, this time take the fish and cut it like this first"
+        },
+        {
+            "shot_id": "shot_53",
+            "start_time": 70.03,
+            "end_time": 72.2,
+            "duration": 2.17,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_53.jpg",
+            "audio_text": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+            "audio_text_bn": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+            "audio_text_en": "Well, this time take the fish and cut it like this first"
+        },
+        {
+            "shot_id": "shot_54",
+            "start_time": 72.2,
+            "end_time": 73.4,
+            "duration": 1.2,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_54.jpg",
+            "audio_text": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+            "audio_text_bn": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+            "audio_text_en": "Well, this time take the fish and cut it like this first"
+        },
+        {
+            "shot_id": "shot_55",
+            "start_time": 73.4,
+            "end_time": 73.7,
+            "duration": 0.3,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_55.jpg",
+            "audio_text": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+            "audio_text_bn": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+            "audio_text_en": "Well, this time take the fish and cut it like this first"
+        }
+    ],
+    "frame_information": [
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_1_f1",
+            "shot_id": "shot_1",
+            "timestamp": 1.35,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_1.jpg",
+            "ocr_text": "[|"
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_2_f1",
+            "shot_id": "shot_2",
+            "timestamp": 3.35,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_2.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_3_f1",
+            "shot_id": "shot_3",
+            "timestamp": 4.71,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_3.jpg",
+            "ocr_text": "গোটী রসুন"
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_4_f1",
+            "shot_id": "shot_4",
+            "timestamp": 5.93,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_4.jpg",
+            "ocr_text": "গোটী আদী"
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_5_f1",
+            "shot_id": "shot_5",
+            "timestamp": 6.81,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_5.jpg",
+            "ocr_text": "গোট] জিরে"
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_6_f1",
+            "shot_id": "shot_6",
+            "timestamp": 8.35,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_6.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_7_f1",
+            "shot_id": "shot_7",
+            "timestamp": 10.84,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_7.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_8_f1",
+            "shot_id": "shot_8",
+            "timestamp": 13.07,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_8.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_9_f1",
+            "shot_id": "shot_9",
+            "timestamp": 14.64,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_9.jpg",
+            "ocr_text": "I| )"
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_10_f1",
+            "shot_id": "shot_10",
+            "timestamp": 15.85,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_10.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_11_f1",
+            "shot_id": "shot_11",
+            "timestamp": 17.27,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_11.jpg",
+            "ocr_text": "শুকগে| কোকাস"
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_12_f1",
+            "shot_id": "shot_12",
+            "timestamp": 18.83,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_12.jpg",
+            "ocr_text": "ছনুদ"
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_13_f1",
+            "shot_id": "shot_13",
+            "timestamp": 20.05,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_13.jpg",
+            "ocr_text": "[| মিহি করে"
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_14_f1",
+            "shot_id": "shot_14",
+            "timestamp": 21.22,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_14.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_15_f1",
+            "shot_id": "shot_15",
+            "timestamp": 22.3,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_15.jpg",
+            "ocr_text": "Recheado Masaig"
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_16_f1",
+            "shot_id": "shot_16",
+            "timestamp": 24.62,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_16.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_17_f1",
+            "shot_id": "shot_17",
+            "timestamp": 26.96,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_17.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_18_f1",
+            "shot_id": "shot_18",
+            "timestamp": 27.9,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_18.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_19_f1",
+            "shot_id": "shot_19",
+            "timestamp": 29.09,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_19.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_20_f1",
+            "shot_id": "shot_20",
+            "timestamp": 30.27,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_20.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_21_f1",
+            "shot_id": "shot_21",
+            "timestamp": 31.16,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_21.jpg",
+            "ocr_text": "হলুদ"
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_22_f1",
+            "shot_id": "shot_22",
+            "timestamp": 31.95,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_22.jpg",
+            "ocr_text": "১০ মিনিট"
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_23_f1",
+            "shot_id": "shot_23",
+            "timestamp": 32.66,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_23.jpg",
+            "ocr_text": "resl দেব"
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_24_f1",
+            "shot_id": "shot_24",
+            "timestamp": 33.3,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_24.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_25_f1",
+            "shot_id": "shot_25",
+            "timestamp": 33.95,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_25.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_26_f1",
+            "shot_id": "shot_26",
+            "timestamp": 34.68,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_26.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_27_f1",
+            "shot_id": "shot_27",
+            "timestamp": 35.6,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_27.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_28_f1",
+            "shot_id": "shot_28",
+            "timestamp": 36.52,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_28.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_29_f1",
+            "shot_id": "shot_29",
+            "timestamp": 37.45,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_29.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_30_f1",
+            "shot_id": "shot_30",
+            "timestamp": 38.4,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_30.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_31_f1",
+            "shot_id": "shot_31",
+            "timestamp": 39.39,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_31.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_32_f1",
+            "shot_id": "shot_32",
+            "timestamp": 41.19,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_32.jpg",
+            "ocr_text": "mariingle হোেক"
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_33_f1",
+            "shot_id": "shot_33",
+            "timestamp": 43.03,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_33.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_34_f1",
+            "shot_id": "shot_34",
+            "timestamp": 44.27,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_34.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_35_f1",
+            "shot_id": "shot_35",
+            "timestamp": 45.22,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_35.jpg",
+            "ocr_text": "বাইরে থেঁকে"
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_36_f1",
+            "shot_id": "shot_36",
+            "timestamp": 46.27,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_36.jpg",
+            "ocr_text": "ভেতর থেঁকে"
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_37_f1",
+            "shot_id": "shot_37",
+            "timestamp": 47.65,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_37.jpg",
+            "ocr_text": "চগেয গুঁড়েো"
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_38_f1",
+            "shot_id": "shot_38",
+            "timestamp": 49.69,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_38.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_39_f1",
+            "shot_id": "shot_39",
+            "timestamp": 51.6,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_39.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_40_f1",
+            "shot_id": "shot_40",
+            "timestamp": 52.59,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_40.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_41_f1",
+            "shot_id": "shot_41",
+            "timestamp": 53.3,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_41.jpg",
+            "ocr_text": "চেপে ঢেপে"
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_42_f1",
+            "shot_id": "shot_42",
+            "timestamp": 54.53,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_42.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_43_f1",
+            "shot_id": "shot_43",
+            "timestamp": 55.85,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_43.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_44_f1",
+            "shot_id": "shot_44",
+            "timestamp": 56.92,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_44.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_45_f1",
+            "shot_id": "shot_45",
+            "timestamp": 57.92,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_45.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_46_f1",
+            "shot_id": "shot_46",
+            "timestamp": 59.0,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_46.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_47_f1",
+            "shot_id": "shot_47",
+            "timestamp": 60.36,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_47.jpg",
+            "ocr_text": "Medjuym Flgjrne"
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_48_f1",
+            "shot_id": "shot_48",
+            "timestamp": 62.14,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_48.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_49_f1",
+            "shot_id": "shot_49",
+            "timestamp": 63.85,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_49.jpg",
+            "ocr_text": "কাঁচা থেকে যাবে"
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_50_f1",
+            "shot_id": "shot_50",
+            "timestamp": 65.75,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_50.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_51_f1",
+            "shot_id": "shot_51",
+            "timestamp": 67.98,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_51.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_52_f1",
+            "shot_id": "shot_52",
+            "timestamp": 69.47,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_52.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_53_f1",
+            "shot_id": "shot_53",
+            "timestamp": 71.12,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_53.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_54_f1",
+            "shot_id": "shot_54",
+            "timestamp": 72.8,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_54.jpg",
+            "ocr_text": "ছোট্ট Iwist"
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_55_f1",
+            "shot_id": "shot_55",
+            "timestamp": 73.55,
+            "frame_path": "data/frames/POMFRET_ROAST_FRY/shot_55.jpg",
+            "ocr_text": ""
+        }
+    ],
+    "object_detection": [
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_1_f1",
+            "shot_id": "shot_1",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.86,
+                    "bbox": [
+                        75.35,
+                        147.77,
+                        476.89,
+                        467.86
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.53,
+                    "bbox": [
+                        4.09,
+                        426.43,
+                        467.75,
+                        795.13
+                    ]
+                },
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.44,
+                    "bbox": [
+                        308.1,
+                        559.29,
+                        478.08,
+                        626.83
+                    ]
+                },
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.36,
+                    "bbox": [
+                        130.76,
+                        488.52,
+                        477.93,
+                        630.07
+                    ]
+                },
+                {
+                    "class_name": "bottle",
+                    "confidence": 0.33,
+                    "bbox": [
+                        4.06,
+                        119.45,
+                        80.02,
+                        432.59
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_2_f1",
+            "shot_id": "shot_2",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.58,
+                    "bbox": [
+                        87.88,
+                        282.62,
+                        450.59,
+                        795.9
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.26,
+                    "bbox": [
+                        90.62,
+                        447.81,
+                        452.44,
+                        795.35
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_3_f1",
+            "shot_id": "shot_3",
+            "detected_objects": [
+                {
+                    "class_name": "donut",
+                    "confidence": 0.45,
+                    "bbox": [
+                        142.61,
+                        294.78,
+                        256.7,
+                        419.43
+                    ]
+                },
+                {
+                    "class_name": "donut",
+                    "confidence": 0.44,
+                    "bbox": [
+                        251.44,
+                        282.08,
+                        372.28,
+                        421.23
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.34,
+                    "bbox": [
+                        238.68,
+                        286.76,
+                        475.65,
+                        795.87
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.26,
+                    "bbox": [
+                        2.53,
+                        41.42,
+                        476.17,
+                        757.64
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_4_f1",
+            "shot_id": "shot_4",
+            "detected_objects": [
+                {
+                    "class_name": "carrot",
+                    "confidence": 0.34,
+                    "bbox": [
+                        5.32,
+                        201.14,
+                        360.9,
+                        480.56
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.32,
+                    "bbox": [
+                        5.72,
+                        187.87,
+                        361.49,
+                        480.4
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.29,
+                    "bbox": [
+                        1.22,
+                        473.4,
+                        476.67,
+                        784.11
+                    ]
+                },
+                {
+                    "class_name": "donut",
+                    "confidence": 0.29,
+                    "bbox": [
+                        327.41,
+                        490.45,
+                        477.32,
+                        569.49
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_5_f1",
+            "shot_id": "shot_5",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.42,
+                    "bbox": [
+                        77.36,
+                        241.62,
+                        469.73,
+                        793.31
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.38,
+                    "bbox": [
+                        90.17,
+                        386.86,
+                        361.88,
+                        793.7
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_6_f1",
+            "shot_id": "shot_6",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.62,
+                    "bbox": [
+                        2.5,
+                        268.85,
+                        474.85,
+                        791.63
+                    ]
+                },
+                {
+                    "class_name": "bottle",
+                    "confidence": 0.51,
+                    "bbox": [
+                        132.64,
+                        108.26,
+                        233.39,
+                        270.48
+                    ]
+                },
+                {
+                    "class_name": "banana",
+                    "confidence": 0.26,
+                    "bbox": [
+                        424.31,
+                        485.82,
+                        475.08,
+                        538.44
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_7_f1",
+            "shot_id": "shot_7",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.37,
+                    "bbox": [
+                        7.38,
+                        347.63,
+                        445.17,
+                        775.13
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.31,
+                    "bbox": [
+                        5.73,
+                        168.74,
+                        463.22,
+                        785.23
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_8_f1",
+            "shot_id": "shot_8",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.9,
+                    "bbox": [
+                        6.11,
+                        362.5,
+                        466.54,
+                        783.57
+                    ]
+                },
+                {
+                    "class_name": "cup",
+                    "confidence": 0.38,
+                    "bbox": [
+                        4.02,
+                        134.08,
+                        78.07,
+                        434.79
+                    ]
+                },
+                {
+                    "class_name": "bottle",
+                    "confidence": 0.31,
+                    "bbox": [
+                        3.39,
+                        132.83,
+                        77.93,
+                        435.71
+                    ]
+                },
+                {
+                    "class_name": "dining table",
+                    "confidence": 0.27,
+                    "bbox": [
+                        0.0,
+                        249.27,
+                        474.97,
+                        792.2
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_9_f1",
+            "shot_id": "shot_9",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.79,
+                    "bbox": [
+                        9.46,
+                        300.87,
+                        456.2,
+                        775.9
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.56,
+                    "bbox": [
+                        210.47,
+                        25.26,
+                        477.46,
+                        186.34
+                    ]
+                },
+                {
+                    "class_name": "cup",
+                    "confidence": 0.51,
+                    "bbox": [
+                        5.18,
+                        222.86,
+                        36.3,
+                        364.92
+                    ]
+                },
+                {
+                    "class_name": "dining table",
+                    "confidence": 0.45,
+                    "bbox": [
+                        5.06,
+                        28.92,
+                        474.71,
+                        796.0
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_10_f1",
+            "shot_id": "shot_10",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.88,
+                    "bbox": [
+                        4.05,
+                        347.92,
+                        404.94,
+                        773.38
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.8,
+                    "bbox": [
+                        155.57,
+                        63.33,
+                        477.28,
+                        436.84
+                    ]
+                },
+                {
+                    "class_name": "dining table",
+                    "confidence": 0.3,
+                    "bbox": [
+                        5.21,
+                        48.72,
+                        467.58,
+                        789.79
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_11_f1",
+            "shot_id": "shot_11",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.94,
+                    "bbox": [
+                        20.82,
+                        367.09,
+                        478.82,
+                        790.11
+                    ]
+                },
+                {
+                    "class_name": "dining table",
+                    "confidence": 0.37,
+                    "bbox": [
+                        6.52,
+                        31.41,
+                        473.03,
+                        654.09
+                    ]
+                },
+                {
+                    "class_name": "dining table",
+                    "confidence": 0.25,
+                    "bbox": [
+                        6.62,
+                        241.08,
+                        476.0,
+                        793.96
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_12_f1",
+            "shot_id": "shot_12",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.72,
+                    "bbox": [
+                        4.24,
+                        303.38,
+                        473.17,
+                        789.42
+                    ]
+                },
+                {
+                    "class_name": "cup",
+                    "confidence": 0.46,
+                    "bbox": [
+                        374.92,
+                        38.14,
+                        476.68,
+                        317.1
+                    ]
+                },
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.32,
+                    "bbox": [
+                        90.58,
+                        54.05,
+                        239.46,
+                        508.3
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_13_f1",
+            "shot_id": "shot_13",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.79,
+                    "bbox": [
+                        0.0,
+                        33.69,
+                        476.23,
+                        795.2
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_14_f1",
+            "shot_id": "shot_14",
+            "detected_objects": [
+                {
+                    "class_name": "vase",
+                    "confidence": 0.73,
+                    "bbox": [
+                        214.48,
+                        25.05,
+                        468.82,
+                        238.67
+                    ]
+                },
+                {
+                    "class_name": "bottle",
+                    "confidence": 0.69,
+                    "bbox": [
+                        4.57,
+                        78.84,
+                        65.09,
+                        378.76
+                    ]
+                },
+                {
+                    "class_name": "cup",
+                    "confidence": 0.48,
+                    "bbox": [
+                        153.17,
+                        238.33,
+                        477.04,
+                        557.65
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.46,
+                    "bbox": [
+                        170.08,
+                        446.32,
+                        476.56,
+                        789.27
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_15_f1",
+            "shot_id": "shot_15",
+            "detected_objects": [
+                {
+                    "class_name": "cup",
+                    "confidence": 0.83,
+                    "bbox": [
+                        4.47,
+                        69.45,
+                        102.05,
+                        386.25
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.59,
+                    "bbox": [
+                        9.39,
+                        355.48,
+                        459.76,
+                        793.55
+                    ]
+                },
+                {
+                    "class_name": "dining table",
+                    "confidence": 0.58,
+                    "bbox": [
+                        4.75,
+                        122.4,
+                        466.51,
+                        795.75
+                    ]
+                },
+                {
+                    "class_name": "cup",
+                    "confidence": 0.39,
+                    "bbox": [
+                        253.66,
+                        26.47,
+                        476.47,
+                        197.96
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.32,
+                    "bbox": [
+                        326.19,
+                        121.06,
+                        477.42,
+                        454.97
+                    ]
+                },
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.31,
+                    "bbox": [
+                        186.09,
+                        440.39,
+                        376.46,
+                        719.51
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_16_f1",
+            "shot_id": "shot_16",
+            "detected_objects": [
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.62,
+                    "bbox": [
+                        290.94,
+                        527.5,
+                        480.0,
+                        621.94
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.59,
+                    "bbox": [
+                        31.08,
+                        133.38,
+                        477.25,
+                        540.73
+                    ]
+                },
+                {
+                    "class_name": "cup",
+                    "confidence": 0.41,
+                    "bbox": [
+                        4.49,
+                        116.93,
+                        59.0,
+                        418.39
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.36,
+                    "bbox": [
+                        6.48,
+                        468.57,
+                        425.27,
+                        795.4
+                    ]
+                },
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.28,
+                    "bbox": [
+                        297.12,
+                        554.84,
+                        477.88,
+                        621.0
+                    ]
+                },
+                {
+                    "class_name": "fork",
+                    "confidence": 0.26,
+                    "bbox": [
+                        294.97,
+                        553.67,
+                        478.14,
+                        622.0
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_17_f1",
+            "shot_id": "shot_17",
+            "detected_objects": [
+                {
+                    "class_name": "vase",
+                    "confidence": 0.69,
+                    "bbox": [
+                        221.0,
+                        27.08,
+                        364.39,
+                        154.09
+                    ]
+                },
+                {
+                    "class_name": "potted plant",
+                    "confidence": 0.6,
+                    "bbox": [
+                        253.2,
+                        28.42,
+                        478.21,
+                        402.63
+                    ]
+                },
+                {
+                    "class_name": "vase",
+                    "confidence": 0.46,
+                    "bbox": [
+                        329.25,
+                        234.42,
+                        477.52,
+                        402.9
+                    ]
+                },
+                {
+                    "class_name": "fork",
+                    "confidence": 0.33,
+                    "bbox": [
+                        9.15,
+                        617.64,
+                        409.32,
+                        736.51
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.29,
+                    "bbox": [
+                        5.38,
+                        239.6,
+                        76.52,
+                        374.68
+                    ]
+                },
+                {
+                    "class_name": "apple",
+                    "confidence": 0.28,
+                    "bbox": [
+                        13.5,
+                        26.44,
+                        115.37,
+                        99.64
+                    ]
+                },
+                {
+                    "class_name": "bottle",
+                    "confidence": 0.27,
+                    "bbox": [
+                        114.87,
+                        131.71,
+                        289.38,
+                        366.71
+                    ]
+                },
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.27,
+                    "bbox": [
+                        12.38,
+                        616.43,
+                        410.87,
+                        741.75
+                    ]
+                },
+                {
+                    "class_name": "orange",
+                    "confidence": 0.26,
+                    "bbox": [
+                        5.63,
+                        165.15,
+                        47.01,
+                        241.94
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_18_f1",
+            "shot_id": "shot_18",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.62,
+                    "bbox": [
+                        5.38,
+                        90.85,
+                        213.21,
+                        439.11
+                    ]
+                },
+                {
+                    "class_name": "vase",
+                    "confidence": 0.49,
+                    "bbox": [
+                        320.17,
+                        53.52,
+                        470.95,
+                        203.24
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.41,
+                    "bbox": [
+                        4.09,
+                        89.69,
+                        194.83,
+                        303.26
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_19_f1",
+            "shot_id": "shot_19",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.72,
+                    "bbox": [
+                        5.89,
+                        199.93,
+                        295.79,
+                        410.61
+                    ]
+                },
+                {
+                    "class_name": "potted plant",
+                    "confidence": 0.71,
+                    "bbox": [
+                        258.94,
+                        65.22,
+                        478.17,
+                        455.57
+                    ]
+                },
+                {
+                    "class_name": "knife",
+                    "confidence": 0.7,
+                    "bbox": [
+                        5.19,
+                        618.01,
+                        474.93,
+                        741.31
+                    ]
+                },
+                {
+                    "class_name": "vase",
+                    "confidence": 0.5,
+                    "bbox": [
+                        223.43,
+                        61.56,
+                        371.92,
+                        195.73
+                    ]
+                },
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.31,
+                    "bbox": [
+                        237.71,
+                        305.13,
+                        336.34,
+                        359.69
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_20_f1",
+            "shot_id": "shot_20",
+            "detected_objects": [
+                {
+                    "class_name": "cake",
+                    "confidence": 0.29,
+                    "bbox": [
+                        155.12,
+                        486.73,
+                        403.9,
+                        665.42
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_21_f1",
+            "shot_id": "shot_21",
+            "detected_objects": [
+                {
+                    "class_name": "knife",
+                    "confidence": 0.33,
+                    "bbox": [
+                        4.24,
+                        356.68,
+                        476.47,
+                        482.71
+                    ]
+                },
+                {
+                    "class_name": "apple",
+                    "confidence": 0.33,
+                    "bbox": [
+                        118.99,
+                        27.58,
+                        212.8,
+                        111.73
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_22_f1",
+            "shot_id": "shot_22",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.52,
+                    "bbox": [
+                        5.22,
+                        148.21,
+                        413.73,
+                        594.26
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.41,
+                    "bbox": [
+                        4.83,
+                        147.56,
+                        282.45,
+                        592.2
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_23_f1",
+            "shot_id": "shot_23",
+            "detected_objects": [
+                {
+                    "class_name": "pizza",
+                    "confidence": 0.4,
+                    "bbox": [
+                        6.91,
+                        629.4,
+                        475.28,
+                        795.17
+                    ]
+                },
+                {
+                    "class_name": "apple",
+                    "confidence": 0.37,
+                    "bbox": [
+                        50.35,
+                        110.02,
+                        164.22,
+                        212.55
+                    ]
+                },
+                {
+                    "class_name": "apple",
+                    "confidence": 0.32,
+                    "bbox": [
+                        4.97,
+                        109.67,
+                        165.11,
+                        226.11
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_24_f1",
+            "shot_id": "shot_24",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.63,
+                    "bbox": [
+                        5.69,
+                        166.05,
+                        472.5,
+                        573.8
+                    ]
+                },
+                {
+                    "class_name": "vase",
+                    "confidence": 0.57,
+                    "bbox": [
+                        330.08,
+                        26.18,
+                        477.34,
+                        294.72
+                    ]
+                },
+                {
+                    "class_name": "hot dog",
+                    "confidence": 0.28,
+                    "bbox": [
+                        4.86,
+                        201.97,
+                        472.83,
+                        572.92
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_25_f1",
+            "shot_id": "shot_25",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.7,
+                    "bbox": [
+                        4.9,
+                        143.8,
+                        151.6,
+                        311.76
+                    ]
+                },
+                {
+                    "class_name": "potted plant",
+                    "confidence": 0.5,
+                    "bbox": [
+                        270.7,
+                        34.16,
+                        477.76,
+                        348.68
+                    ]
+                },
+                {
+                    "class_name": "knife",
+                    "confidence": 0.47,
+                    "bbox": [
+                        7.72,
+                        277.15,
+                        476.7,
+                        409.47
+                    ]
+                },
+                {
+                    "class_name": "vase",
+                    "confidence": 0.33,
+                    "bbox": [
+                        355.49,
+                        220.06,
+                        476.33,
+                        350.13
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_26_f1",
+            "shot_id": "shot_26",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.7,
+                    "bbox": [
+                        4.73,
+                        126.66,
+                        142.1,
+                        261.89
+                    ]
+                },
+                {
+                    "class_name": "potted plant",
+                    "confidence": 0.48,
+                    "bbox": [
+                        278.2,
+                        28.06,
+                        478.25,
+                        325.29
+                    ]
+                },
+                {
+                    "class_name": "orange",
+                    "confidence": 0.35,
+                    "bbox": [
+                        56.74,
+                        121.97,
+                        121.01,
+                        182.11
+                    ]
+                },
+                {
+                    "class_name": "vase",
+                    "confidence": 0.3,
+                    "bbox": [
+                        365.34,
+                        199.98,
+                        476.7,
+                        325.75
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_27_f1",
+            "shot_id": "shot_27",
+            "detected_objects": []
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_28_f1",
+            "shot_id": "shot_28",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.73,
+                    "bbox": [
+                        6.44,
+                        309.07,
+                        388.57,
+                        647.59
+                    ]
+                },
+                {
+                    "class_name": "pizza",
+                    "confidence": 0.46,
+                    "bbox": [
+                        11.04,
+                        537.46,
+                        364.2,
+                        745.18
+                    ]
+                },
+                {
+                    "class_name": "potted plant",
+                    "confidence": 0.38,
+                    "bbox": [
+                        190.66,
+                        26.64,
+                        477.93,
+                        448.61
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_29_f1",
+            "shot_id": "shot_29",
+            "detected_objects": [
+                {
+                    "class_name": "hot dog",
+                    "confidence": 0.32,
+                    "bbox": [
+                        28.62,
+                        323.86,
+                        380.65,
+                        702.72
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.28,
+                    "bbox": [
+                        5.84,
+                        235.96,
+                        378.04,
+                        704.69
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_30_f1",
+            "shot_id": "shot_30",
+            "detected_objects": [
+                {
+                    "class_name": "hot dog",
+                    "confidence": 0.57,
+                    "bbox": [
+                        5.87,
+                        142.52,
+                        453.12,
+                        611.98
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.28,
+                    "bbox": [
+                        5.32,
+                        122.32,
+                        453.88,
+                        631.0
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_31_f1",
+            "shot_id": "shot_31",
+            "detected_objects": [
+                {
+                    "class_name": "hot dog",
+                    "confidence": 0.38,
+                    "bbox": [
+                        29.73,
+                        272.12,
+                        443.32,
+                        611.56
+                    ]
+                },
+                {
+                    "class_name": "banana",
+                    "confidence": 0.35,
+                    "bbox": [
+                        31.34,
+                        269.99,
+                        446.17,
+                        615.18
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_32_f1",
+            "shot_id": "shot_32",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.33,
+                    "bbox": [
+                        4.77,
+                        292.16,
+                        425.84,
+                        774.26
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_33_f1",
+            "shot_id": "shot_33",
+            "detected_objects": [
+                {
+                    "class_name": "sandwich",
+                    "confidence": 0.47,
+                    "bbox": [
+                        87.97,
+                        375.47,
+                        477.35,
+                        744.02
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.38,
+                    "bbox": [
+                        5.61,
+                        31.29,
+                        465.79,
+                        788.94
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_34_f1",
+            "shot_id": "shot_34",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.85,
+                    "bbox": [
+                        4.45,
+                        133.85,
+                        345.59,
+                        794.98
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_35_f1",
+            "shot_id": "shot_35",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.4,
+                    "bbox": [
+                        10.83,
+                        101.09,
+                        460.59,
+                        791.17
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.35,
+                    "bbox": [
+                        4.61,
+                        409.66,
+                        430.27,
+                        693.06
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.28,
+                    "bbox": [
+                        46.53,
+                        102.85,
+                        472.22,
+                        483.52
+                    ]
+                },
+                {
+                    "class_name": "sandwich",
+                    "confidence": 0.28,
+                    "bbox": [
+                        7.11,
+                        399.81,
+                        432.03,
+                        692.31
+                    ]
+                },
+                {
+                    "class_name": "hot dog",
+                    "confidence": 0.28,
+                    "bbox": [
+                        5.24,
+                        400.51,
+                        428.36,
+                        691.16
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_36_f1",
+            "shot_id": "shot_36",
+            "detected_objects": [
+                {
+                    "class_name": "sandwich",
+                    "confidence": 0.49,
+                    "bbox": [
+                        164.85,
+                        508.94,
+                        406.04,
+                        750.47
+                    ]
+                },
+                {
+                    "class_name": "apple",
+                    "confidence": 0.26,
+                    "bbox": [
+                        359.36,
+                        432.97,
+                        455.22,
+                        519.95
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_37_f1",
+            "shot_id": "shot_37",
+            "detected_objects": []
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_38_f1",
+            "shot_id": "shot_38",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.39,
+                    "bbox": [
+                        5.56,
+                        72.01,
+                        201.64,
+                        238.88
+                    ]
+                },
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.3,
+                    "bbox": [
+                        212.53,
+                        158.47,
+                        420.7,
+                        494.74
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_39_f1",
+            "shot_id": "shot_39",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.61,
+                    "bbox": [
+                        5.97,
+                        32.53,
+                        378.76,
+                        643.09
+                    ]
+                },
+                {
+                    "class_name": "knife",
+                    "confidence": 0.32,
+                    "bbox": [
+                        282.49,
+                        352.17,
+                        476.41,
+                        421.84
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.29,
+                    "bbox": [
+                        9.5,
+                        364.44,
+                        477.02,
+                        756.2
+                    ]
+                },
+                {
+                    "class_name": "dining table",
+                    "confidence": 0.28,
+                    "bbox": [
+                        0.85,
+                        316.28,
+                        476.93,
+                        778.97
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_40_f1",
+            "shot_id": "shot_40",
+            "detected_objects": [
+                {
+                    "class_name": "bird",
+                    "confidence": 0.39,
+                    "bbox": [
+                        155.0,
+                        532.78,
+                        386.6,
+                        795.52
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_41_f1",
+            "shot_id": "shot_41",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.86,
+                    "bbox": [
+                        4.72,
+                        28.41,
+                        231.73,
+                        391.1
+                    ]
+                },
+                {
+                    "class_name": "cake",
+                    "confidence": 0.79,
+                    "bbox": [
+                        116.94,
+                        376.64,
+                        360.27,
+                        535.45
+                    ]
+                },
+                {
+                    "class_name": "cake",
+                    "confidence": 0.65,
+                    "bbox": [
+                        317.11,
+                        203.11,
+                        476.18,
+                        350.2
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.41,
+                    "bbox": [
+                        200.67,
+                        24.95,
+                        323.26,
+                        162.84
+                    ]
+                },
+                {
+                    "class_name": "dining table",
+                    "confidence": 0.4,
+                    "bbox": [
+                        4.58,
+                        63.67,
+                        476.91,
+                        787.13
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_42_f1",
+            "shot_id": "shot_42",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.63,
+                    "bbox": [
+                        51.18,
+                        27.88,
+                        355.29,
+                        433.58
+                    ]
+                },
+                {
+                    "class_name": "cake",
+                    "confidence": 0.31,
+                    "bbox": [
+                        5.96,
+                        355.43,
+                        370.51,
+                        745.16
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_43_f1",
+            "shot_id": "shot_43",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.74,
+                    "bbox": [
+                        5.04,
+                        102.42,
+                        168.71,
+                        364.87
+                    ]
+                },
+                {
+                    "class_name": "pizza",
+                    "confidence": 0.3,
+                    "bbox": [
+                        7.6,
+                        396.68,
+                        372.81,
+                        560.77
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_44_f1",
+            "shot_id": "shot_44",
+            "detected_objects": [
+                {
+                    "class_name": "tv",
+                    "confidence": 0.29,
+                    "bbox": [
+                        5.44,
+                        26.39,
+                        225.62,
+                        397.83
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_45_f1",
+            "shot_id": "shot_45",
+            "detected_objects": [
+                {
+                    "class_name": "cake",
+                    "confidence": 0.45,
+                    "bbox": [
+                        5.27,
+                        412.52,
+                        322.29,
+                        618.46
+                    ]
+                },
+                {
+                    "class_name": "sandwich",
+                    "confidence": 0.34,
+                    "bbox": [
+                        4.42,
+                        184.01,
+                        337.13,
+                        469.86
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_46_f1",
+            "shot_id": "shot_46",
+            "detected_objects": []
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_47_f1",
+            "shot_id": "shot_47",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.35,
+                    "bbox": [
+                        5.28,
+                        24.89,
+                        201.07,
+                        528.65
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_48_f1",
+            "shot_id": "shot_48",
+            "detected_objects": []
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_49_f1",
+            "shot_id": "shot_49",
+            "detected_objects": [
+                {
+                    "class_name": "knife",
+                    "confidence": 0.69,
+                    "bbox": [
+                        4.97,
+                        569.52,
+                        281.41,
+                        775.18
+                    ]
+                },
+                {
+                    "class_name": "bottle",
+                    "confidence": 0.54,
+                    "bbox": [
+                        264.34,
+                        64.25,
+                        469.09,
+                        569.19
+                    ]
+                },
+                {
+                    "class_name": "toothbrush",
+                    "confidence": 0.39,
+                    "bbox": [
+                        220.13,
+                        29.45,
+                        467.37,
+                        568.92
+                    ]
+                },
+                {
+                    "class_name": "cake",
+                    "confidence": 0.36,
+                    "bbox": [
+                        104.83,
+                        508.37,
+                        478.28,
+                        794.28
+                    ]
+                },
+                {
+                    "class_name": "sandwich",
+                    "confidence": 0.29,
+                    "bbox": [
+                        102.88,
+                        507.68,
+                        477.59,
+                        795.11
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_50_f1",
+            "shot_id": "shot_50",
+            "detected_objects": []
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_51_f1",
+            "shot_id": "shot_51",
+            "detected_objects": [
+                {
+                    "class_name": "cake",
+                    "confidence": 0.56,
+                    "bbox": [
+                        68.55,
+                        338.47,
+                        474.29,
+                        667.24
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_52_f1",
+            "shot_id": "shot_52",
+            "detected_objects": []
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_53_f1",
+            "shot_id": "shot_53",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.65,
+                    "bbox": [
+                        4.89,
+                        422.92,
+                        445.3,
+                        795.24
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.55,
+                    "bbox": [
+                        11.02,
+                        27.94,
+                        416.53,
+                        208.58
+                    ]
+                },
+                {
+                    "class_name": "cake",
+                    "confidence": 0.53,
+                    "bbox": [
+                        173.78,
+                        211.24,
+                        476.66,
+                        392.04
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.34,
+                    "bbox": [
+                        6.49,
+                        28.6,
+                        416.97,
+                        286.44
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_54_f1",
+            "shot_id": "shot_54",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.77,
+                    "bbox": [
+                        4.78,
+                        26.36,
+                        402.31,
+                        581.52
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.74,
+                    "bbox": [
+                        3.09,
+                        581.45,
+                        476.29,
+                        795.28
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.44,
+                    "bbox": [
+                        5.0,
+                        28.01,
+                        332.99,
+                        285.5
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_55_f1",
+            "shot_id": "shot_55",
+            "detected_objects": []
+        }
+    ],
+    "visual_descriptions": [
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_1_f1",
+            "shot_id": "shot_1",
+            "timestamp": 1.35,
+            "description": "A person uses a spoon to mix ingredients in a bowl, with a bottle nearby as an unseen element, preparing a dish with variations. The focus is on the mixing action and the potential for diverse food appearances."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_2_f1",
+            "shot_id": "shot_2",
+            "timestamp": 3.35,
+            "description": "A person is preparing a dish with variations, showcasing the mixing of ingredients and creating a flavorful meal. Utensils are used to combine the components as they cook, resulting in an appealing final food appearance."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_3_f1",
+            "shot_id": "shot_3",
+            "timestamp": 4.71,
+            "description": "A person prepares a dish featuring whole garlic cloves in a bowl, likely experimenting with different variations of the recipe. The image shows a rustic presentation of food being cooked."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_4_f1",
+            "shot_id": "shot_4",
+            "timestamp": 5.93,
+            "description": "A person prepares carrots in a bowl, while a donut sits nearby – there are variations to this simple dish."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_5_f1",
+            "shot_id": "shot_5",
+            "timestamp": 6.81,
+            "description": "A person is preparing a dish with black mustard seeds (jire), showcasing variations in the recipe as spices are added to what appears to be a simmering pot of food."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_6_f1",
+            "shot_id": "shot_6",
+            "timestamp": 8.35,
+            "description": "A banana sits alongside a bottle and bowl as someone explores different variations of a recipe. The focus is on the fresh fruit and preparation for diverse cooking methods."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_7_f1",
+            "shot_id": "shot_7",
+            "timestamp": 10.84,
+            "description": "A bowl sits ready for preparation as someone explores variations in a recipe. The focus is on gathering ingredients and preparing them for cooking."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_8_f1",
+            "shot_id": "shot_8",
+            "timestamp": 13.07,
+            "description": "A bottle and bowl sit on a dining table as someone prepares a dish with a cup nearby – variations of this recipe are being explored. The focus is on the ingredients and the action of cooking, resulting in a food appearance that suggests multiple possible outcomes."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_9_f1",
+            "shot_id": "shot_9",
+            "timestamp": 14.64,
+            "description": "A person is preparing a dish with a bowl and cup on a dining table, likely experimenting with different variations of the recipe. The focus appears to be on assembling ingredients for a meal."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_10_f1",
+            "shot_id": "shot_10",
+            "timestamp": 15.85,
+            "description": "A person prepares a dish in a bowl on a dining table, showcasing variations of the recipe’s ingredients and finished food. The video focuses on the cooking action and the appearance of the prepared food."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_11_f1",
+            "shot_id": "shot_11",
+            "timestamp": 17.27,
+            "description": "A bowl of Kokas is being prepared on a dining table, showcasing this traditional dessert variation. The creamy, browned dough sits invitingly, ready to be enjoyed."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_12_f1",
+            "shot_id": "shot_12",
+            "timestamp": 18.83,
+            "description": "A bowl and spoon are used to prepare a creamy masala with a Goan twist, likely incorporating ingredients for a vibrant, flavorful dish.  A cup sits nearby, ready for serving this rich, aromatic creation."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_13_f1",
+            "shot_id": "shot_13",
+            "timestamp": 20.05,
+            "description": "A person finely chops spices while preparing a Goan-inspired masala dish, likely using a mortar and pestle to create a fragrant blend for flavorful cooking. The finished masala promises vibrant colors and aromas, ready to be incorporated into a delicious meal."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_14_f1",
+            "shot_id": "shot_14",
+            "timestamp": 21.22,
+            "description": "A person prepares a vibrant dish with a bottle and cup nearby, adjusting spices for a Goan-inspired masala flavor. The scene showcases ingredients being combined in a bowl, aiming for an appealing final presentation."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_15_f1",
+            "shot_id": "shot_15",
+            "timestamp": 22.3,
+            "description": "A person prepares a masala dish with a bowl and spoon, creating a Goan-inspired recipe at a dining table. The vibrant ingredients are mixed together for a flavorful culinary creation."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_16_f1",
+            "shot_id": "shot_16",
+            "timestamp": 24.62,
+            "description": "A person uses a bowl and spoon to prepare a vibrant masala dish with a Goan twist, while a cup and fork sit nearby. The resulting food appears rich and flavorful."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_17_f1",
+            "shot_id": "shot_17",
+            "timestamp": 26.96,
+            "description": "A person prepares a Goan-style masala dish with apples, oranges and a bottle nearby, using a fork and spoon to mix ingredients in a pot beside a potted plant and vase. The vibrant colors of the fruit suggest a flavorful and aromatic meal is being created."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_18_f1",
+            "shot_id": "shot_18",
+            "timestamp": 27.9,
+            "description": "A person prepares a flavorful dish with a Goan twist, likely incorporating spices into a simmering sauce. The scene features a vase in the background as the cook expertly crafts the aromatic meal."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_19_f1",
+            "shot_id": "shot_19",
+            "timestamp": 29.09,
+            "description": "A person skillfully prepares a flavorful dish with a knife and spoon, incorporating Goan spices into what appears to be a vibrant curry. The scene features a potted plant and vase as decorative elements around the cooking area."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_20_f1",
+            "shot_id": "shot_20",
+            "timestamp": 30.27,
+            "description": "A delicious cake is being prepared with a Goan-inspired masala spice blend. The video shows mixing ingredients and baking to create an enticing dessert."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_21_f1",
+            "shot_id": "shot_21",
+            "timestamp": 31.16,
+            "description": "A bright yellow apple is being sliced with a knife as we prepare a Goan-style masala dish, promising vibrant flavors and a colorful addition to our meal."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_22_f1",
+            "shot_id": "shot_22",
+            "timestamp": 31.95,
+            "description": "A person prepares a flavorful masala dish with a Goan twist, using various spices and ingredients in a pan. The finished dish appears vibrant and aromatic, ready to be served."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_23_f1",
+            "shot_id": "shot_23",
+            "timestamp": 32.66,
+            "description": "This video shows a vibrant spice blend being created with chopped chillies, ginger, garlic, and cumin, alongside coconut flour, jaggery, tamarind, and kokum – all ground to a fine powder for use in a flavorful dish. The resulting mixture appears bright yellow-orange, promising a spicy and aromatic addition to pizza or other dishes."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_24_f1",
+            "shot_id": "shot_24",
+            "timestamp": 33.3,
+            "description": "A person is grinding spices – including chili peppers, garlic, ginger, and cumin – with coconut flour, sugar, tamarind, and kokum into a vibrant paste for a flavorful dish. The resulting mixture appears bright red from the chilies and turmeric, likely destined for a hot dog application."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_25_f1",
+            "shot_id": "shot_25",
+            "timestamp": 33.95,
+            "description": "A person carefully grinds a spice blend of Kashmiri chillies, garlic, ginger, and cumin with coconut flour, jaggery, tamarind, kokum, turmeric, and salt in a mixer, creating a vibrant red mixture. The preparation is set against a backdrop of a potted plant and vase, highlighting the fresh ingredients for a flavorful dish."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_26_f1",
+            "shot_id": "shot_26",
+            "timestamp": 34.68,
+            "description": "A person is grinding a vibrant mixture of Kashmiri chillies, garlic, ginger, and cumin with coconut flour, turmeric, and salt, while adding ingredients like jaggery, tamarind, and kokum for a fragrant spice blend. The finished spice mix appears reddish-orange in color, likely intended to be used as a flavorful base for a dish."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_27_f1",
+            "shot_id": "shot_27",
+            "timestamp": 35.6,
+            "description": "A vibrant spice blend is created by grinding dried Kashmiri chillies, garlic, ginger, cumin, and turmeric with coconut flour, jaggery, tamarind, kokum, and salt – a fragrant mixture ready for adding to your dish. The resulting powder boasts a rich red hue from the chilies, promising a bold and flavorful result."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_28_f1",
+            "shot_id": "shot_28",
+            "timestamp": 36.52,
+            "description": "A person grinds spices like Kashmiri chillies and cumin with coconut flour, turmeric, and salt in a mixer – creating a vibrant paste alongside ingredients such as tamarind and kokum. The finished mixture is then used to prepare a pizza base, showcasing colorful spices and a textured dough."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_29_f1",
+            "shot_id": "shot_29",
+            "timestamp": 37.45,
+            "description": "A person meticulously mixes spices like Kashmiri chillies, ginger, and cumin with coconut flour and tamarind, creating a vibrant red paste for a flavorful hot dog topping. The mixture is pulsed in a blender with turmeric and salt until smooth, showcasing finely ground ingredients."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_30_f1",
+            "shot_id": "shot_30",
+            "timestamp": 38.4,
+            "description": "A person carefully grinds a vibrant spice mixture featuring chopped Kashmiri chillies, garlic, ginger, and cumin with coconut flour, jaggery, tamarind, kokum, turmeric, and salt. The resulting paste is then showcased in a bowl, ready for incorporation into a flavorful dish."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_31_f1",
+            "shot_id": "shot_31",
+            "timestamp": 39.39,
+            "description": "A vibrant spice blend is created with chopped chillies, garlic, ginger, and cumin, then combined with coconut flour, sugar, tamarind, kokum, turmeric, and salt before being ground to a fine powder. The resulting mixture will be used to flavor a hot dog and banana dish."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_32_f1",
+            "shot_id": "shot_32",
+            "timestamp": 41.19,
+            "description": "A person blends a vibrant mixture of dry Kashmiri chillies, garlic, ginger, and spices with coconut flour, tamarind, kokum, and turmeric – creating a colorful paste for a traditional South Indian dish. The ingredients are meticulously ground in a mixer, resulting in a fragrant and textured powder."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_33_f1",
+            "shot_id": "shot_33",
+            "timestamp": 43.03,
+            "description": "A person grinds vibrant spices – including Kashmiri chillies, garlic, and ginger – with coconut flour and tamarind to create a flavorful mixture. The resulting paste is then studded with sugar, kokum, turmeric, and salt, ready for use in a delicious sandwich."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_34_f1",
+            "shot_id": "shot_34",
+            "timestamp": 44.27,
+            "description": "A person prepares a flavorful seafood dish, likely using spices and seasonings in a versatile masala recipe popular in Goa. The finished product is a glistening piece of seafood seasoned with fragrant spices, perfect for enjoying with fish."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_35_f1",
+            "shot_id": "shot_35",
+            "timestamp": 45.22,
+            "description": "A person prepares a flavorful seafood dish with a hot dog and sandwich, likely inspired by the Goan recipe of reshado masala – showcasing versatile spices used for cooking fish and seafood. The scene features ingredients and utensils associated with preparing a spicy seafood meal."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_36_f1",
+            "shot_id": "shot_36",
+            "timestamp": 46.27,
+            "description": "A sandwich filled with apples is being prepared with a flavorful masala spice blend, perfect for seafood dishes like reshado masala traditionally enjoyed in Goa. The finished product promises a vibrant and aromatic meal."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_37_f1",
+            "shot_id": "shot_37",
+            "timestamp": 47.65,
+            "description": "This vibrant masala spice blend is perfect for seasoning seafood, particularly in Goa where it's known as reshado masala. The recipe highlights its versatility for creating flavorful dishes with any fish or shellfish."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_38_f1",
+            "shot_id": "shot_38",
+            "timestamp": 49.69,
+            "description": "A person uses a spoon to prepare a flavorful seafood dish, likely reshado masala – a versatile spice blend traditionally used with fish and prawns from Goa. The finished food appears aromatic and ready to be served over fresh seafood."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_39_f1",
+            "shot_id": "shot_39",
+            "timestamp": 51.6,
+            "description": "A person prepares a flavorful fish dish, utilizing a bowl and knife on a dining table. The vibrant seafood is being seasoned with masala, reflecting a traditional Goan recipe."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_40_f1",
+            "shot_id": "shot_40",
+            "timestamp": 52.59,
+            "description": "A vibrant bird is being prepared with a flavorful masala spice blend, likely for seafood like fish. The dish, known as reshado masala in Goa, appears rich and aromatic, ready to be served hot."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_41_f1",
+            "shot_id": "shot_41",
+            "timestamp": 53.3,
+            "description": "A person prepares a cake, likely with masala spice, at a dining table – a versatile dish perfect for seafood like fish. The finished product is presented as a delicious treat, possibly inspired by a Goan recipe."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_42_f1",
+            "shot_id": "shot_42",
+            "timestamp": 54.53,
+            "description": "A person prepares a flavorful cake, likely incorporating masala spices for versatility – perfect for seafood dishes like it’s traditional Goan preparation, reshado masala. The finished cake is ready to be served and enjoyed."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_43_f1",
+            "shot_id": "shot_43",
+            "timestamp": 55.85,
+            "description": "A person prepares a flavorful pizza, likely incorporating spices based on a Goa recipe called reshado masala – perfect for seafood dishes. The video showcases the creation of this versatile dish with an emphasis on its appealing appearance and potential use with various fish."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_44_f1",
+            "shot_id": "shot_44",
+            "timestamp": 56.92,
+            "description": "A television displays a preparation of reshado masala, a flavorful spice blend likely used on seafood. The video shows someone combining ingredients to create a vibrant dish perfect for enhancing fish and shellfish."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_45_f1",
+            "shot_id": "shot_45",
+            "timestamp": 57.92,
+            "description": "A fish fillet is being prepared for a meal, with visible cuts made into the protein. The video focuses on creating a sandwich and possibly serving it with a cake."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_46_f1",
+            "shot_id": "shot_46",
+            "timestamp": 59.0,
+            "description": "The video shows someone preparing fish by cutting it into pieces.  A close-up reveals the fresh fish as it's being handled with a knife."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_47_f1",
+            "shot_id": "shot_47",
+            "timestamp": 60.36,
+            "description": "A person is shown cutting fish as the first step in a recipe. The focus is on preparing the fish for cooking, highlighting the action of slicing and the appearance of the raw fish."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_48_f1",
+            "shot_id": "shot_48",
+            "timestamp": 62.14,
+            "description": "The video shows a fillet of fish being carefully cut into pieces, preparing it for further cooking.  A focused close-up highlights the fresh appearance of the fish as it's ready to be transformed."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_49_f1",
+            "shot_id": "shot_49",
+            "timestamp": 63.85,
+            "description": "The video shows a fish being cut with a knife, preparing for a sandwich and cake. A bottle and toothbrush are visible in the background as well."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_50_f1",
+            "shot_id": "shot_50",
+            "timestamp": 65.75,
+            "description": "The video shows a fish being carefully cut into pieces, preparing it for further cooking. The focus is on the process of dividing the fish to ready it for a dish."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_51_f1",
+            "shot_id": "shot_51",
+            "timestamp": 67.98,
+            "description": "A cake is being prepared, with the video focusing on cutting fish as a primary ingredient. The presenter demonstrates how to slice the fish for use in the recipe."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_52_f1",
+            "shot_id": "shot_52",
+            "timestamp": 69.47,
+            "description": "The video shows someone cutting a fish into pieces for preparation. The focus is on demonstrating how to slice the fish, suggesting a dish where the fish will be the main ingredient."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_53_f1",
+            "shot_id": "shot_53",
+            "timestamp": 71.12,
+            "description": "A person cuts fish while preparing a cake with a bowl. The video showcases the initial preparation of the fish for baking."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_54_f1",
+            "shot_id": "shot_54",
+            "timestamp": 72.8,
+            "description": "A person cuts fish, preparing it for a recipe. The image shows a bowl with the cut fish as the main ingredient."
+        },
+        {
+            "frame_id": "POMFRET_ROAST_FRY_shot_55_f1",
+            "shot_id": "shot_55",
+            "timestamp": 73.55,
+            "description": "The video shows someone cutting a fish into pieces, preparing for a culinary dish. The focus is on the precise slicing of the ingredient to achieve the desired food presentation."
+        }
+    ],
+    "semantic_shot_information": [
+        {
+            "step_id": 1,
+            "start_time": 0.0,
+            "end_time": 18.13,
+            "duration": 18.13,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_1.jpg",
+            "audio_text_bn": "ভেরিয়েশন আছে",
+            "audio_text_en": "There are variations"
+        },
+        {
+            "step_id": 2,
+            "start_time": 18.13,
+            "end_time": 32.3,
+            "duration": 14.17,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_12.jpg",
+            "audio_text_bn": "আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি",
+            "audio_text_en": "We are making the masala a bit Goan style"
+        },
+        {
+            "step_id": 3,
+            "start_time": 32.3,
+            "end_time": 43.7,
+            "duration": 11.4,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_23.jpg",
+            "audio_text_bn": "প্রথমে শুকনো খোলায় কটা কাশ্মীরি লঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকোল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোকরা যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব",
+            "audio_text_en": "First of all dry chopped kashmiri chillies, whole garlic, whole ginger, whole cumin and shake it well and cool it and put it in a mixer, add coconut flour, ideally dry coconut or khokra, sugar, ideally jaggery, tamarind, ideally but also dry kokum, and grind it with a little turmeric and salt."
+        },
+        {
+            "step_id": 4,
+            "start_time": 43.7,
+            "end_time": 57.57,
+            "duration": 13.87,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_34.jpg",
+            "audio_text_bn": "গোয়াতে এটাকে রেশাডো মসলা বলে, দারুণ ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড",
+            "audio_text_en": "In Goa it is called reshado masala, very versatile, can be used on any fish, specially sea food."
+        },
+        {
+            "step_id": 5,
+            "start_time": 57.57,
+            "end_time": 73.7,
+            "duration": 16.13,
+            "representative_frame": "data/frames/POMFRET_ROAST_FRY/shot_45.jpg",
+            "audio_text_bn": "আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট",
+            "audio_text_en": "Well, this time take the fish and cut it like this first"
+        }
+    ]
+}

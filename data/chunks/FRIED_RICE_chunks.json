@@ -1,0 +1,240 @@
+[
+    {
+        "chunk_id": "FRIED_RICE_summary",
+        "video_id": "FRIED_RICE",
+        "type": "recipe_summary",
+        "timestamp": 0.0,
+        "text": "Dish: Recipe. Cuisine: Unknown. Ingredients: onion, garlic, ginger, green chillies, eggs, rice. Steps: Saute onion on high flame for 30 seconds. Add garlic and saute for 10 seconds. Include ginger and cook for another 10 seconds. Add green chillies and cook for 30 seconds. Beat three eggs together for 30 seconds. Add a little more oil if needed while stirring the egg mixture for one minute. Combine refrigerated rice with the prepared vegetables and eggs.."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_1_FRIED_RICE_shot_1_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 0.5,
+        "text": "At 0.50s. Visual: A person uses a compact electric chopper to quickly process ginger, garlic, onion, and chili into a flavorful paste, with a bowl and cup nearby on the dining table. The vibrant chopped ingredients create a colorful addition for a recipe.. OCR: . Objects: bowl, cup, dining table, person."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_2_FRIED_RICE_shot_2_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 2.33,
+        "text": "At 2.33s. Visual: A person uses a compact electric chopper to quickly process ginger, garlic, onion, and chili into finely chopped pieces for a vibrant dish. The small appliance sits on a dining table with a knife nearby, preparing fresh ingredients.. OCR: AGARO. Objects: cup, dining table, knife, person."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_3_FRIED_RICE_shot_3_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 4.32,
+        "text": "At 4.32s. Visual: A person uses a compact electric chopper to quickly process ginger, garlic, onion, and chili – creating finely chopped ingredients without water. The resulting mixture appears vibrant and ready for use in a recipe.. OCR: Hnঙ. Objects: cup, person."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_4_FRIED_RICE_shot_4_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 5.94,
+        "text": "At 5.94s. Visual: A person uses a compact electric chopper to quickly process ginger, garlic, onion, and chili into a flavorful paste within a bowl. The small appliance effortlessly chops ingredients without water, creating a vibrant mixture ready for cooking.. OCR: AGARO. Objects: bowl, cup, dining table, person."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_5_FRIED_RICE_shot_5_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 7.57,
+        "text": "At 7.57s. Visual: A person uses a compact electric chopper to quickly process ginger, garlic, onion, and chili into small pieces – perfect for adding flavor without cutting. The chopped ingredients are displayed in a bowl alongside a cup, ready for use in a recipe.. OCR: . Objects: bowl, cup, person."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_6_FRIED_RICE_shot_6_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 9.45,
+        "text": "At 9.45s. Visual: A person prepares a dish with a bowl and cup on a dining table, likely a quick recipe that adds an extra 15 minutes without specific ingredients. The finished food is presented in a visually appealing manner.. OCR: . Objects: bowl, cup, dining table, person."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_7_FRIED_RICE_shot_7_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 11.34,
+        "text": "At 11.34s. Visual: A person prepares broccoli in a bowl, likely aiming for a quick dish that will add an extra fifteen minutes to the cooking time if ingredients are unavailable. The video shows someone adding broccoli to a bowl as part of the preparation process.. OCR: . Objects: bowl, broccoli, person."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_8_FRIED_RICE_shot_8_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 12.35,
+        "text": "At 12.35s. Visual: A person prepares a dish using a bowl and cup, likely while glancing at a cell phone nearby, showcasing ingredients and a finished product on a dining table. It will take approximately 15 minutes extra if you don’t have all the necessary items.. OCR: . Objects: bowl, cell phone, cup, dining table, person."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_9_FRIED_RICE_shot_9_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 13.45,
+        "text": "At 13.45s. Visual: A person prepares a dish using an AGARO bottle and bowl, likely for a quick recipe taking approximately 15 minutes extra if ingredients aren’t readily available. The finished food appears in a cup on a dining table.. OCR: AGARO. Objects: bottle, bowl, cup, dining table, person."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_10_FRIED_RICE_shot_10_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 15.25,
+        "text": "At 15.25s. Visual: This quick recipe uses onions and requires approximately 15 extra minutes if you don’t have them – perfect for a simple dish.  Watch as you prepare this delicious food with basic kitchen utensils.. OCR: তেন পেঁয়়াজ. Objects: ."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_11_FRIED_RICE_shot_11_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 16.98,
+        "text": "At 16.98s. Visual: A slice of pizza is being prepared, starting with a quick addition of garlic. The video highlights investing in kitchen gadgets to save time while cooking.. OCR: রসুন ১০ সেকেন্ড. Objects: pizza."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_12_FRIED_RICE_shot_12_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 17.98,
+        "text": "At 17.98s. Visual: This video highlights how a kitchen gadget can save time while preparing a meal – showcasing the simple process and delicious results. The focus is on investing in tools to streamline cooking and enjoy the finished dish.. OCR: ভদা ১০ সেকেন্ড. Objects: ."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_13_FRIED_RICE_shot_13_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 19.06,
+        "text": "At 19.06s. Visual: This video explores the value of kitchen gadgets, focusing on how they save time in preparing delicious food. Watch as we demonstrate a quick and simple technique for enjoying a flavorful meal.. OCR: সর ৩০ সেকেন্ড. Objects: ."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_14_FRIED_RICE_shot_14_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 20.55,
+        "text": "At 20.55s. Visual: A person is preparing apples with a kitchen gadget, likely aiming to save time in the cooking process. The focus is on the fresh apple ingredient and the efficient use of the device.. OCR: ডি; ুড়গ;. Objects: apple, person."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_15_FRIED_RICE_shot_15_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 22.05,
+        "text": "At 22.05s. Visual: A person is preparing a bowl of eggs, suggesting a quick and convenient cooking method for an easy breakfast. The video focuses on the simple act of setting the eggs aside for thirty seconds.. OCR: ডিমটা ৩০ সেকেন্ড. Objects: bowl, person."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_16_FRIED_RICE_shot_16_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 23.77,
+        "text": "At 23.77s. Visual: A spoon stirs oil over high heat as diced onion, garlic and ginger sizzle for a short time, followed by green chillies. The ingredients create an aromatic base in a bowl, ready for further cooking.. OCR: একটু তেন. Objects: bowl, spoon."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_17_FRIED_RICE_shot_17_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 25.2,
+        "text": "At 25.20s. Visual: In a pan over high heat, sauté chopped onion for 30 seconds before adding minced garlic and ginger – followed by sliced green chillies for another 30 seconds. The vibrant mixture is building flavor in a bowl.. OCR: নাড়িতে থাকুন. Objects: bowl."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_18_FRIED_RICE_shot_18_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 26.41,
+        "text": "At 26.41s. Visual: A person is preparing rice with onion, garlic, and ginger over a high flame, adding green chillies to the sizzling mixture in a bowl. The ingredients are quickly sautéed for varying lengths of time before being combined into the dish.. OCR: ভাত which. Objects: bowl, person."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_19_FRIED_RICE_shot_19_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 28.62,
+        "text": "At 28.62s. Visual: A person is frying onions, garlic, and ginger over high heat in a bowl, with green chillies added towards the end of the cooking process. The ingredients sizzle as they cook on the flame.. OCR: not বশি ভাত. Objects: bowl, person."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_20_FRIED_RICE_shot_20_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 30.41,
+        "text": "At 30.41s. Visual: A person skillfully prepares aromatics – onion, garlic, and ginger – over high heat in a bowl, while green chillies sizzle briefly alongside. The vibrant ingredients create a fragrant base for the dish.. OCR: glj শব. Objects: bowl, person, potted plant."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_21_FRIED_RICE_shot_21_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 31.12,
+        "text": "At 31.12s. Visual: A person is preparing eggs with sugar and salt in a bowl, likely for baking in an oven alongside a potted plant. Three eggs will create enough to serve two.. OCR: চিনি নুন. Objects: bowl, oven, person, potted plant."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_22_FRIED_RICE_shot_22_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 31.85,
+        "text": "At 31.85s. Visual: Three eggs are added to a bowl with a splash of soy sauce, ready for an easy and simple egg dish. The glistening eggs will be cooked into a flavorful breakfast.. OCR: একটু soya sauce. Objects: bowl."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_23_FRIED_RICE_shot_23_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 32.81,
+        "text": "At 32.81s. Visual: Three eggs are whisked in a bowl with a touch of Ajinomoto, creating a light and fluffy base for an easy egg dish. The mixture appears ready to be cooked into a delicious breakfast or snack.. OCR: একটু Ajinomoto. Objects: bowl."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_24_FRIED_RICE_shot_24_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 33.81,
+        "text": "At 33.81s. Visual: A person cracks three eggs into a bowl, preparing for a simple egg dish. The finished product will be two servings of scrambled eggs.. OCR: বা MSG. Objects: bowl, person."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_25_FRIED_RICE_shot_25_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 34.56,
+        "text": "At 34.56s. Visual: A person is preparing eggs, using a bowl to hold three eggs for a simple recipe. The finished dish will be two servings of scrambled eggs.. OCR: avoid করতে. Objects: bowl, person."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_26_FRIED_RICE_shot_26_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 35.68,
+        "text": "At 35.68s. Visual: A person beats an egg in a bowl for one minute, adding oil as needed and stirring until smooth. The resulting mixture appears light and creamy.. OCR: দিতে পরেন. Objects: bowl, person."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_27_FRIED_RICE_shot_27_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 36.86,
+        "text": "At 36.86s. Visual: In this video, a person beats an egg in a bowl for one minute, adding oil as needed to create a smooth mixture. The resulting batter is ready for further use in the recipe.. OCR: 0)( check করে. Objects: bowl, person."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_28_FRIED_RICE_shot_28_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 37.85,
+        "text": "At 37.85s. Visual: A person is beating an egg in a bowl with broccoli and spring onion, while adding oil and stirring for a minute to create a creamy sauce. The resulting mixture appears light and fluffy.. OCR: spring onion. Objects: bowl, broccoli, person."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_29_FRIED_RICE_shot_29_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 38.75,
+        "text": "At 38.75s. Visual: In a bowl, whisk an egg vigorously for a minute, adding oil as needed to create a smooth mixture. A spoon is used to stir and ensure the egg is fully combined.. OCR: . Objects: bowl, spoon."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_30_FRIED_RICE_shot_30_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 39.69,
+        "text": "At 39.69s. Visual: In a bowl, whisk an egg for a minute, adding oil as needed with a spoon while preparing this dish on the dining table. The mixture should be light and airy when finished.. OCR: এ খক. Objects: bowl, dining table, spoon."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_31_FRIED_RICE_shot_31_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 40.6,
+        "text": "At 40.60s. Visual: A bowl of refrigerated rice sits on a dining table alongside a bottle and cup, suggesting a simple dish preparation. The scene features a potted plant adding a touch of greenery to the cooking area.. OCR: আপর Zorjato-খে. Objects: bottle, bowl, cup, dining table, potted plant."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_32_FRIED_RICE_shot_32_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 41.33,
+        "text": "At 41.33s. Visual: A person prepares refrigerated rice in a bowl, while a potted plant sits nearby. The finished rice appears ready to serve, showcasing a simple and fresh meal.. OCR: offer খুঁজতে. Objects: bowl, person, potted plant."
+    },
+    {
+        "chunk_id": "FRIED_RICE_shot_33_FRIED_RICE_shot_33_f1",
+        "video_id": "FRIED_RICE",
+        "type": "frame_chunk",
+        "timestamp": 42.08,
+        "text": "At 42.08s. Visual: A person prepares refrigerated rice in a bowl and cup at a dining table. The finished rice appears ready to be served.. OCR: Gls Ibet. Objects: bowl, cup, dining table, person."
+    }
+]

@@ -1,0 +1,359 @@
+[
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_summary",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "recipe_summary",
+        "timestamp": 0.0,
+        "text": "Dish: Recipe. Cuisine: Indian. Ingredients: Salt, lemon, ginger paste, garlic paste, ripe mangoes, raw mangoes, chillies, pepper, cumin seeds, mustard oil. Steps: Marinate the ingredients for 20-30 minutes to allow for initial flavor absorption. Prepare a fine paste from the raw mangoes and chillies. Grind pepper and cumin seeds into a well-mixed powder. Heat mustard oil in a pot for tempering. Smeared Kashmiri Lanka with mustard oil in the pot Add the marinated mixture to the pot with mustard oil. Simmer the mixture gently, stirring occasionally, until it reaches desired consistency. Adjust seasoning with salt and lemon juice to taste. Serve hot as a side dish.."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_1_MANGO_CHICKEN_ROAST_shot_1_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 0.7,
+        "text": "At 0.70s. Visual: A person is marinating a cake with salt, lemon, ginger paste, and garlic paste in a bowl, preparing for flavorful cooking. The ingredients create a vibrant mixture ready to enhance the cake's appearance and taste.. OCR: টার first marination 9. Objects: cake, person."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_2_MANGO_CHICKEN_ROAST_shot_2_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 1.73,
+        "text": "At 1.73s. Visual: A person is marinating chicken in a bowl with salt, lemon juice, ginger paste, and garlic paste. The ingredients create a vibrant mixture as they are combined for fast marination.. OCR: টার first marination_. Objects: chair, person."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_3_MANGO_CHICKEN_ROAST_shot_3_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 2.35,
+        "text": "At 2.35s. Visual: A person uses a fork and spoon to incorporate salt, lemon, ginger paste, and garlic paste into a dish for quick marination, creating a vibrant and flavorful mixture. The ingredients are combined with care, promising a delicious final result.. OCR: নুন, লেবু, আদা বাটী,. Objects: fork, person, spoon."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_4_MANGO_CHICKEN_ROAST_shot_4_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 3.31,
+        "text": "At 3.31s. Visual: A person uses a fork to mix salt, lemon, ginger paste, and garlic paste into a bowl, creating a vibrant marinade for the dish. The ingredients are combined with a spoon, ready for fast marination and an appetizing appearance.. OCR: রসুন বাটী. Objects: bowl, fork, person, spoon."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_5_MANGO_CHICKEN_ROAST_shot_5_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 4.7,
+        "text": "At 4.70s. Visual: A person is marinating meat with salt, lemon, ginger paste, and garlic paste in a bowl, preparing for flavorful cooking. The dish will be enhanced with these fresh ingredients.. OCR: changes করছি না. Objects: fork, person."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_6_MANGO_CHICKEN_ROAST_shot_6_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 6.07,
+        "text": "At 6.07s. Visual: A person is preparing a vibrant dish with banana, using salt, lemon, ginger and garlic paste for a quick marinade. The resulting food will be beautifully seasoned and ready in approximately 20-30 minutes.. OCR: এটী ২০-৩০ মিনিট. Objects: banana, person."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_7_MANGO_CHICKEN_ROAST_shot_7_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 7.21,
+        "text": "At 7.21s. Visual: A person marinates an apple with a focus on the initial preparation stage. The video captures the simple process of adding an ingredient to the dish, showcasing a fresh and vibrant appearance.. OCR: second marination_. Objects: apple, person."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_8_MANGO_CHICKEN_ROAST_shot_8_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 8.4,
+        "text": "At 8.40s. Visual: An orange sits on a dining table alongside a wine glass, as someone states they are not making any changes to the dish. The focus is on the fresh orange and its presentation.. OCR: টী বানিয়ে নিই. Objects: dining table, orange, wine glass."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_9_MANGO_CHICKEN_ROAST_shot_9_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 9.41,
+        "text": "At 9.41s. Visual: A person is preparing a bowl of halved raw mangoes, stating they are keeping the recipe as is. The mangoes appear fresh and vibrant in the bowl.. OCR: তার অর্ধেক কাঁচা আম,. Objects: bowl, person."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_10_MANGO_CHICKEN_ROAST_shot_10_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 10.12,
+        "text": "At 10.12s. Visual: A person is examining a bowl of ingredients, preparing a dish without alterations. The video focuses on the visual presentation of the prepared food.. OCR: কাঁচ লঙ্কী. Objects: bowl, person."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_11_MANGO_CHICKEN_ROAST_shot_11_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 10.95,
+        "text": "At 10.95s. Visual: A person is preparing a fine paste in a bowl, simply following the recipe as is. The resulting mixture appears smooth and ready to be used.. OCR: fine paste. Objects: bowl, person."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_12_MANGO_CHICKEN_ROAST_shot_12_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 12.16,
+        "text": "At 12.16s. Visual: A person is working with raw mangoes. The recipe remains unchanged, focusing on preparing fresh fruit for consumption.. OCR: কাঁচী আম এখানে 470). Objects: person."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_13_MANGO_CHICKEN_ROAST_shot_13_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 13.87,
+        "text": "At 13.87s. Visual: A person is marinating meat at a dining table, letting it rest for 20-30 minutes as part of a second seasoning process. The focus is on the ingredients and utensils used to enhance the appearance of the dish.. OCR: কিন্তু important. Objects: dining table, person."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_14_MANGO_CHICKEN_ROAST_shot_14_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 15.65,
+        "text": "At 15.65s. Visual: A bowl of marinated ingredients sits, ready to be mixed as it continues to develop flavor for 20-30 minutes. The mixture will deepen in color and intensity during this second marination process.. OCR: হয়ে proxy দিচ্ছে. Objects: bowl."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_15_MANGO_CHICKEN_ROAST_shot_15_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 16.95,
+        "text": "At 16.95s. Visual: A bowl of sliced Pakistani mangoes is being marinated for a second time, enhancing their vibrant orange color and preparing them for further cooking. The ingredients are combined in a bowl while letting the mixture sit for 20-30 minutes.. OCR: অন্যদিকে পাকী আমের. Objects: bowl, orange."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_16_MANGO_CHICKEN_ROAST_shot_16_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 17.84,
+        "text": "At 17.84s. Visual: An orange is being added to a bowl with acidity, and a spoon stirs the mixture as it marinates for 20-30 minutes. The vibrant citrus creates a flavorful marination for the food.. OCR: acidity দিয়ে. Objects: bowl, orange, spoon."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_17_MANGO_CHICKEN_ROAST_shot_17_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 18.7,
+        "text": "At 18.70s. Visual: A person is marinating a dish, allowing it to rest and absorb flavors for 20-30 minutes as part of a second marinade process. The ingredients are being mixed together in preparation for cooking.. OCR: balance করছে. Objects: person."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_18_MANGO_CHICKEN_ROAST_shot_18_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 19.56,
+        "text": "At 19.56s. Visual: The dish is being seasoned with a pinch of pepper and allowed to marinate for a richer flavor.  The ingredients are left to rest while preparing the next stage of the recipe.. OCR: এদিকে একটু গোলমরিচ. Objects: ."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_19_MANGO_CHICKEN_ROAST_shot_19_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 20.55,
+        "text": "At 20.55s. Visual: This vibrant video showcases a mango cake being prepared with ripe and raw mangoes, fresh chillies, and aromatic spices. Watch as chunks of juicy mango are incorporated into the batter, promising a sweet and spicy dessert.. OCR: আর জিরে ভালো করে. Objects: cake."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_20_MANGO_CHICKEN_ROAST_shot_20_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 21.62,
+        "text": "At 21.62s. Visual: The video shows ripe and raw mangoes being cooked with chillies, likely in a bottle to retain moisture and flavor. The final dish promises juicy mango pieces, enhanced by the spicy heat of the chilies.. OCR: সেঁকে গুঁডো. Objects: bird, bottle."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_21_MANGO_CHICKEN_ROAST_shot_21_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 22.46,
+        "text": "At 22.46s. Visual: A person prepares ripe and raw mangoes with chillies, mimicking a tandoor’s warmth as they chop for a vibrant dish. The ingredients create a colorful mix ready for cooking.. OCR: ওই তন্দুরির মতোই. Objects: carrot, person."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_22_MANGO_CHICKEN_ROAST_shot_22_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 23.52,
+        "text": "At 23.52s. Visual: Golden mangoes and raw chillies are being prepared in a pan with sesame oil. The vibrant fruits promise a spicy and sweet dish.. OCR: গামলায় সরষের তেল. Objects: ."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_23_MANGO_CHICKEN_ROAST_shot_23_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 24.73,
+        "text": "At 24.73s. Visual: A person prepares a vibrant Kashmiri dish featuring ripe and raw mangoes alongside fiery red chillies. The glistening fruit is being sliced and diced, ready for cooking into a colorful and flavorful meal.. OCR: দিয়ে কাশ্মীরি লঙ্কা. Objects: orange, person."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_24_MANGO_CHICKEN_ROAST_shot_24_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 25.68,
+        "text": "At 25.68s. Visual: A vibrant mix of ripe and raw mangoes is prepared with chopped raw chillies, creating a colorful dish ready for blending. The ingredients are combined, showcasing juicy fruit and fiery spice.. OCR: বেশ করে মাখিয়ে. Objects: ."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_25_MANGO_CHICKEN_ROAST_shot_25_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 27.58,
+        "text": "At 27.58s. Visual: A spoon is used to make a fine paste with ingredients, creating a flavorful base for the dish. The resulting mixture appears smooth and ready for the next step in preparation.. OCR: স্বাদ বুঝে নুন. Objects: spoon."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_26_MANGO_CHICKEN_ROAST_shot_26_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 29.63,
+        "text": "At 29.63s. Visual: A person is making a fine paste with ingredients, using a mortar and pestle to create a smooth mixture. The resulting paste will form the base for the dish.. OCR: আধঘণ্টী পর. Objects: person."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_27_MANGO_CHICKEN_ROAST_shot_27_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 30.83,
+        "text": "At 30.83s. Visual: A chicken donut is being made into a fine paste using unspecified utensils, promising a smooth and flavorful result. The finished product appears as a light-colored, circular confection.. OCR: chicken ট] বের করে. Objects: donut."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_28_MANGO_CHICKEN_ROAST_shot_28_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 32.1,
+        "text": "At 32.10s. Visual: Carefully create a fine paste with ingredients in a bowl using a whisk, resulting in a smooth mixture ready for the next step in your recipe.. OCR: দলাইমলাই করে. Objects: bowl."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_29_MANGO_CHICKEN_ROAST_shot_29_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 33.5,
+        "text": "At 33.50s. Visual: In a bowl, create a fine paste with ingredients to marinate and enhance the flavor of your dish. The resulting mixture will add depth and texture to the food.. OCR: marinate করুন. Objects: bowl."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_30_MANGO_CHICKEN_ROAST_shot_30_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 34.78,
+        "text": "At 34.78s. Visual: A donut is transformed into a fine paste overnight, then prepared for deliciousness. The resulting mixture promises a soft and flavorful treat.. OCR: Overnight রাখলে. Objects: donut."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_31_MANGO_CHICKEN_ROAST_shot_31_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 35.98,
+        "text": "At 35.98s. Visual: A person prepares raw mangoes, showcasing their vibrant yellow flesh. The video features a simple preparation, highlighting the fruit as a key ingredient for a fresh dish.. OCR: AGARO. Objects: oven, person."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_32_MANGO_CHICKEN_ROAST_shot_32_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 37.12,
+        "text": "At 37.12s. Visual: A ripe mango is being prepared as a side dish, likely warmed in an oven to enhance its natural sweetness and flavor. The vibrant yellow fruit takes center stage, promising a refreshing component to the meal.. OCR: 3744=>. Objects: oven."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_33_MANGO_CHICKEN_ROAST_shot_33_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 38.02,
+        "text": "At 38.02s. Visual: A person prepares a dish featuring raw mango, likely using a cell phone for reference. The vibrant fruit is presented as a key ingredient, ready to be incorporated into the meal.. OCR: . Objects: cell phone, person."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_34_MANGO_CHICKEN_ROAST_shot_34_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 38.78,
+        "text": "At 38.78s. Visual: A person prepares a dish featuring slices of raw mango, likely using a knife and cutting board. The vibrant yellow fruit takes center stage in a simple presentation.. OCR: . Objects: person, train."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_35_MANGO_CHICKEN_ROAST_shot_35_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 39.68,
+        "text": "At 39.68s. Visual: A person prepares pizza in an oven, showcasing a vibrant mango alongside it – a surprising addition to the dish. The finished pizza appears golden brown and cheesy, with the bright mango slices adding a tropical pop of color.. OCR: . Objects: oven, person, pizza."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_36_MANGO_CHICKEN_ROAST_shot_36_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 40.72,
+        "text": "At 40.72s. Visual: A person prepares raw mangoes, showcasing their vibrant color and juicy texture. The dish acts as a supporting element in the recipe, highlighting the fresh fruit's natural flavor.. OCR: AGARO. Objects: oven, person."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_37_MANGO_CHICKEN_ROAST_shot_37_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 41.65,
+        "text": "At 41.65s. Visual: A person carefully handles a ripe mango, balancing its sweetness and acidity as it’s incorporated into a dish. The video showcases the delicate process of combining this exotic fruit with other ingredients for a flavorful result.. OCR: . Objects: person."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_38_MANGO_CHICKEN_ROAST_shot_38_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 43.25,
+        "text": "At 43.25s. Visual: A person is working with ripe mangoes, balancing their sweetness and acidity. The vibrant fruit is being prepared as part of a recipe focused on contrasting flavors.. OCR: 100 120 150 1P0 200. Objects: person."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_39_MANGO_CHICKEN_ROAST_shot_39_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 44.95,
+        "text": "At 44.95s. Visual: A vibrant mango pizza is being prepared, showcasing slices of ripe mango balanced with a creamy base. The dish features fresh mangoes arranged artfully on a pizza crust, offering a delightful blend of sweet and tangy flavors.. OCR: . Objects: pizza."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_40_MANGO_CHICKEN_ROAST_shot_40_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 45.81,
+        "text": "At 45.81s. Visual: A ripe mango is sliced with a knife alongside a cake, showcasing a vibrant combination of sweet and tangy flavors. The visual highlights the interplay between the creamy dessert and the tropical fruit’s natural acidity.. OCR: . Objects: cake, knife."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_41_MANGO_CHICKEN_ROAST_shot_41_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 46.52,
+        "text": "At 46.52s. Visual: A ripe mango is balanced with pizza, showcasing a delightful combination of sweet and tangy flavors. The video highlights the careful layering of ingredients for an unexpected culinary experience.. OCR: . Objects: pizza."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_42_MANGO_CHICKEN_ROAST_shot_42_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 47.22,
+        "text": "At 47.22s. Visual: A ripe mango sits alongside a pizza in an oven, while a cow and dog watch attentively. The video highlights the sweet and tangy combination of the mango as it cooks with the pizza.. OCR: . Objects: cow, dog, orange, oven, pizza."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_43_MANGO_CHICKEN_ROAST_shot_43_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 48.28,
+        "text": "At 48.28s. Visual: The video shows a pizza being prepared with ground pepper and cumin powder.  A warm oven is used to cook the pizza, promising a flavorful dish.. OCR: . Objects: oven, pizza."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_44_MANGO_CHICKEN_ROAST_shot_44_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 49.75,
+        "text": "At 49.75s. Visual: The video shows a pizza being prepared with freshly ground pepper and cumin powder. An oven is visible as the dish cooks, promising a flavorful and aromatic meal.. OCR: . Objects: oven, pizza."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_45_MANGO_CHICKEN_ROAST_shot_45_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 51.12,
+        "text": "At 51.12s. Visual: A person grinds pepper and cumin powder into a bowl, preparing to season a delicious pizza on a dining table. The finished pizza appears ready for serving.. OCR: . Objects: dining table, person, pizza."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_46_MANGO_CHICKEN_ROAST_shot_46_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 52.48,
+        "text": "At 52.48s. Visual: The video shows a grinding motion as pepper and cumin powder are combined for seasoning.  A dining table sits in the background, ready for the prepared spices.. OCR: এটাকে আমরী. Objects: dining table."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_47_MANGO_CHICKEN_ROAST_shot_47_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 53.6,
+        "text": "At 53.60s. Visual: A vibrant blend of apples and oranges is being prepared with freshly ground pepper and cumin powder. The ingredients are expertly combined in a bowl, promising an intense flavor experience.. OCR: একট] ভয়ঙ্কর. Objects: apple, orange."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_48_MANGO_CHICKEN_ROAST_shot_48_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 54.47,
+        "text": "At 54.47s. Visual: In a bowl, grind pepper and cumin powder for an addictive mango recipe. The vibrant spices will enhance the flavor of the delicious fruit.. OCR: addictive mango. Objects: bowl."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_49_MANGO_CHICKEN_ROAST_shot_49_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 55.48,
+        "text": "At 55.48s. Visual: A bowl of Kashmiri lanka is being prepared with mustard oil and garlic, intended to be smeared onto pizza. The dish appears vibrant and flavorful, ready for serving on a dining table.. OCR: garlic dip দিয়ে. Objects: bowl, dining table, pizza."
+    },
+    {
+        "chunk_id": "MANGO_CHICKEN_ROAST_shot_50_MANGO_CHICKEN_ROAST_shot_50_f1",
+        "video_id": "MANGO_CHICKEN_ROAST",
+        "type": "frame_chunk",
+        "timestamp": 56.56,
+        "text": "At 56.56s. Visual: A person prepares Kashmiri lanka by smearing it with mustard oil in a bowl, mirroring the preparation of tandoori dishes. The vibrant dish is ready for cooking and will be served as part of a pizza.. OCR: এটার recipe. Objects: bowl, person, pizza."
+    }
+]

@@ -1,0 +1,2724 @@
+{
+    "video_info": {
+        "video_id": "DAHI_CHICKEN",
+        "video_name": "DAHI_CHICKEN.mp4",
+        "title": "Dahi Chicken",
+        "category": "Cooking",
+        "language": "Bengali",
+        "creator": "Debisha",
+        "duration": 66.83,
+        "fps": 30.0,
+        "width": 502,
+        "height": 794,
+        "total_frames": 2005,
+        "file_size": "15.01 MB",
+        "video_path": "data/videos/DAHI_CHICKEN.mp4"
+    },
+    "recipe_information": {
+        "dish_type": "Recipe",
+        "ingredients": [
+            "garlic",
+            "ginger",
+            "green chillies",
+            "salt",
+            "lemon juice",
+            "coriander powder",
+            "garam masala",
+            "onion batter",
+            "onion",
+            "ghee",
+            "bean oil"
+        ],
+        "estimated_steps": [
+            "Beat garlic, ginger, and green chillies together with salt.",
+            "Add lemon juice and spices like coriander powder and garam masala to the mixture.",
+            "Knead the mixture well to ensure it is fully incorporated.",
+            "Spread the kneaded mixture evenly over the chicken.",
+            "Fry onions until golden brown, similar to how a barista would prepare them.",
+            "Add ghee to the bean oil for flavor and richness.",
+            "If cooking for more than three people, incorporate onion batter into the gravy.",
+            "Continue to cook until the chicken is fully cooked through."
+        ],
+        "cuisine": "Indian",
+        "tags": [
+            "chicken",
+            "gravy",
+            "spicy",
+            "Indian cuisine",
+            "spice blend",
+            "fry"
+        ]
+    },
+    "audio_information": {
+        "transcript_bn": "রসুন, আদা আর কাঁচালঙ্কা একসাথে বেটে, নুন, লেবুর রস, ধনে গুঁড়ো, গরম মশলা, দ্যাটস ইট। ভালো করে মাখিয়ে নিয়ে চিকেনটা দিয়ে বেশ করে এদিক ওদিক দলাই মলাই করে নেব। একটা সিক্রেট বলি, এটা যদি তিনজনের বেশি রান্না হচ্ছে, তাহলে একটু পেঁয়াজ বাটাও অ্যাড করুন, যাতে গ্রেভি একটু বাড়বে। এন্ড উই অল নো, খাওয়ার লো থাকতে হবে, দ্যাটস দা মেইন গোল। এদিকে কটা পেঁয়াজ একদম বেরেস্তার মতো করে ভেজে নেব। একটু সাদা সাদা নামাবেন, লাল করে নামালে ঠান্ডা হয়ে কালো হয়ে যায়। ওই সেম তেলেই এক চামচ ঘি দিয়ে তেজ",
+        "transcript_en": "Garlic, ginger and green chillies beat together, salt, lemon juice, coriander powder, garam masala, that's it. After kneading it well, I will spread it with the chicken. Let me tell you a secret, if it is cooking for more than three people, then add some onion batter, so that the gravy will increase a bit. And we all know, have to eat, that's the main goal. Meanwhile, I will fry some onions just like Barista. Take a little white, if you take it red, it turns black when it cools down. Add a spoonful of ghee to that bean oil",
+        "timestamps": [
+            {
+                "start": 0.0,
+                "end": 7.03,
+                "text_bn": "রসুন, আদা আর কাঁচালঙ্কা একসাথে বেটে, নুন, লেবুর রস, ধনে গুঁড়ো, গরম মশলা, দ্যাটস ইট",
+                "text_en": "Garlic, ginger and green chillies are pounded together, salt, lemon juice, coriander powder, garam masala, that's it."
+            },
+            {
+                "start": 0.0,
+                "end": 8.53,
+                "text_bn": "রসুন, আদা আর কাঁচালঙ্কা একসাথে বেটে, নুন, লেবুর রস, ধনে গুঁড়ো, গরম মশলা, দ্যাটস ইট",
+                "text_en": "Garlic, ginger and green chillies are pounded together, salt, lemon juice, coriander powder, garam masala, that's it."
+            },
+            {
+                "start": 1.0,
+                "end": 12.13,
+                "text_bn": "রসুন, আদা আর কাঁচালঙ্কা একসাথে বেটে, নুন, লেবুর রস, ধনে গুঁড়ো, গরম মশলা, দ্যাটস ইট",
+                "text_en": "Garlic, ginger and green chillies are pounded together, salt, lemon juice, coriander powder, garam masala, that's it."
+            },
+            {
+                "start": 7.03,
+                "end": 12.73,
+                "text_bn": "রসুন, আদা আর কাঁচালঙ্কা একসাথে বেটে, নুন, লেবুর রস, ধনে গুঁড়ো, গরম মশলা, দ্যাটস ইট",
+                "text_en": "Garlic, ginger and green chillies are pounded together, salt, lemon juice, coriander powder, garam masala, that's it."
+            },
+            {
+                "start": 8.53,
+                "end": 16.43,
+                "text_bn": "রসুন, আদা আর কাঁচালঙ্কা একসাথে বেটে, নুন, লেবুর রস, ধনে গুঁড়ো, গরম মশলা, দ্যাটস ইট",
+                "text_en": "Garlic, ginger and green chillies are pounded together, salt, lemon juice, coriander powder, garam masala, that's it."
+            },
+            {
+                "start": 12.13,
+                "end": 19.83,
+                "text_bn": "রসুন, আদা আর কাঁচালঙ্কা একসাথে বেটে, নুন, লেবুর রস, ধনে গুঁড়ো, গরম মশলা, দ্যাটস ইট",
+                "text_en": "Garlic, ginger and green chillies are pounded together, salt, lemon juice, coriander powder, garam masala, that's it."
+            },
+            {
+                "start": 12.73,
+                "end": 21.67,
+                "text_bn": "ভালো করে মাখিয়ে নিয়ে চিকেনটা দিয়ে বেশ করে এদিক ওদিক দলাই মলাই করে নেব",
+                "text_en": "After kneading it well, I will take the chicken and spread it around"
+            },
+            {
+                "start": 16.43,
+                "end": 23.4,
+                "text_bn": "ভালো করে মাখিয়ে নিয়ে চিকেনটা দিয়ে বেশ করে এদিক ওদিক দলাই মলাই করে নেব",
+                "text_en": "After kneading it well, I will take the chicken and spread it around"
+            },
+            {
+                "start": 19.83,
+                "end": 24.63,
+                "text_bn": "ভালো করে মাখিয়ে নিয়ে চিকেনটা দিয়ে বেশ করে এদিক ওদিক দলাই মলাই করে নেব",
+                "text_en": "After kneading it well, I will take the chicken and spread it around"
+            },
+            {
+                "start": 21.67,
+                "end": 25.4,
+                "text_bn": "ভালো করে মাখিয়ে নিয়ে চিকেনটা দিয়ে বেশ করে এদিক ওদিক দলাই মলাই করে নেব",
+                "text_en": "After kneading it well, I will take the chicken and spread it around"
+            },
+            {
+                "start": 23.4,
+                "end": 26.17,
+                "text_bn": "ভালো করে মাখিয়ে নিয়ে চিকেনটা দিয়ে বেশ করে এদিক ওদিক দলাই মলাই করে নেব",
+                "text_en": "After kneading it well, I will take the chicken and spread it around"
+            },
+            {
+                "start": 24.63,
+                "end": 26.77,
+                "text_bn": "ভালো করে মাখিয়ে নিয়ে চিকেনটা দিয়ে বেশ করে এদিক ওদিক দলাই মলাই করে নেব",
+                "text_en": "After kneading it well, I will take the chicken and spread it around"
+            },
+            {
+                "start": 25.4,
+                "end": 29.87,
+                "text_bn": "একটা সিক্রেট বলি, এটা যদি তিনজনের বেশি রান্না হচ্ছে, তাহলে একটু পেঁয়াজ বাটাও অ্যাড করুন, যাতে গ্রেভি একটু বাড়বে",
+                "text_en": "Let me tell you a secret, if it is cooking for more than three people, then add some onion batter, so that the gravy will increase a bit"
+            },
+            {
+                "start": 26.17,
+                "end": 31.03,
+                "text_bn": "একটা সিক্রেট বলি, এটা যদি তিনজনের বেশি রান্না হচ্ছে, তাহলে একটু পেঁয়াজ বাটাও অ্যাড করুন, যাতে গ্রেভি একটু বাড়বে",
+                "text_en": "Let me tell you a secret, if it is cooking for more than three people, then add some onion batter, so that the gravy will increase a bit"
+            },
+            {
+                "start": 26.77,
+                "end": 31.6,
+                "text_bn": "একটা সিক্রেট বলি, এটা যদি তিনজনের বেশি রান্না হচ্ছে, তাহলে একটু পেঁয়াজ বাটাও অ্যাড করুন, যাতে গ্রেভি একটু বাড়বে",
+                "text_en": "Let me tell you a secret, if it is cooking for more than three people, then add some onion batter, so that the gravy will increase a bit"
+            },
+            {
+                "start": 29.87,
+                "end": 32.6,
+                "text_bn": "একটা সিক্রেট বলি, এটা যদি তিনজনের বেশি রান্না হচ্ছে, তাহলে একটু পেঁয়াজ বাটাও অ্যাড করুন, যাতে গ্রেভি একটু বাড়বে",
+                "text_en": "Let me tell you a secret, if it is cooking for more than three people, then add some onion batter, so that the gravy will increase a bit"
+            },
+            {
+                "start": 31.03,
+                "end": 34.57,
+                "text_bn": "একটা সিক্রেট বলি, এটা যদি তিনজনের বেশি রান্না হচ্ছে, তাহলে একটু পেঁয়াজ বাটাও অ্যাড করুন, যাতে গ্রেভি একটু বাড়বে",
+                "text_en": "Let me tell you a secret, if it is cooking for more than three people, then add some onion batter, so that the gravy will increase a bit"
+            },
+            {
+                "start": 31.6,
+                "end": 35.2,
+                "text_bn": "একটা সিক্রেট বলি, এটা যদি তিনজনের বেশি রান্না হচ্ছে, তাহলে একটু পেঁয়াজ বাটাও অ্যাড করুন, যাতে গ্রেভি একটু বাড়বে",
+                "text_en": "Let me tell you a secret, if it is cooking for more than three people, then add some onion batter, so that the gravy will increase a bit"
+            },
+            {
+                "start": 32.6,
+                "end": 35.77,
+                "text_bn": "এন্ড উই অল নো, খাওয়ার লো থাকতে হবে, দ্যাটস দা মেইন গোল",
+                "text_en": "And we all know, have to eat, that's the main goal"
+            },
+            {
+                "start": 34.57,
+                "end": 36.43,
+                "text_bn": "এন্ড উই অল নো, খাওয়ার লো থাকতে হবে, দ্যাটস দা মেইন গোল",
+                "text_en": "And we all know, have to eat, that's the main goal"
+            },
+            {
+                "start": 35.2,
+                "end": 37.17,
+                "text_bn": "এন্ড উই অল নো, খাওয়ার লো থাকতে হবে, দ্যাটস দা মেইন গোল",
+                "text_en": "And we all know, have to eat, that's the main goal"
+            },
+            {
+                "start": 35.77,
+                "end": 38.5,
+                "text_bn": "এন্ড উই অল নো, খাওয়ার লো থাকতে হবে, দ্যাটস দা মেইন গোল",
+                "text_en": "And we all know, have to eat, that's the main goal"
+            },
+            {
+                "start": 36.43,
+                "end": 40.5,
+                "text_bn": "এন্ড উই অল নো, খাওয়ার লো থাকতে হবে, দ্যাটস দা মেইন গোল",
+                "text_en": "And we all know, have to eat, that's the main goal"
+            },
+            {
+                "start": 37.17,
+                "end": 42.0,
+                "text_bn": "এন্ড উই অল নো, খাওয়ার লো থাকতে হবে, দ্যাটস দা মেইন গোল",
+                "text_en": "And we all know, have to eat, that's the main goal"
+            },
+            {
+                "start": 38.5,
+                "end": 43.03,
+                "text_bn": "এদিকে কটা পেঁয়াজ একদম বেরেস্তার মতো করে ভেজে নেব",
+                "text_en": "Meanwhile, I will fry some onions just like Barista"
+            },
+            {
+                "start": 40.5,
+                "end": 43.67,
+                "text_bn": "এদিকে কটা পেঁয়াজ একদম বেরেস্তার মতো করে ভেজে নেব",
+                "text_en": "Meanwhile, I will fry some onions just like Barista"
+            },
+            {
+                "start": 42.0,
+                "end": 46.97,
+                "text_bn": "এদিকে কটা পেঁয়াজ একদম বেরেস্তার মতো করে ভেজে নেব",
+                "text_en": "Meanwhile, I will fry some onions just like Barista"
+            },
+            {
+                "start": 43.03,
+                "end": 49.8,
+                "text_bn": "এদিকে কটা পেঁয়াজ একদম বেরেস্তার মতো করে ভেজে নেব",
+                "text_en": "Meanwhile, I will fry some onions just like Barista"
+            },
+            {
+                "start": 43.67,
+                "end": 50.77,
+                "text_bn": "এদিকে কটা পেঁয়াজ একদম বেরেস্তার মতো করে ভেজে নেব",
+                "text_en": "Meanwhile, I will fry some onions just like Barista"
+            },
+            {
+                "start": 46.97,
+                "end": 52.2,
+                "text_bn": "এদিকে কটা পেঁয়াজ একদম বেরেস্তার মতো করে ভেজে নেব",
+                "text_en": "Meanwhile, I will fry some onions just like Barista"
+            },
+            {
+                "start": 49.8,
+                "end": 52.83,
+                "text_bn": "একটু সাদা সাদা নামাবেন, লাল করে নামালে ঠান্ডা হয়ে কালো হয়ে যায়",
+                "text_en": "Take a little white, if you take it red, it turns black when it cools down"
+            },
+            {
+                "start": 50.77,
+                "end": 53.37,
+                "text_bn": "একটু সাদা সাদা নামাবেন, লাল করে নামালে ঠান্ডা হয়ে কালো হয়ে যায়",
+                "text_en": "Take a little white, if you take it red, it turns black when it cools down"
+            },
+            {
+                "start": 52.2,
+                "end": 54.1,
+                "text_bn": "একটু সাদা সাদা নামাবেন, লাল করে নামালে ঠান্ডা হয়ে কালো হয়ে যায়",
+                "text_en": "Take a little white, if you take it red, it turns black when it cools down"
+            },
+            {
+                "start": 52.83,
+                "end": 55.3,
+                "text_bn": "একটু সাদা সাদা নামাবেন, লাল করে নামালে ঠান্ডা হয়ে কালো হয়ে যায়",
+                "text_en": "Take a little white, if you take it red, it turns black when it cools down"
+            },
+            {
+                "start": 53.37,
+                "end": 55.83,
+                "text_bn": "একটু সাদা সাদা নামাবেন, লাল করে নামালে ঠান্ডা হয়ে কালো হয়ে যায়",
+                "text_en": "Take a little white, if you take it red, it turns black when it cools down"
+            },
+            {
+                "start": 54.1,
+                "end": 56.9,
+                "text_bn": "একটু সাদা সাদা নামাবেন, লাল করে নামালে ঠান্ডা হয়ে কালো হয়ে যায়",
+                "text_en": "Take a little white, if you take it red, it turns black when it cools down"
+            },
+            {
+                "start": 55.3,
+                "end": 59.17,
+                "text_bn": "ওই সেম তেলেই এক চামচ ঘি দিয়ে তেজ",
+                "text_en": "Add a spoonful of ghee to that bean oil"
+            },
+            {
+                "start": 55.83,
+                "end": 61.53,
+                "text_bn": "ওই সেম তেলেই এক চামচ ঘি দিয়ে তেজ",
+                "text_en": "Add a spoonful of ghee to that bean oil"
+            },
+            {
+                "start": 56.9,
+                "end": 66.33,
+                "text_bn": "ওই সেম তেলেই এক চামচ ঘি দিয়ে তেজ",
+                "text_en": "Add a spoonful of ghee to that bean oil"
+            },
+            {
+                "start": 59.17,
+                "end": 66.83,
+                "text_bn": "ওই সেম তেলেই এক চামচ ঘি দিয়ে তেজ",
+                "text_en": "Add a spoonful of ghee to that bean oil"
+            },
+            {
+                "start": 61.53,
+                "end": 66.83,
+                "text_bn": "ওই সেম তেলেই এক চামচ ঘি দিয়ে তেজ",
+                "text_en": "Add a spoonful of ghee to that bean oil"
+            }
+        ]
+    },
+    "shot_information": [
+        {
+            "shot_id": "shot_1",
+            "start_time": 0.0,
+            "end_time": 1.0,
+            "duration": 1.0,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_1.jpg",
+            "audio_text": "রসুন, আদা আর কাঁচালঙ্কা একসাথে বেটে, নুন, লেবুর রস, ধনে গুঁড়ো, গরম মশলা, দ্যাটস ইট",
+            "audio_text_bn": "রসুন, আদা আর কাঁচালঙ্কা একসাথে বেটে, নুন, লেবুর রস, ধনে গুঁড়ো, গরম মশলা, দ্যাটস ইট",
+            "audio_text_en": "Garlic, ginger and green chillies are pounded together, salt, lemon juice, coriander powder, garam masala, that's it."
+        },
+        {
+            "shot_id": "shot_2",
+            "start_time": 1.0,
+            "end_time": 7.03,
+            "duration": 6.03,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_2.jpg",
+            "audio_text": "রসুন, আদা আর কাঁচালঙ্কা একসাথে বেটে, নুন, লেবুর রস, ধনে গুঁড়ো, গরম মশলা, দ্যাটস ইট",
+            "audio_text_bn": "রসুন, আদা আর কাঁচালঙ্কা একসাথে বেটে, নুন, লেবুর রস, ধনে গুঁড়ো, গরম মশলা, দ্যাটস ইট",
+            "audio_text_en": "Garlic, ginger and green chillies are pounded together, salt, lemon juice, coriander powder, garam masala, that's it."
+        },
+        {
+            "shot_id": "shot_3",
+            "start_time": 7.03,
+            "end_time": 8.53,
+            "duration": 1.5,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_3.jpg",
+            "audio_text": "রসুন, আদা আর কাঁচালঙ্কা একসাথে বেটে, নুন, লেবুর রস, ধনে গুঁড়ো, গরম মশলা, দ্যাটস ইট",
+            "audio_text_bn": "রসুন, আদা আর কাঁচালঙ্কা একসাথে বেটে, নুন, লেবুর রস, ধনে গুঁড়ো, গরম মশলা, দ্যাটস ইট",
+            "audio_text_en": "Garlic, ginger and green chillies are pounded together, salt, lemon juice, coriander powder, garam masala, that's it."
+        },
+        {
+            "shot_id": "shot_4",
+            "start_time": 8.53,
+            "end_time": 12.13,
+            "duration": 3.6,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_4.jpg",
+            "audio_text": "রসুন, আদা আর কাঁচালঙ্কা একসাথে বেটে, নুন, লেবুর রস, ধনে গুঁড়ো, গরম মশলা, দ্যাটস ইট",
+            "audio_text_bn": "রসুন, আদা আর কাঁচালঙ্কা একসাথে বেটে, নুন, লেবুর রস, ধনে গুঁড়ো, গরম মশলা, দ্যাটস ইট",
+            "audio_text_en": "Garlic, ginger and green chillies are pounded together, salt, lemon juice, coriander powder, garam masala, that's it."
+        },
+        {
+            "shot_id": "shot_5",
+            "start_time": 12.13,
+            "end_time": 12.73,
+            "duration": 0.6,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_5.jpg",
+            "audio_text": "রসুন, আদা আর কাঁচালঙ্কা একসাথে বেটে, নুন, লেবুর রস, ধনে গুঁড়ো, গরম মশলা, দ্যাটস ইট",
+            "audio_text_bn": "রসুন, আদা আর কাঁচালঙ্কা একসাথে বেটে, নুন, লেবুর রস, ধনে গুঁড়ো, গরম মশলা, দ্যাটস ইট",
+            "audio_text_en": "Garlic, ginger and green chillies are pounded together, salt, lemon juice, coriander powder, garam masala, that's it."
+        },
+        {
+            "shot_id": "shot_6",
+            "start_time": 12.73,
+            "end_time": 16.43,
+            "duration": 3.7,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_6.jpg",
+            "audio_text": "রসুন, আদা আর কাঁচালঙ্কা একসাথে বেটে, নুন, লেবুর রস, ধনে গুঁড়ো, গরম মশলা, দ্যাটস ইট",
+            "audio_text_bn": "রসুন, আদা আর কাঁচালঙ্কা একসাথে বেটে, নুন, লেবুর রস, ধনে গুঁড়ো, গরম মশলা, দ্যাটস ইট",
+            "audio_text_en": "Garlic, ginger and green chillies are pounded together, salt, lemon juice, coriander powder, garam masala, that's it."
+        },
+        {
+            "shot_id": "shot_7",
+            "start_time": 16.43,
+            "end_time": 19.83,
+            "duration": 3.4,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_7.jpg",
+            "audio_text": "ভালো করে মাখিয়ে নিয়ে চিকেনটা দিয়ে বেশ করে এদিক ওদিক দলাই মলাই করে নেব",
+            "audio_text_bn": "ভালো করে মাখিয়ে নিয়ে চিকেনটা দিয়ে বেশ করে এদিক ওদিক দলাই মলাই করে নেব",
+            "audio_text_en": "After kneading it well, I will take the chicken and spread it around"
+        },
+        {
+            "shot_id": "shot_8",
+            "start_time": 19.83,
+            "end_time": 21.67,
+            "duration": 1.84,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_8.jpg",
+            "audio_text": "ভালো করে মাখিয়ে নিয়ে চিকেনটা দিয়ে বেশ করে এদিক ওদিক দলাই মলাই করে নেব",
+            "audio_text_bn": "ভালো করে মাখিয়ে নিয়ে চিকেনটা দিয়ে বেশ করে এদিক ওদিক দলাই মলাই করে নেব",
+            "audio_text_en": "After kneading it well, I will take the chicken and spread it around"
+        },
+        {
+            "shot_id": "shot_9",
+            "start_time": 21.67,
+            "end_time": 23.4,
+            "duration": 1.73,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_9.jpg",
+            "audio_text": "ভালো করে মাখিয়ে নিয়ে চিকেনটা দিয়ে বেশ করে এদিক ওদিক দলাই মলাই করে নেব",
+            "audio_text_bn": "ভালো করে মাখিয়ে নিয়ে চিকেনটা দিয়ে বেশ করে এদিক ওদিক দলাই মলাই করে নেব",
+            "audio_text_en": "After kneading it well, I will take the chicken and spread it around"
+        },
+        {
+            "shot_id": "shot_10",
+            "start_time": 23.4,
+            "end_time": 24.63,
+            "duration": 1.23,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_10.jpg",
+            "audio_text": "ভালো করে মাখিয়ে নিয়ে চিকেনটা দিয়ে বেশ করে এদিক ওদিক দলাই মলাই করে নেব",
+            "audio_text_bn": "ভালো করে মাখিয়ে নিয়ে চিকেনটা দিয়ে বেশ করে এদিক ওদিক দলাই মলাই করে নেব",
+            "audio_text_en": "After kneading it well, I will take the chicken and spread it around"
+        },
+        {
+            "shot_id": "shot_11",
+            "start_time": 24.63,
+            "end_time": 25.4,
+            "duration": 0.77,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_11.jpg",
+            "audio_text": "ভালো করে মাখিয়ে নিয়ে চিকেনটা দিয়ে বেশ করে এদিক ওদিক দলাই মলাই করে নেব",
+            "audio_text_bn": "ভালো করে মাখিয়ে নিয়ে চিকেনটা দিয়ে বেশ করে এদিক ওদিক দলাই মলাই করে নেব",
+            "audio_text_en": "After kneading it well, I will take the chicken and spread it around"
+        },
+        {
+            "shot_id": "shot_12",
+            "start_time": 25.4,
+            "end_time": 26.17,
+            "duration": 0.77,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_12.jpg",
+            "audio_text": "ভালো করে মাখিয়ে নিয়ে চিকেনটা দিয়ে বেশ করে এদিক ওদিক দলাই মলাই করে নেব",
+            "audio_text_bn": "ভালো করে মাখিয়ে নিয়ে চিকেনটা দিয়ে বেশ করে এদিক ওদিক দলাই মলাই করে নেব",
+            "audio_text_en": "After kneading it well, I will take the chicken and spread it around"
+        },
+        {
+            "shot_id": "shot_13",
+            "start_time": 26.17,
+            "end_time": 26.77,
+            "duration": 0.6,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_13.jpg",
+            "audio_text": "একটা সিক্রেট বলি, এটা যদি তিনজনের বেশি রান্না হচ্ছে, তাহলে একটু পেঁয়াজ বাটাও অ্যাড করুন, যাতে গ্রেভি একটু বাড়বে",
+            "audio_text_bn": "একটা সিক্রেট বলি, এটা যদি তিনজনের বেশি রান্না হচ্ছে, তাহলে একটু পেঁয়াজ বাটাও অ্যাড করুন, যাতে গ্রেভি একটু বাড়বে",
+            "audio_text_en": "Let me tell you a secret, if it is cooking for more than three people, then add some onion batter, so that the gravy will increase a bit"
+        },
+        {
+            "shot_id": "shot_14",
+            "start_time": 26.77,
+            "end_time": 29.87,
+            "duration": 3.1,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_14.jpg",
+            "audio_text": "একটা সিক্রেট বলি, এটা যদি তিনজনের বেশি রান্না হচ্ছে, তাহলে একটু পেঁয়াজ বাটাও অ্যাড করুন, যাতে গ্রেভি একটু বাড়বে",
+            "audio_text_bn": "একটা সিক্রেট বলি, এটা যদি তিনজনের বেশি রান্না হচ্ছে, তাহলে একটু পেঁয়াজ বাটাও অ্যাড করুন, যাতে গ্রেভি একটু বাড়বে",
+            "audio_text_en": "Let me tell you a secret, if it is cooking for more than three people, then add some onion batter, so that the gravy will increase a bit"
+        },
+        {
+            "shot_id": "shot_15",
+            "start_time": 29.87,
+            "end_time": 31.03,
+            "duration": 1.16,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_15.jpg",
+            "audio_text": "একটা সিক্রেট বলি, এটা যদি তিনজনের বেশি রান্না হচ্ছে, তাহলে একটু পেঁয়াজ বাটাও অ্যাড করুন, যাতে গ্রেভি একটু বাড়বে",
+            "audio_text_bn": "একটা সিক্রেট বলি, এটা যদি তিনজনের বেশি রান্না হচ্ছে, তাহলে একটু পেঁয়াজ বাটাও অ্যাড করুন, যাতে গ্রেভি একটু বাড়বে",
+            "audio_text_en": "Let me tell you a secret, if it is cooking for more than three people, then add some onion batter, so that the gravy will increase a bit"
+        },
+        {
+            "shot_id": "shot_16",
+            "start_time": 31.03,
+            "end_time": 31.6,
+            "duration": 0.57,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_16.jpg",
+            "audio_text": "একটা সিক্রেট বলি, এটা যদি তিনজনের বেশি রান্না হচ্ছে, তাহলে একটু পেঁয়াজ বাটাও অ্যাড করুন, যাতে গ্রেভি একটু বাড়বে",
+            "audio_text_bn": "একটা সিক্রেট বলি, এটা যদি তিনজনের বেশি রান্না হচ্ছে, তাহলে একটু পেঁয়াজ বাটাও অ্যাড করুন, যাতে গ্রেভি একটু বাড়বে",
+            "audio_text_en": "Let me tell you a secret, if it is cooking for more than three people, then add some onion batter, so that the gravy will increase a bit"
+        },
+        {
+            "shot_id": "shot_17",
+            "start_time": 31.6,
+            "end_time": 32.6,
+            "duration": 1.0,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_17.jpg",
+            "audio_text": "একটা সিক্রেট বলি, এটা যদি তিনজনের বেশি রান্না হচ্ছে, তাহলে একটু পেঁয়াজ বাটাও অ্যাড করুন, যাতে গ্রেভি একটু বাড়বে",
+            "audio_text_bn": "একটা সিক্রেট বলি, এটা যদি তিনজনের বেশি রান্না হচ্ছে, তাহলে একটু পেঁয়াজ বাটাও অ্যাড করুন, যাতে গ্রেভি একটু বাড়বে",
+            "audio_text_en": "Let me tell you a secret, if it is cooking for more than three people, then add some onion batter, so that the gravy will increase a bit"
+        },
+        {
+            "shot_id": "shot_18",
+            "start_time": 32.6,
+            "end_time": 34.57,
+            "duration": 1.97,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_18.jpg",
+            "audio_text": "একটা সিক্রেট বলি, এটা যদি তিনজনের বেশি রান্না হচ্ছে, তাহলে একটু পেঁয়াজ বাটাও অ্যাড করুন, যাতে গ্রেভি একটু বাড়বে",
+            "audio_text_bn": "একটা সিক্রেট বলি, এটা যদি তিনজনের বেশি রান্না হচ্ছে, তাহলে একটু পেঁয়াজ বাটাও অ্যাড করুন, যাতে গ্রেভি একটু বাড়বে",
+            "audio_text_en": "Let me tell you a secret, if it is cooking for more than three people, then add some onion batter, so that the gravy will increase a bit"
+        },
+        {
+            "shot_id": "shot_19",
+            "start_time": 34.57,
+            "end_time": 35.2,
+            "duration": 0.63,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_19.jpg",
+            "audio_text": "এন্ড উই অল নো, খাওয়ার লো থাকতে হবে, দ্যাটস দা মেইন গোল",
+            "audio_text_bn": "এন্ড উই অল নো, খাওয়ার লো থাকতে হবে, দ্যাটস দা মেইন গোল",
+            "audio_text_en": "And we all know, have to eat, that's the main goal"
+        },
+        {
+            "shot_id": "shot_20",
+            "start_time": 35.2,
+            "end_time": 35.77,
+            "duration": 0.57,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_20.jpg",
+            "audio_text": "এন্ড উই অল নো, খাওয়ার লো থাকতে হবে, দ্যাটস দা মেইন গোল",
+            "audio_text_bn": "এন্ড উই অল নো, খাওয়ার লো থাকতে হবে, দ্যাটস দা মেইন গোল",
+            "audio_text_en": "And we all know, have to eat, that's the main goal"
+        },
+        {
+            "shot_id": "shot_21",
+            "start_time": 35.77,
+            "end_time": 36.43,
+            "duration": 0.66,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_21.jpg",
+            "audio_text": "এন্ড উই অল নো, খাওয়ার লো থাকতে হবে, দ্যাটস দা মেইন গোল",
+            "audio_text_bn": "এন্ড উই অল নো, খাওয়ার লো থাকতে হবে, দ্যাটস দা মেইন গোল",
+            "audio_text_en": "And we all know, have to eat, that's the main goal"
+        },
+        {
+            "shot_id": "shot_22",
+            "start_time": 36.43,
+            "end_time": 37.17,
+            "duration": 0.74,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_22.jpg",
+            "audio_text": "এন্ড উই অল নো, খাওয়ার লো থাকতে হবে, দ্যাটস দা মেইন গোল",
+            "audio_text_bn": "এন্ড উই অল নো, খাওয়ার লো থাকতে হবে, দ্যাটস দা মেইন গোল",
+            "audio_text_en": "And we all know, have to eat, that's the main goal"
+        },
+        {
+            "shot_id": "shot_23",
+            "start_time": 37.17,
+            "end_time": 38.5,
+            "duration": 1.33,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_23.jpg",
+            "audio_text": "এন্ড উই অল নো, খাওয়ার লো থাকতে হবে, দ্যাটস দা মেইন গোল",
+            "audio_text_bn": "এন্ড উই অল নো, খাওয়ার লো থাকতে হবে, দ্যাটস দা মেইন গোল",
+            "audio_text_en": "And we all know, have to eat, that's the main goal"
+        },
+        {
+            "shot_id": "shot_24",
+            "start_time": 38.5,
+            "end_time": 40.5,
+            "duration": 2.0,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_24.jpg",
+            "audio_text": "এন্ড উই অল নো, খাওয়ার লো থাকতে হবে, দ্যাটস দা মেইন গোল",
+            "audio_text_bn": "এন্ড উই অল নো, খাওয়ার লো থাকতে হবে, দ্যাটস দা মেইন গোল",
+            "audio_text_en": "And we all know, have to eat, that's the main goal"
+        },
+        {
+            "shot_id": "shot_25",
+            "start_time": 40.5,
+            "end_time": 42.0,
+            "duration": 1.5,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_25.jpg",
+            "audio_text": "এদিকে কটা পেঁয়াজ একদম বেরেস্তার মতো করে ভেজে নেব",
+            "audio_text_bn": "এদিকে কটা পেঁয়াজ একদম বেরেস্তার মতো করে ভেজে নেব",
+            "audio_text_en": "Meanwhile, I will fry some onions just like Barista"
+        },
+        {
+            "shot_id": "shot_26",
+            "start_time": 42.0,
+            "end_time": 43.03,
+            "duration": 1.03,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_26.jpg",
+            "audio_text": "এদিকে কটা পেঁয়াজ একদম বেরেস্তার মতো করে ভেজে নেব",
+            "audio_text_bn": "এদিকে কটা পেঁয়াজ একদম বেরেস্তার মতো করে ভেজে নেব",
+            "audio_text_en": "Meanwhile, I will fry some onions just like Barista"
+        },
+        {
+            "shot_id": "shot_27",
+            "start_time": 43.03,
+            "end_time": 43.67,
+            "duration": 0.64,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_27.jpg",
+            "audio_text": "এদিকে কটা পেঁয়াজ একদম বেরেস্তার মতো করে ভেজে নেব",
+            "audio_text_bn": "এদিকে কটা পেঁয়াজ একদম বেরেস্তার মতো করে ভেজে নেব",
+            "audio_text_en": "Meanwhile, I will fry some onions just like Barista"
+        },
+        {
+            "shot_id": "shot_28",
+            "start_time": 43.67,
+            "end_time": 46.97,
+            "duration": 3.3,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_28.jpg",
+            "audio_text": "এদিকে কটা পেঁয়াজ একদম বেরেস্তার মতো করে ভেজে নেব",
+            "audio_text_bn": "এদিকে কটা পেঁয়াজ একদম বেরেস্তার মতো করে ভেজে নেব",
+            "audio_text_en": "Meanwhile, I will fry some onions just like Barista"
+        },
+        {
+            "shot_id": "shot_29",
+            "start_time": 46.97,
+            "end_time": 49.8,
+            "duration": 2.83,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_29.jpg",
+            "audio_text": "এদিকে কটা পেঁয়াজ একদম বেরেস্তার মতো করে ভেজে নেব",
+            "audio_text_bn": "এদিকে কটা পেঁয়াজ একদম বেরেস্তার মতো করে ভেজে নেব",
+            "audio_text_en": "Meanwhile, I will fry some onions just like Barista"
+        },
+        {
+            "shot_id": "shot_30",
+            "start_time": 49.8,
+            "end_time": 50.77,
+            "duration": 0.97,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_30.jpg",
+            "audio_text": "এদিকে কটা পেঁয়াজ একদম বেরেস্তার মতো করে ভেজে নেব",
+            "audio_text_bn": "এদিকে কটা পেঁয়াজ একদম বেরেস্তার মতো করে ভেজে নেব",
+            "audio_text_en": "Meanwhile, I will fry some onions just like Barista"
+        },
+        {
+            "shot_id": "shot_31",
+            "start_time": 50.77,
+            "end_time": 52.2,
+            "duration": 1.43,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_31.jpg",
+            "audio_text": "একটু সাদা সাদা নামাবেন, লাল করে নামালে ঠান্ডা হয়ে কালো হয়ে যায়",
+            "audio_text_bn": "একটু সাদা সাদা নামাবেন, লাল করে নামালে ঠান্ডা হয়ে কালো হয়ে যায়",
+            "audio_text_en": "Take a little white, if you take it red, it turns black when it cools down"
+        },
+        {
+            "shot_id": "shot_32",
+            "start_time": 52.2,
+            "end_time": 52.83,
+            "duration": 0.63,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_32.jpg",
+            "audio_text": "একটু সাদা সাদা নামাবেন, লাল করে নামালে ঠান্ডা হয়ে কালো হয়ে যায়",
+            "audio_text_bn": "একটু সাদা সাদা নামাবেন, লাল করে নামালে ঠান্ডা হয়ে কালো হয়ে যায়",
+            "audio_text_en": "Take a little white, if you take it red, it turns black when it cools down"
+        },
+        {
+            "shot_id": "shot_33",
+            "start_time": 52.83,
+            "end_time": 53.37,
+            "duration": 0.54,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_33.jpg",
+            "audio_text": "একটু সাদা সাদা নামাবেন, লাল করে নামালে ঠান্ডা হয়ে কালো হয়ে যায়",
+            "audio_text_bn": "একটু সাদা সাদা নামাবেন, লাল করে নামালে ঠান্ডা হয়ে কালো হয়ে যায়",
+            "audio_text_en": "Take a little white, if you take it red, it turns black when it cools down"
+        },
+        {
+            "shot_id": "shot_34",
+            "start_time": 53.37,
+            "end_time": 54.1,
+            "duration": 0.73,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_34.jpg",
+            "audio_text": "একটু সাদা সাদা নামাবেন, লাল করে নামালে ঠান্ডা হয়ে কালো হয়ে যায়",
+            "audio_text_bn": "একটু সাদা সাদা নামাবেন, লাল করে নামালে ঠান্ডা হয়ে কালো হয়ে যায়",
+            "audio_text_en": "Take a little white, if you take it red, it turns black when it cools down"
+        },
+        {
+            "shot_id": "shot_35",
+            "start_time": 54.1,
+            "end_time": 55.3,
+            "duration": 1.2,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_35.jpg",
+            "audio_text": "একটু সাদা সাদা নামাবেন, লাল করে নামালে ঠান্ডা হয়ে কালো হয়ে যায়",
+            "audio_text_bn": "একটু সাদা সাদা নামাবেন, লাল করে নামালে ঠান্ডা হয়ে কালো হয়ে যায়",
+            "audio_text_en": "Take a little white, if you take it red, it turns black when it cools down"
+        },
+        {
+            "shot_id": "shot_36",
+            "start_time": 55.3,
+            "end_time": 55.83,
+            "duration": 0.53,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_36.jpg",
+            "audio_text": "একটু সাদা সাদা নামাবেন, লাল করে নামালে ঠান্ডা হয়ে কালো হয়ে যায়",
+            "audio_text_bn": "একটু সাদা সাদা নামাবেন, লাল করে নামালে ঠান্ডা হয়ে কালো হয়ে যায়",
+            "audio_text_en": "Take a little white, if you take it red, it turns black when it cools down"
+        },
+        {
+            "shot_id": "shot_37",
+            "start_time": 55.83,
+            "end_time": 56.9,
+            "duration": 1.07,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_37.jpg",
+            "audio_text": "ওই সেম তেলেই এক চামচ ঘি দিয়ে তেজ",
+            "audio_text_bn": "ওই সেম তেলেই এক চামচ ঘি দিয়ে তেজ",
+            "audio_text_en": "Add a spoonful of ghee to that bean oil"
+        },
+        {
+            "shot_id": "shot_38",
+            "start_time": 56.9,
+            "end_time": 59.17,
+            "duration": 2.27,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_38.jpg",
+            "audio_text": "ওই সেম তেলেই এক চামচ ঘি দিয়ে তেজ",
+            "audio_text_bn": "ওই সেম তেলেই এক চামচ ঘি দিয়ে তেজ",
+            "audio_text_en": "Add a spoonful of ghee to that bean oil"
+        },
+        {
+            "shot_id": "shot_39",
+            "start_time": 59.17,
+            "end_time": 61.53,
+            "duration": 2.36,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_39.jpg",
+            "audio_text": "ওই সেম তেলেই এক চামচ ঘি দিয়ে তেজ",
+            "audio_text_bn": "ওই সেম তেলেই এক চামচ ঘি দিয়ে তেজ",
+            "audio_text_en": "Add a spoonful of ghee to that bean oil"
+        },
+        {
+            "shot_id": "shot_40",
+            "start_time": 61.53,
+            "end_time": 66.33,
+            "duration": 4.8,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_40.jpg",
+            "audio_text": "ওই সেম তেলেই এক চামচ ঘি দিয়ে তেজ",
+            "audio_text_bn": "ওই সেম তেলেই এক চামচ ঘি দিয়ে তেজ",
+            "audio_text_en": "Add a spoonful of ghee to that bean oil"
+        },
+        {
+            "shot_id": "shot_41",
+            "start_time": 66.33,
+            "end_time": 66.83,
+            "duration": 0.5,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_41.jpg",
+            "audio_text": "ওই সেম তেলেই এক চামচ ঘি দিয়ে তেজ",
+            "audio_text_bn": "ওই সেম তেলেই এক চামচ ঘি দিয়ে তেজ",
+            "audio_text_en": "Add a spoonful of ghee to that bean oil"
+        }
+    ],
+    "frame_information": [
+        {
+            "frame_id": "DAHI_CHICKEN_shot_1_f1",
+            "shot_id": "shot_1",
+            "timestamp": 0.5,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_1.jpg",
+            "ocr_text": "[|| রসুগ আদী"
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_2_f1",
+            "shot_id": "shot_2",
+            "timestamp": 4.02,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_2.jpg",
+            "ocr_text": "লেবুর রস"
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_3_f1",
+            "shot_id": "shot_3",
+            "timestamp": 7.78,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_3.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_4_f1",
+            "shot_id": "shot_4",
+            "timestamp": 10.33,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_4.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_5_f1",
+            "shot_id": "shot_5",
+            "timestamp": 12.43,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_5.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_6_f1",
+            "shot_id": "shot_6",
+            "timestamp": 14.58,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_6.jpg",
+            "ocr_text": "করুন"
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_7_f1",
+            "shot_id": "shot_7",
+            "timestamp": 18.13,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_7.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_8_f1",
+            "shot_id": "shot_8",
+            "timestamp": 20.75,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_8.jpg",
+            "ocr_text": "মত] করে"
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_9_f1",
+            "shot_id": "shot_9",
+            "timestamp": 22.54,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_9.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_10_f1",
+            "shot_id": "shot_10",
+            "timestamp": 24.02,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_10.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_11_f1",
+            "shot_id": "shot_11",
+            "timestamp": 25.02,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_11.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_12_f1",
+            "shot_id": "shot_12",
+            "timestamp": 25.79,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_12.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_13_f1",
+            "shot_id": "shot_13",
+            "timestamp": 26.47,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_13.jpg",
+            "ocr_text": "ঘি দিয়ে"
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_14_f1",
+            "shot_id": "shot_14",
+            "timestamp": 28.32,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_14.jpg",
+            "ocr_text": "দিতে পারেন"
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_15_f1",
+            "shot_id": "shot_15",
+            "timestamp": 30.45,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_15.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_16_f1",
+            "shot_id": "shot_16",
+            "timestamp": 31.32,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_16.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_17_f1",
+            "shot_id": "shot_17",
+            "timestamp": 32.1,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_17.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_18_f1",
+            "shot_id": "shot_18",
+            "timestamp": 33.59,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_18.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_19_f1",
+            "shot_id": "shot_19",
+            "timestamp": 34.89,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_19.jpg",
+            "ocr_text": "দু মিনিট"
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_20_f1",
+            "shot_id": "shot_20",
+            "timestamp": 35.48,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_20.jpg",
+            "ocr_text": "নেড়ে সঙ্গে"
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_21_f1",
+            "shot_id": "shot_21",
+            "timestamp": 36.1,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_21.jpg",
+            "ocr_text": "সঙঙ্গে ঢাকী ডব"
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_22_f1",
+            "shot_id": "shot_22",
+            "timestamp": 36.8,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_22.jpg",
+            "ocr_text": "পাঁচ মিনিট"
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_23_f1",
+            "shot_id": "shot_23",
+            "timestamp": 37.84,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_23.jpg",
+            "ocr_text": "পর খুলে দেখবেন"
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_24_f1",
+            "shot_id": "shot_24",
+            "timestamp": 39.5,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_24.jpg",
+            "ocr_text": "জল ছেড়েছে"
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_25_f1",
+            "shot_id": "shot_25",
+            "timestamp": 41.25,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_25.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_26_f1",
+            "shot_id": "shot_26",
+            "timestamp": 42.52,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_26.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_27_f1",
+            "shot_id": "shot_27",
+            "timestamp": 43.35,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_27.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_28_f1",
+            "shot_id": "shot_28",
+            "timestamp": 45.32,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_28.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_29_f1",
+            "shot_id": "shot_29",
+            "timestamp": 48.38,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_29.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_30_f1",
+            "shot_id": "shot_30",
+            "timestamp": 50.28,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_30.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_31_f1",
+            "shot_id": "shot_31",
+            "timestamp": 51.48,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_31.jpg",
+            "ocr_text": "ভেজে রাখী বেরিস্তী"
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_32_f1",
+            "shot_id": "shot_32",
+            "timestamp": 52.52,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_32.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_33_f1",
+            "shot_id": "shot_33",
+            "timestamp": 53.1,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_33.jpg",
+            "ocr_text": "কটী কাজু"
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_34_f1",
+            "shot_id": "shot_34",
+            "timestamp": 53.73,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_34.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_35_f1",
+            "shot_id": "shot_35",
+            "timestamp": 54.7,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_35.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_36_f1",
+            "shot_id": "shot_36",
+            "timestamp": 55.56,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_36.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_37_f1",
+            "shot_id": "shot_37",
+            "timestamp": 56.36,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_37.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_38_f1",
+            "shot_id": "shot_38",
+            "timestamp": 58.03,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_38.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_39_f1",
+            "shot_id": "shot_39",
+            "timestamp": 60.35,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_39.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_40_f1",
+            "shot_id": "shot_40",
+            "timestamp": 63.93,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_40.jpg",
+            "ocr_text": "I| )"
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_41_f1",
+            "shot_id": "shot_41",
+            "timestamp": 66.58,
+            "frame_path": "data/frames/DAHI_CHICKEN/shot_41.jpg",
+            "ocr_text": ""
+        }
+    ],
+    "object_detection": [
+        {
+            "frame_id": "DAHI_CHICKEN_shot_1_f1",
+            "shot_id": "shot_1",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.5,
+                    "bbox": [
+                        147.15,
+                        552.75,
+                        481.98,
+                        793.48
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.4,
+                    "bbox": [
+                        96.77,
+                        519.2,
+                        494.98,
+                        793.63
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.26,
+                    "bbox": [
+                        202.68,
+                        366.62,
+                        483.52,
+                        525.38
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_2_f1",
+            "shot_id": "shot_2",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.74,
+                    "bbox": [
+                        5.76,
+                        143.49,
+                        485.16,
+                        751.1
+                    ]
+                },
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.72,
+                    "bbox": [
+                        300.93,
+                        430.74,
+                        434.33,
+                        606.63
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.71,
+                    "bbox": [
+                        347.88,
+                        601.47,
+                        485.31,
+                        793.42
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_3_f1",
+            "shot_id": "shot_3",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.48,
+                    "bbox": [
+                        10.39,
+                        180.15,
+                        481.79,
+                        793.68
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.39,
+                    "bbox": [
+                        14.68,
+                        265.95,
+                        484.56,
+                        794.0
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.27,
+                    "bbox": [
+                        193.07,
+                        317.91,
+                        483.71,
+                        794.0
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.26,
+                    "bbox": [
+                        11.59,
+                        653.26,
+                        97.85,
+                        793.31
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_4_f1",
+            "shot_id": "shot_4",
+            "detected_objects": []
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_5_f1",
+            "shot_id": "shot_5",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.52,
+                    "bbox": [
+                        268.0,
+                        408.31,
+                        481.55,
+                        793.65
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.52,
+                    "bbox": [
+                        10.68,
+                        181.44,
+                        486.92,
+                        762.1
+                    ]
+                },
+                {
+                    "class_name": "pizza",
+                    "confidence": 0.36,
+                    "bbox": [
+                        13.82,
+                        200.83,
+                        482.92,
+                        702.54
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_6_f1",
+            "shot_id": "shot_6",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.8,
+                    "bbox": [
+                        12.5,
+                        23.56,
+                        468.73,
+                        662.57
+                    ]
+                },
+                {
+                    "class_name": "hot dog",
+                    "confidence": 0.55,
+                    "bbox": [
+                        254.42,
+                        448.31,
+                        425.11,
+                        598.69
+                    ]
+                },
+                {
+                    "class_name": "donut",
+                    "confidence": 0.44,
+                    "bbox": [
+                        330.68,
+                        688.22,
+                        484.2,
+                        793.72
+                    ]
+                },
+                {
+                    "class_name": "orange",
+                    "confidence": 0.34,
+                    "bbox": [
+                        351.34,
+                        68.75,
+                        417.67,
+                        135.82
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.34,
+                    "bbox": [
+                        16.28,
+                        276.07,
+                        461.25,
+                        709.43
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.29,
+                    "bbox": [
+                        17.22,
+                        462.67,
+                        464.61,
+                        704.18
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_7_f1",
+            "shot_id": "shot_7",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.71,
+                    "bbox": [
+                        10.57,
+                        173.77,
+                        480.36,
+                        790.24
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.64,
+                    "bbox": [
+                        10.71,
+                        337.38,
+                        485.85,
+                        758.03
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_8_f1",
+            "shot_id": "shot_8",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.72,
+                    "bbox": [
+                        12.09,
+                        23.12,
+                        326.6,
+                        504.9
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.61,
+                    "bbox": [
+                        27.76,
+                        415.36,
+                        484.0,
+                        793.83
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.42,
+                    "bbox": [
+                        12.25,
+                        26.14,
+                        463.96,
+                        511.47
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_9_f1",
+            "shot_id": "shot_9",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.64,
+                    "bbox": [
+                        11.54,
+                        27.94,
+                        490.73,
+                        721.66
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_10_f1",
+            "shot_id": "shot_10",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.41,
+                    "bbox": [
+                        13.47,
+                        76.74,
+                        484.04,
+                        678.44
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_11_f1",
+            "shot_id": "shot_11",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.52,
+                    "bbox": [
+                        14.59,
+                        140.76,
+                        485.67,
+                        794.0
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_12_f1",
+            "shot_id": "shot_12",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.83,
+                    "bbox": [
+                        5.09,
+                        190.61,
+                        484.18,
+                        692.32
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_13_f1",
+            "shot_id": "shot_13",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.41,
+                    "bbox": [
+                        16.59,
+                        23.95,
+                        485.51,
+                        154.01
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.34,
+                    "bbox": [
+                        12.35,
+                        96.65,
+                        484.01,
+                        784.52
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_14_f1",
+            "shot_id": "shot_14",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.51,
+                    "bbox": [
+                        14.69,
+                        25.61,
+                        484.41,
+                        765.12
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.35,
+                    "bbox": [
+                        15.56,
+                        339.74,
+                        483.49,
+                        790.35
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.25,
+                    "bbox": [
+                        12.78,
+                        24.92,
+                        484.32,
+                        485.45
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_15_f1",
+            "shot_id": "shot_15",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.73,
+                    "bbox": [
+                        20.12,
+                        356.61,
+                        450.36,
+                        672.02
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.6,
+                    "bbox": [
+                        12.07,
+                        316.2,
+                        393.78,
+                        499.76
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.57,
+                    "bbox": [
+                        11.79,
+                        121.77,
+                        244.53,
+                        319.76
+                    ]
+                },
+                {
+                    "class_name": "cake",
+                    "confidence": 0.53,
+                    "bbox": [
+                        241.14,
+                        200.0,
+                        391.51,
+                        363.54
+                    ]
+                },
+                {
+                    "class_name": "orange",
+                    "confidence": 0.29,
+                    "bbox": [
+                        304.43,
+                        91.18,
+                        374.08,
+                        157.49
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_16_f1",
+            "shot_id": "shot_16",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.63,
+                    "bbox": [
+                        19.49,
+                        449.84,
+                        483.98,
+                        791.62
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.5,
+                    "bbox": [
+                        16.32,
+                        263.7,
+                        483.25,
+                        789.72
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.4,
+                    "bbox": [
+                        29.05,
+                        25.22,
+                        484.69,
+                        376.69
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_17_f1",
+            "shot_id": "shot_17",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.51,
+                    "bbox": [
+                        12.05,
+                        202.63,
+                        488.26,
+                        787.77
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.37,
+                    "bbox": [
+                        15.54,
+                        27.03,
+                        473.41,
+                        727.41
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_18_f1",
+            "shot_id": "shot_18",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.26,
+                    "bbox": [
+                        9.37,
+                        219.76,
+                        482.24,
+                        783.2
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_19_f1",
+            "shot_id": "shot_19",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.67,
+                    "bbox": [
+                        6.3,
+                        31.97,
+                        483.27,
+                        557.04
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.65,
+                    "bbox": [
+                        11.12,
+                        466.32,
+                        483.87,
+                        791.71
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.58,
+                    "bbox": [
+                        9.14,
+                        25.72,
+                        482.83,
+                        784.89
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_20_f1",
+            "shot_id": "shot_20",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.7,
+                    "bbox": [
+                        13.49,
+                        445.75,
+                        480.53,
+                        792.36
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.66,
+                    "bbox": [
+                        9.09,
+                        29.4,
+                        483.35,
+                        786.19
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.51,
+                    "bbox": [
+                        18.2,
+                        22.01,
+                        478.57,
+                        517.95
+                    ]
+                },
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.5,
+                    "bbox": [
+                        67.84,
+                        404.05,
+                        302.56,
+                        561.89
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_21_f1",
+            "shot_id": "shot_21",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.72,
+                    "bbox": [
+                        12.27,
+                        23.54,
+                        485.72,
+                        601.79
+                    ]
+                },
+                {
+                    "class_name": "dining table",
+                    "confidence": 0.35,
+                    "bbox": [
+                        13.62,
+                        388.68,
+                        483.93,
+                        793.29
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.32,
+                    "bbox": [
+                        11.68,
+                        27.04,
+                        482.5,
+                        431.55
+                    ]
+                },
+                {
+                    "class_name": "knife",
+                    "confidence": 0.3,
+                    "bbox": [
+                        14.29,
+                        485.64,
+                        258.09,
+                        570.2
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_22_f1",
+            "shot_id": "shot_22",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.52,
+                    "bbox": [
+                        10.39,
+                        174.13,
+                        468.27,
+                        643.01
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.43,
+                    "bbox": [
+                        12.61,
+                        29.79,
+                        204.94,
+                        405.34
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_23_f1",
+            "shot_id": "shot_23",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.61,
+                    "bbox": [
+                        11.34,
+                        398.31,
+                        484.35,
+                        790.91
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_24_f1",
+            "shot_id": "shot_24",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.76,
+                    "bbox": [
+                        11.72,
+                        518.32,
+                        483.5,
+                        793.51
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.7,
+                    "bbox": [
+                        11.72,
+                        28.55,
+                        483.53,
+                        468.94
+                    ]
+                },
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.68,
+                    "bbox": [
+                        12.49,
+                        522.56,
+                        217.3,
+                        648.56
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_25_f1",
+            "shot_id": "shot_25",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.75,
+                    "bbox": [
+                        11.59,
+                        427.8,
+                        485.76,
+                        783.9
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.68,
+                    "bbox": [
+                        11.18,
+                        29.59,
+                        484.29,
+                        483.01
+                    ]
+                },
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.29,
+                    "bbox": [
+                        15.06,
+                        496.88,
+                        268.06,
+                        696.63
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_26_f1",
+            "shot_id": "shot_26",
+            "detected_objects": [
+                {
+                    "class_name": "cake",
+                    "confidence": 0.39,
+                    "bbox": [
+                        63.63,
+                        331.15,
+                        353.33,
+                        585.91
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_27_f1",
+            "shot_id": "shot_27",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.85,
+                    "bbox": [
+                        33.74,
+                        180.71,
+                        401.8,
+                        787.24
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.7,
+                    "bbox": [
+                        51.85,
+                        652.95,
+                        326.21,
+                        784.59
+                    ]
+                },
+                {
+                    "class_name": "vase",
+                    "confidence": 0.49,
+                    "bbox": [
+                        147.77,
+                        130.44,
+                        268.07,
+                        256.78
+                    ]
+                },
+                {
+                    "class_name": "potted plant",
+                    "confidence": 0.48,
+                    "bbox": [
+                        398.33,
+                        51.01,
+                        483.91,
+                        132.86
+                    ]
+                },
+                {
+                    "class_name": "potted plant",
+                    "confidence": 0.31,
+                    "bbox": [
+                        324.12,
+                        213.15,
+                        440.06,
+                        779.79
+                    ]
+                },
+                {
+                    "class_name": "cup",
+                    "confidence": 0.28,
+                    "bbox": [
+                        270.56,
+                        754.72,
+                        345.48,
+                        793.64
+                    ]
+                },
+                {
+                    "class_name": "potted plant",
+                    "confidence": 0.26,
+                    "bbox": [
+                        45.45,
+                        26.44,
+                        289.4,
+                        258.04
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_28_f1",
+            "shot_id": "shot_28",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.82,
+                    "bbox": [
+                        7.98,
+                        25.05,
+                        484.06,
+                        511.18
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.53,
+                    "bbox": [
+                        13.49,
+                        437.32,
+                        483.07,
+                        756.33
+                    ]
+                },
+                {
+                    "class_name": "dining table",
+                    "confidence": 0.45,
+                    "bbox": [
+                        14.02,
+                        437.56,
+                        485.65,
+                        777.93
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_29_f1",
+            "shot_id": "shot_29",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.54,
+                    "bbox": [
+                        12.28,
+                        25.19,
+                        477.76,
+                        416.78
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.51,
+                    "bbox": [
+                        11.37,
+                        337.38,
+                        486.89,
+                        790.79
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.41,
+                    "bbox": [
+                        11.4,
+                        486.52,
+                        488.49,
+                        792.83
+                    ]
+                },
+                {
+                    "class_name": "knife",
+                    "confidence": 0.32,
+                    "bbox": [
+                        11.89,
+                        424.36,
+                        163.1,
+                        626.2
+                    ]
+                },
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.29,
+                    "bbox": [
+                        11.96,
+                        386.66,
+                        162.7,
+                        625.56
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_30_f1",
+            "shot_id": "shot_30",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.75,
+                    "bbox": [
+                        14.16,
+                        29.35,
+                        482.75,
+                        427.92
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.74,
+                    "bbox": [
+                        13.17,
+                        379.99,
+                        484.24,
+                        791.31
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_31_f1",
+            "shot_id": "shot_31",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.6,
+                    "bbox": [
+                        22.04,
+                        403.76,
+                        418.0,
+                        788.16
+                    ]
+                },
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.37,
+                    "bbox": [
+                        105.87,
+                        242.86,
+                        483.21,
+                        563.41
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.3,
+                    "bbox": [
+                        436.55,
+                        174.27,
+                        483.62,
+                        269.43
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_32_f1",
+            "shot_id": "shot_32",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.86,
+                    "bbox": [
+                        47.76,
+                        472.57,
+                        440.23,
+                        767.78
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.5,
+                    "bbox": [
+                        34.93,
+                        222.72,
+                        483.33,
+                        517.5
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_33_f1",
+            "shot_id": "shot_33",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.69,
+                    "bbox": [
+                        36.2,
+                        181.1,
+                        483.14,
+                        779.7
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.49,
+                    "bbox": [
+                        80.41,
+                        576.0,
+                        484.14,
+                        793.63
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.3,
+                    "bbox": [
+                        52.98,
+                        323.25,
+                        435.53,
+                        675.11
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_34_f1",
+            "shot_id": "shot_34",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.86,
+                    "bbox": [
+                        26.13,
+                        52.52,
+                        483.95,
+                        345.37
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.73,
+                    "bbox": [
+                        38.4,
+                        342.24,
+                        472.24,
+                        790.3
+                    ]
+                },
+                {
+                    "class_name": "cake",
+                    "confidence": 0.41,
+                    "bbox": [
+                        44.68,
+                        353.83,
+                        461.22,
+                        663.57
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_35_f1",
+            "shot_id": "shot_35",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.79,
+                    "bbox": [
+                        37.41,
+                        484.18,
+                        427.65,
+                        793.11
+                    ]
+                },
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.56,
+                    "bbox": [
+                        82.93,
+                        275.41,
+                        482.68,
+                        602.18
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.54,
+                    "bbox": [
+                        11.71,
+                        296.04,
+                        218.74,
+                        518.86
+                    ]
+                },
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.38,
+                    "bbox": [
+                        140.73,
+                        271.71,
+                        483.71,
+                        521.93
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_36_f1",
+            "shot_id": "shot_36",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.7,
+                    "bbox": [
+                        12.11,
+                        27.81,
+                        407.97,
+                        520.02
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.65,
+                    "bbox": [
+                        14.83,
+                        486.01,
+                        477.48,
+                        793.55
+                    ]
+                },
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.62,
+                    "bbox": [
+                        43.24,
+                        356.15,
+                        288.83,
+                        553.24
+                    ]
+                },
+                {
+                    "class_name": "wine glass",
+                    "confidence": 0.32,
+                    "bbox": [
+                        343.83,
+                        154.98,
+                        484.17,
+                        482.59
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.3,
+                    "bbox": [
+                        19.03,
+                        355.78,
+                        481.19,
+                        788.18
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_37_f1",
+            "shot_id": "shot_37",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.48,
+                    "bbox": [
+                        12.25,
+                        113.96,
+                        484.75,
+                        706.87
+                    ]
+                },
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.41,
+                    "bbox": [
+                        11.82,
+                        568.53,
+                        482.48,
+                        715.49
+                    ]
+                },
+                {
+                    "class_name": "pizza",
+                    "confidence": 0.37,
+                    "bbox": [
+                        11.24,
+                        46.9,
+                        484.4,
+                        776.38
+                    ]
+                },
+                {
+                    "class_name": "fork",
+                    "confidence": 0.28,
+                    "bbox": [
+                        11.88,
+                        71.6,
+                        303.43,
+                        299.82
+                    ]
+                },
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.27,
+                    "bbox": [
+                        12.65,
+                        73.73,
+                        301.36,
+                        299.22
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_38_f1",
+            "shot_id": "shot_38",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.73,
+                    "bbox": [
+                        10.09,
+                        215.03,
+                        486.32,
+                        792.63
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.63,
+                    "bbox": [
+                        12.33,
+                        23.15,
+                        316.78,
+                        278.81
+                    ]
+                },
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.55,
+                    "bbox": [
+                        11.53,
+                        293.19,
+                        185.8,
+                        541.91
+                    ]
+                },
+                {
+                    "class_name": "chair",
+                    "confidence": 0.3,
+                    "bbox": [
+                        431.39,
+                        80.69,
+                        485.03,
+                        353.6
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_39_f1",
+            "shot_id": "shot_39",
+            "detected_objects": [
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.51,
+                    "bbox": [
+                        116.87,
+                        267.42,
+                        482.81,
+                        638.21
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.45,
+                    "bbox": [
+                        11.32,
+                        24.3,
+                        283.34,
+                        348.92
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.32,
+                    "bbox": [
+                        11.65,
+                        281.71,
+                        483.86,
+                        791.96
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.31,
+                    "bbox": [
+                        11.8,
+                        28.81,
+                        169.95,
+                        352.07
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_40_f1",
+            "shot_id": "shot_40",
+            "detected_objects": []
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_41_f1",
+            "shot_id": "shot_41",
+            "detected_objects": [
+                {
+                    "class_name": "pizza",
+                    "confidence": 0.55,
+                    "bbox": [
+                        12.11,
+                        278.48,
+                        483.59,
+                        793.36
+                    ]
+                }
+            ]
+        }
+    ],
+    "visual_descriptions": [
+        {
+            "frame_id": "DAHI_CHICKEN_shot_1_f1",
+            "shot_id": "shot_1",
+            "timestamp": 0.5,
+            "description": "A person pounds garlic, ginger, and green chillies with salt and spices in a bowl, creating a vibrant mixture for a flavorful dish. The ingredients are combined with lemon juice, coriander powder, and garam masala to form a fragrant paste."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_2_f1",
+            "shot_id": "shot_2",
+            "timestamp": 4.02,
+            "description": "A person pounds garlic, ginger, and green chillies with salt in a bowl, adding fresh lemon juice for flavor. The mixture is seasoned with spices like coriander powder and garam masala, creating a vibrant, aromatic dish."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_3_f1",
+            "shot_id": "shot_3",
+            "timestamp": 7.78,
+            "description": "A person pounds garlic, ginger, and green chillies in a bowl with spices like salt, lemon juice, coriander powder, and garam masala – creating a vibrant, fragrant paste for a flavorful dish. The ingredients are combined quickly and efficiently to build the base of the recipe."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_4_f1",
+            "shot_id": "shot_4",
+            "timestamp": 10.33,
+            "description": "Fresh garlic, ginger and green chillies are vigorously pounded with salt, lemon juice, coriander powder, and garam masala to create a vibrant spice paste. The resulting mixture is ready to be used as a flavorful base for your dish."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_5_f1",
+            "shot_id": "shot_5",
+            "timestamp": 12.43,
+            "description": "A person pounds garlic, ginger, and green chillies in a bowl with a mortar and pestle, creating a vibrant spice mixture ready to be combined with lemon juice and spices for pizza topping. The resulting blend promises a flavorful addition to a freshly made pizza."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_6_f1",
+            "shot_id": "shot_6",
+            "timestamp": 14.58,
+            "description": "A person pounds garlic, ginger, and green chillies with salt and spices in a bowl. The finished mixture is served alongside donuts, hot dogs, and oranges, garnished with lemon juice."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_7_f1",
+            "shot_id": "shot_7",
+            "timestamp": 18.13,
+            "description": "A bowl holds chicken being spread evenly after kneading dough well, preparing it for further cooking. The focus is on distributing the chicken across the surface."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_8_f1",
+            "shot_id": "shot_8",
+            "timestamp": 20.75,
+            "description": "A person kneads chicken in a bowl, spreading it evenly as part of the preparation process. The mixture appears ready for further cooking steps."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_9_f1",
+            "shot_id": "shot_9",
+            "timestamp": 22.54,
+            "description": "A bowl holds chicken being spread evenly as it’s kneaded for a recipe. The ingredients are combined with careful attention to ensure even distribution."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_10_f1",
+            "shot_id": "shot_10",
+            "timestamp": 24.02,
+            "description": "A bowl holds chicken being evenly spread after thorough kneading – a preparation step for further cooking. The focus is on distributing the ingredient across the surface."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_11_f1",
+            "shot_id": "shot_11",
+            "timestamp": 25.02,
+            "description": "A bowl holds chicken being spread evenly after it’s been thoroughly kneaded – a simple preparation for cooking."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_12_f1",
+            "shot_id": "shot_12",
+            "timestamp": 25.79,
+            "description": "A bowl holds a mass of kneaded dough, with chicken being evenly distributed throughout it as it’s prepared for cooking. The ingredients are combined and worked together to form the base of the dish."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_13_f1",
+            "shot_id": "shot_13",
+            "timestamp": 26.47,
+            "description": "A person adds ghee to a bowl while preparing a gravy, likely for a meal shared with multiple people – suggesting an onion batter addition for increased richness. The creamy ghee promises to enhance the final sauce’s flavor and texture."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_14_f1",
+            "shot_id": "shot_14",
+            "timestamp": 28.32,
+            "description": "A person adds onion batter to a bowl of gravy, preparing a rich sauce for a meal intended for more than three people. The video shows an increase in the gravy's volume and consistency."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_15_f1",
+            "shot_id": "shot_15",
+            "timestamp": 30.45,
+            "description": "A person prepares a cake with an orange, adding what appears to be onion batter into a bowl for gravy enhancement – creating a rich and flavorful dish. The finished cake is presented as part of this cooking process."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_16_f1",
+            "shot_id": "shot_16",
+            "timestamp": 31.32,
+            "description": "A person is preparing a gravy with a bowl, adding onion batter to increase its thickness – perfect for feeding a crowd! The dish promises a richer, more flavorful gravy appearance."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_17_f1",
+            "shot_id": "shot_17",
+            "timestamp": 32.1,
+            "description": "A person is preparing a gravy, adding onion batter to increase its thickness – likely for a dish served with multiple people. The scene features a bowl holding the ingredients as they stir and create a richer-looking sauce."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_18_f1",
+            "shot_id": "shot_18",
+            "timestamp": 33.59,
+            "description": "A bowl sits ready for a gravy enhancement – adding onion batter to increase its richness. The video shows someone preparing a larger batch of food with this addition."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_19_f1",
+            "shot_id": "shot_19",
+            "timestamp": 34.89,
+            "description": "A person prepares a meal, likely using a bowl to hold ingredients as they focus on the main goal of eating. The video shows a quick cooking action resulting in an appealing dish ready to be served."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_20_f1",
+            "shot_id": "shot_20",
+            "timestamp": 35.48,
+            "description": "A person uses a spoon to stir ingredients in a bowl, preparing a dish for consumption. The focus is on the simple act of mixing and creating something to eat."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_21_f1",
+            "shot_id": "shot_21",
+            "timestamp": 36.1,
+            "description": "A person is preparing a meal at a dining table with a knife, aiming to satisfy hunger with an unseen dish. The focus is on the act of cooking and serving food."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_22_f1",
+            "shot_id": "shot_22",
+            "timestamp": 36.8,
+            "description": "A person is preparing a meal, likely with a bowl of ingredients ready to be cooked. The focus appears to be on getting started quickly – five minutes!"
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_23_f1",
+            "shot_id": "shot_23",
+            "timestamp": 37.84,
+            "description": "Now open the bowl to reveal your ingredients and prepare for a delicious meal – it’s all about satisfying hunger! You'll see a beautiful dish taking shape as you cook."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_24_f1",
+            "shot_id": "shot_24",
+            "timestamp": 39.5,
+            "description": "A person uses a spoon to drain water from a bowl of food, likely preparing an ingredient for cooking. The focus is on the act of removing liquid and setting the stage for a meal."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_25_f1",
+            "shot_id": "shot_25",
+            "timestamp": 41.25,
+            "description": "A person is frying sliced onions in a bowl using a spoon, aiming for a similar flavor to Barista’s recipe. The onions are cooking and likely taking on a golden-brown appearance."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_26_f1",
+            "shot_id": "shot_26",
+            "timestamp": 42.52,
+            "description": "A single cake is being prepared with fried onions, likely mimicking a barista’s technique – showcasing a golden-brown onion topping alongside the sweet dessert. The video focuses on the action of frying the onions for garnish."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_27_f1",
+            "shot_id": "shot_27",
+            "timestamp": 43.35,
+            "description": "A person is frying onions in a bowl, likely mimicking a barista’s technique, with a cup and vase visible nearby. The scene includes a potted plant for context and suggests a focus on flavorful onion preparation."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_28_f1",
+            "shot_id": "shot_28",
+            "timestamp": 45.32,
+            "description": "A person is frying onions in a bowl, mimicking a Barista recipe, on a dining table. The onions will likely be golden brown and sizzling as they cook."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_29_f1",
+            "shot_id": "shot_29",
+            "timestamp": 48.38,
+            "description": "A person fries onions in a bowl using a knife and spoon, aiming for a similar result to a barista's preparation. The onions will sizzle as they cook in the pan."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_30_f1",
+            "shot_id": "shot_30",
+            "timestamp": 50.28,
+            "description": "A person is frying onions in a bowl, mimicking a barista's technique – watch as they caramelize for a rich flavor. The onions sizzle and turn golden brown, ready to be incorporated into your dish."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_31_f1",
+            "shot_id": "shot_31",
+            "timestamp": 51.48,
+            "description": "A person uses a spoon to serve a dish of lightly fried berries from a bowl – note that red berries will darken when chilled. This simple dessert is prepared with fresh berries and served immediately."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_32_f1",
+            "shot_id": "shot_32",
+            "timestamp": 52.52,
+            "description": "A person is preparing a bowl of white ingredients, warning that adding red will cause them to darken upon cooling. The visual highlights a simple mixing action and suggests an eventual change in food appearance."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_33_f1",
+            "shot_id": "shot_33",
+            "timestamp": 53.1,
+            "description": "A person is preparing a small bowl of white cashews, noting that red ones turn black when chilled. The video focuses on adding the nuts to a bowl for consumption."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_34_f1",
+            "shot_id": "shot_34",
+            "timestamp": 53.73,
+            "description": "A person mixes a bowl of white batter, preparing a cake that will turn black when chilled. The focus is on the creamy texture of the batter and the potential for a dramatic color change in the finished dessert."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_35_f1",
+            "shot_id": "shot_35",
+            "timestamp": 54.7,
+            "description": "A bowl and spoon hold a small amount of white powder—likely an ingredient that changes color when chilled. The video shows adding this substance to something, with a visual note about it turning black upon cooling."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_36_f1",
+            "shot_id": "shot_36",
+            "timestamp": 55.56,
+            "description": "A person uses a spoon to mix a bowl of white liquid, while a wine glass sits nearby – be careful if you add red, as it turns black when chilled!"
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_37_f1",
+            "shot_id": "shot_37",
+            "timestamp": 56.36,
+            "description": "A bowl of pizza is being prepared with ghee added using a spoon, and a fork rests nearby. The dish features a generous spoonful of melted ghee drizzled over the pizza."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_38_f1",
+            "shot_id": "shot_38",
+            "timestamp": 58.03,
+            "description": "A person adds a spoonful of ghee to a bowl of bean oil, utilizing a spoon for precise measurement as they prepare the dish. The glistening oil and ghee mixture suggests a rich and flavorful base for the recipe."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_39_f1",
+            "shot_id": "shot_39",
+            "timestamp": 60.35,
+            "description": "A person adds a spoonful of ghee to a bowl of bean oil, preparing a flavorful base for the dish. The glistening oil mixture suggests a rich and aromatic meal in progress."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_40_f1",
+            "shot_id": "shot_40",
+            "timestamp": 63.93,
+            "description": "A spoonful of ghee is added to a base of bean oil, creating a shimmering mixture ready for the next step in the recipe. The oil appears rich and golden with the addition of the melted ghee."
+        },
+        {
+            "frame_id": "DAHI_CHICKEN_shot_41_f1",
+            "shot_id": "shot_41",
+            "timestamp": 66.58,
+            "description": "A spoonful of ghee is added to a bowl of bean oil as pizza is prepared for cooking. The finished pizza appears ready for baking."
+        }
+    ],
+    "semantic_shot_information": [
+        {
+            "step_id": 1,
+            "start_time": 0.0,
+            "end_time": 16.43,
+            "duration": 16.43,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_1.jpg",
+            "audio_text_bn": "রসুন, আদা আর কাঁচালঙ্কা একসাথে বেটে, নুন, লেবুর রস, ধনে গুঁড়ো, গরম মশলা, দ্যাটস ইট",
+            "audio_text_en": "Garlic, ginger and green chillies are pounded together, salt, lemon juice, coriander powder, garam masala, that's it."
+        },
+        {
+            "step_id": 2,
+            "start_time": 16.43,
+            "end_time": 26.17,
+            "duration": 9.74,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_7.jpg",
+            "audio_text_bn": "ভালো করে মাখিয়ে নিয়ে চিকেনটা দিয়ে বেশ করে এদিক ওদিক দলাই মলাই করে নেব",
+            "audio_text_en": "After kneading it well, I will take the chicken and spread it around"
+        },
+        {
+            "step_id": 3,
+            "start_time": 26.17,
+            "end_time": 34.57,
+            "duration": 8.4,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_13.jpg",
+            "audio_text_bn": "একটা সিক্রেট বলি, এটা যদি তিনজনের বেশি রান্না হচ্ছে, তাহলে একটু পেঁয়াজ বাটাও অ্যাড করুন, যাতে গ্রেভি একটু বাড়বে",
+            "audio_text_en": "Let me tell you a secret, if it is cooking for more than three people, then add some onion batter, so that the gravy will increase a bit"
+        },
+        {
+            "step_id": 4,
+            "start_time": 34.57,
+            "end_time": 40.5,
+            "duration": 5.93,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_19.jpg",
+            "audio_text_bn": "এন্ড উই অল নো, খাওয়ার লো থাকতে হবে, দ্যাটস দা মেইন গোল",
+            "audio_text_en": "And we all know, have to eat, that's the main goal"
+        },
+        {
+            "step_id": 5,
+            "start_time": 40.5,
+            "end_time": 50.77,
+            "duration": 10.27,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_25.jpg",
+            "audio_text_bn": "এদিকে কটা পেঁয়াজ একদম বেরেস্তার মতো করে ভেজে নেব",
+            "audio_text_en": "Meanwhile, I will fry some onions just like Barista"
+        },
+        {
+            "step_id": 6,
+            "start_time": 50.77,
+            "end_time": 55.83,
+            "duration": 5.06,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_31.jpg",
+            "audio_text_bn": "একটু সাদা সাদা নামাবেন, লাল করে নামালে ঠান্ডা হয়ে কালো হয়ে যায়",
+            "audio_text_en": "Take a little white, if you take it red, it turns black when it cools down"
+        },
+        {
+            "step_id": 7,
+            "start_time": 55.83,
+            "end_time": 66.83,
+            "duration": 11.0,
+            "representative_frame": "data/frames/DAHI_CHICKEN/shot_37.jpg",
+            "audio_text_bn": "ওই সেম তেলেই এক চামচ ঘি দিয়ে তেজ",
+            "audio_text_en": "Add a spoonful of ghee to that bean oil"
+        }
+    ]
+}

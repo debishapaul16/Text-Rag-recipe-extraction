@@ -1,0 +1,2286 @@
+{
+    "video_info": {
+        "video_id": "FRIED_RICE",
+        "video_name": "FRIED_RICE.mp4",
+        "title": "Fried Rice",
+        "category": "Cooking",
+        "language": "Bengali",
+        "creator": "Debisha",
+        "duration": 42.43,
+        "fps": 30.0,
+        "width": 496,
+        "height": 794,
+        "total_frames": 1273,
+        "file_size": "9.47 MB",
+        "video_path": "data/videos/FRIED_RICE.mp4"
+    },
+    "recipe_information": {
+        "dish_type": "Recipe",
+        "ingredients": [
+            "onion",
+            "garlic",
+            "ginger",
+            "green chillies",
+            "eggs",
+            "rice"
+        ],
+        "estimated_steps": [
+            "Saute onion on high flame for 30 seconds.",
+            "Add garlic and saute for 10 seconds.",
+            "Include ginger and cook for another 10 seconds.",
+            "Add green chillies and cook for 30 seconds.",
+            "Beat three eggs together for 30 seconds.",
+            "Add a little more oil if needed while stirring the egg mixture for one minute.",
+            "Combine refrigerated rice with the prepared vegetables and eggs."
+        ],
+        "cuisine": "Unknown",
+        "tags": [
+            "chopping",
+            "eggs",
+            "rice",
+            "vegetables",
+            "cooking time"
+        ]
+    },
+    "audio_information": {
+        "transcript_bn": "রিচার্জেবল মিনি ইলেকট্রিক চপার, অত্যন্ত কম্প্যাক্ট একটা আদা, রসুন, পেঁয়াজ, লঙ্কার জল না কেটে সব চপ হয়ে যাচ্ছে। হ্যাঁ, এটা না থাকলে আর মিনিট 15 সময় আপনার এক্সট্রা লাগবেই। বাট দ্যাটস দা হোল পয়েন্ট অফ বাইং এ কিচেন গ্যাজেট, রাইট? ইউ ইনভেস্ট অন ইট টু সেভ ইউর প্রিসিয়াস টাইম। কড়া হাই ফ্লেমে, তেল, পেঁয়াজ 30 সেকেন্ড, রসুন 10 সেকেন্ড, আদা 10 সেকেন্ড, কাঁচা লঙ্কা আর 30 সেকেন্ড। ডিম, দুজনের জন্য তিনটে ডিম এনাফ। ডিমটা 30 সেকেন্ড, লাগলে আরেকটু তেল দিয়ে টানা এক মিনিট নাড়তে থাকুন। ফ্রিজে রাখা ভাত",
+        "transcript_en": "Rechargeable mini electric chopper, a very compact chopper without cutting ginger, garlic, onion, chillies. Yes, it will cost you 15 minutes extra if you don't have it. But that's the whole point of buying a kitchen gadget, right? You invest on it to save your precious time. On high flame, oil, saute onion for 30 seconds, garlic for 10 seconds, ginger for 10 seconds, green chillies for another 30 seconds. Eggs, three eggs are enough for two. Beat the egg for 30 seconds, add a little more oil if needed and keep stirring for a minute. Refrigerated rice",
+        "timestamps": [
+            {
+                "start": 0.0,
+                "end": 3.67,
+                "text_bn": "রিচার্জেবল মিনি ইলেকট্রিক চপার, অত্যন্ত কম্প্যাক্ট একটা আদা, রসুন, পেঁয়াজ, লঙ্কার জল না কেটে সব চপ হয়ে যাচ্ছে",
+                "text_en": "Rechargeable Mini Electric Chopper, Very Compact A Ginger, Garlic, Onion, Chilli Chops Everything Without Cutting The Water"
+            },
+            {
+                "start": 0.0,
+                "end": 4.97,
+                "text_bn": "রিচার্জেবল মিনি ইলেকট্রিক চপার, অত্যন্ত কম্প্যাক্ট একটা আদা, রসুন, পেঁয়াজ, লঙ্কার জল না কেটে সব চপ হয়ে যাচ্ছে",
+                "text_en": "Rechargeable Mini Electric Chopper, Very Compact A Ginger, Garlic, Onion, Chilli Chops Everything Without Cutting The Water"
+            },
+            {
+                "start": 1.0,
+                "end": 6.9,
+                "text_bn": "রিচার্জেবল মিনি ইলেকট্রিক চপার, অত্যন্ত কম্প্যাক্ট একটা আদা, রসুন, পেঁয়াজ, লঙ্কার জল না কেটে সব চপ হয়ে যাচ্ছে",
+                "text_en": "Rechargeable Mini Electric Chopper, Very Compact A Ginger, Garlic, Onion, Chilli Chops Everything Without Cutting The Water"
+            },
+            {
+                "start": 3.67,
+                "end": 8.23,
+                "text_bn": "রিচার্জেবল মিনি ইলেকট্রিক চপার, অত্যন্ত কম্প্যাক্ট একটা আদা, রসুন, পেঁয়াজ, লঙ্কার জল না কেটে সব চপ হয়ে যাচ্ছে",
+                "text_en": "Rechargeable Mini Electric Chopper, Very Compact A Ginger, Garlic, Onion, Chilli Chops Everything Without Cutting The Water"
+            },
+            {
+                "start": 4.97,
+                "end": 10.67,
+                "text_bn": "রিচার্জেবল মিনি ইলেকট্রিক চপার, অত্যন্ত কম্প্যাক্ট একটা আদা, রসুন, পেঁয়াজ, লঙ্কার জল না কেটে সব চপ হয়ে যাচ্ছে",
+                "text_en": "Rechargeable Mini Electric Chopper, Very Compact A Ginger, Garlic, Onion, Chilli Chops Everything Without Cutting The Water"
+            },
+            {
+                "start": 6.9,
+                "end": 12.0,
+                "text_bn": "হ্যাঁ, এটা না থাকলে আর মিনিট 15 সময় আপনার এক্সট্রা লাগবেই",
+                "text_en": "Yes, it will cost you 15 minutes extra if you don't have it"
+            },
+            {
+                "start": 8.23,
+                "end": 12.7,
+                "text_bn": "হ্যাঁ, এটা না থাকলে আর মিনিট 15 সময় আপনার এক্সট্রা লাগবেই",
+                "text_en": "Yes, it will cost you 15 minutes extra if you don't have it"
+            },
+            {
+                "start": 10.67,
+                "end": 14.2,
+                "text_bn": "হ্যাঁ, এটা না থাকলে আর মিনিট 15 সময় আপনার এক্সট্রা লাগবেই",
+                "text_en": "Yes, it will cost you 15 minutes extra if you don't have it"
+            },
+            {
+                "start": 12.0,
+                "end": 16.3,
+                "text_bn": "হ্যাঁ, এটা না থাকলে আর মিনিট 15 সময় আপনার এক্সট্রা লাগবেই",
+                "text_en": "Yes, it will cost you 15 minutes extra if you don't have it"
+            },
+            {
+                "start": 12.7,
+                "end": 17.67,
+                "text_bn": "হ্যাঁ, এটা না থাকলে আর মিনিট 15 সময় আপনার এক্সট্রা লাগবেই",
+                "text_en": "Yes, it will cost you 15 minutes extra if you don't have it"
+            },
+            {
+                "start": 14.2,
+                "end": 18.3,
+                "text_bn": "বাট দ্যাটস দা হোল পয়েন্ট অফ বাইং এ কিচেন গ্যাজেট, রাইট? ইউ ইনভেস্ট অন ইট টু সেভ ইউর প্রিসিয়াস টাইম",
+                "text_en": "But that's the whole point of buying a kitchen gadget, right? You invest on it to save your precious time"
+            },
+            {
+                "start": 16.3,
+                "end": 19.83,
+                "text_bn": "বাট দ্যাটস দা হোল পয়েন্ট অফ বাইং এ কিচেন গ্যাজেট, রাইট? ইউ ইনভেস্ট অন ইট টু সেভ ইউর প্রিসিয়াস টাইম",
+                "text_en": "But that's the whole point of buying a kitchen gadget, right? You invest on it to save your precious time"
+            },
+            {
+                "start": 17.67,
+                "end": 21.27,
+                "text_bn": "বাট দ্যাটস দা হোল পয়েন্ট অফ বাইং এ কিচেন গ্যাজেট, রাইট? ইউ ইনভেস্ট অন ইট টু সেভ ইউর প্রিসিয়াস টাইম",
+                "text_en": "But that's the whole point of buying a kitchen gadget, right? You invest on it to save your precious time"
+            },
+            {
+                "start": 18.3,
+                "end": 22.83,
+                "text_bn": "বাট দ্যাটস দা হোল পয়েন্ট অফ বাইং এ কিচেন গ্যাজেট, রাইট? ইউ ইনভেস্ট অন ইট টু সেভ ইউর প্রিসিয়াস টাইম",
+                "text_en": "But that's the whole point of buying a kitchen gadget, right? You invest on it to save your precious time"
+            },
+            {
+                "start": 19.83,
+                "end": 24.7,
+                "text_bn": "বাট দ্যাটস দা হোল পয়েন্ট অফ বাইং এ কিচেন গ্যাজেট, রাইট? ইউ ইনভেস্ট অন ইট টু সেভ ইউর প্রিসিয়াস টাইম",
+                "text_en": "But that's the whole point of buying a kitchen gadget, right? You invest on it to save your precious time"
+            },
+            {
+                "start": 21.27,
+                "end": 25.7,
+                "text_bn": "কড়া হাই ফ্লেমে, তেল, পেঁয়াজ 30 সেকেন্ড, রসুন 10 সেকেন্ড, আদা 10 সেকেন্ড, কাঁচা লঙ্কা আর 30 সেকেন্ড",
+                "text_en": "On high flame, oil, onion 30 seconds, garlic 10 seconds, ginger 10 seconds, green chillies and 30 seconds"
+            },
+            {
+                "start": 22.83,
+                "end": 27.13,
+                "text_bn": "কড়া হাই ফ্লেমে, তেল, পেঁয়াজ 30 সেকেন্ড, রসুন 10 সেকেন্ড, আদা 10 সেকেন্ড, কাঁচা লঙ্কা আর 30 সেকেন্ড",
+                "text_en": "On high flame, oil, onion 30 seconds, garlic 10 seconds, ginger 10 seconds, green chillies and 30 seconds"
+            },
+            {
+                "start": 24.7,
+                "end": 30.1,
+                "text_bn": "কড়া হাই ফ্লেমে, তেল, পেঁয়াজ 30 সেকেন্ড, রসুন 10 সেকেন্ড, আদা 10 সেকেন্ড, কাঁচা লঙ্কা আর 30 সেকেন্ড",
+                "text_en": "On high flame, oil, onion 30 seconds, garlic 10 seconds, ginger 10 seconds, green chillies and 30 seconds"
+            },
+            {
+                "start": 25.7,
+                "end": 30.73,
+                "text_bn": "কড়া হাই ফ্লেমে, তেল, পেঁয়াজ 30 সেকেন্ড, রসুন 10 সেকেন্ড, আদা 10 সেকেন্ড, কাঁচা লঙ্কা আর 30 সেকেন্ড",
+                "text_en": "On high flame, oil, onion 30 seconds, garlic 10 seconds, ginger 10 seconds, green chillies and 30 seconds"
+            },
+            {
+                "start": 27.13,
+                "end": 31.5,
+                "text_bn": "কড়া হাই ফ্লেমে, তেল, পেঁয়াজ 30 সেকেন্ড, রসুন 10 সেকেন্ড, আদা 10 সেকেন্ড, কাঁচা লঙ্কা আর 30 সেকেন্ড",
+                "text_en": "On high flame, oil, onion 30 seconds, garlic 10 seconds, ginger 10 seconds, green chillies and 30 seconds"
+            },
+            {
+                "start": 30.1,
+                "end": 32.2,
+                "text_bn": "ডিম, দুজনের জন্য তিনটে ডিম এনাফ",
+                "text_en": "Eggs, three eggs are enough for two"
+            },
+            {
+                "start": 30.73,
+                "end": 33.43,
+                "text_bn": "ডিম, দুজনের জন্য তিনটে ডিম এনাফ",
+                "text_en": "Eggs, three eggs are enough for two"
+            },
+            {
+                "start": 31.5,
+                "end": 34.2,
+                "text_bn": "ডিম, দুজনের জন্য তিনটে ডিম এনাফ",
+                "text_en": "Eggs, three eggs are enough for two"
+            },
+            {
+                "start": 32.2,
+                "end": 34.93,
+                "text_bn": "ডিম, দুজনের জন্য তিনটে ডিম এনাফ",
+                "text_en": "Eggs, three eggs are enough for two"
+            },
+            {
+                "start": 33.43,
+                "end": 36.43,
+                "text_bn": "ডিম, দুজনের জন্য তিনটে ডিম এনাফ",
+                "text_en": "Eggs, three eggs are enough for two"
+            },
+            {
+                "start": 34.2,
+                "end": 37.3,
+                "text_bn": "ডিমটা 30 সেকেন্ড, লাগলে আরেকটু তেল দিয়ে টানা এক মিনিট নাড়তে থাকুন",
+                "text_en": "Beat the egg for 30 seconds, add a little more oil if needed and keep stirring for a minute"
+            },
+            {
+                "start": 34.93,
+                "end": 38.4,
+                "text_bn": "ডিমটা 30 সেকেন্ড, লাগলে আরেকটু তেল দিয়ে টানা এক মিনিট নাড়তে থাকুন",
+                "text_en": "Beat the egg for 30 seconds, add a little more oil if needed and keep stirring for a minute"
+            },
+            {
+                "start": 36.43,
+                "end": 39.1,
+                "text_bn": "ডিমটা 30 সেকেন্ড, লাগলে আরেকটু তেল দিয়ে টানা এক মিনিট নাড়তে থাকুন",
+                "text_en": "Beat the egg for 30 seconds, add a little more oil if needed and keep stirring for a minute"
+            },
+            {
+                "start": 37.3,
+                "end": 40.27,
+                "text_bn": "ডিমটা 30 সেকেন্ড, লাগলে আরেকটু তেল দিয়ে টানা এক মিনিট নাড়তে থাকুন",
+                "text_en": "Beat the egg for 30 seconds, add a little more oil if needed and keep stirring for a minute"
+            },
+            {
+                "start": 38.4,
+                "end": 40.93,
+                "text_bn": "ডিমটা 30 সেকেন্ড, লাগলে আরেকটু তেল দিয়ে টানা এক মিনিট নাড়তে থাকুন",
+                "text_en": "Beat the egg for 30 seconds, add a little more oil if needed and keep stirring for a minute"
+            },
+            {
+                "start": 39.1,
+                "end": 41.73,
+                "text_bn": "ফ্রিজে রাখা ভাত",
+                "text_en": "Refrigerated rice"
+            },
+            {
+                "start": 40.27,
+                "end": 42.43,
+                "text_bn": "ফ্রিজে রাখা ভাত",
+                "text_en": "Refrigerated rice"
+            },
+            {
+                "start": 40.93,
+                "end": 42.43,
+                "text_bn": "ফ্রিজে রাখা ভাত",
+                "text_en": "Refrigerated rice"
+            }
+        ]
+    },
+    "shot_information": [
+        {
+            "shot_id": "shot_1",
+            "start_time": 0.0,
+            "end_time": 1.0,
+            "duration": 1.0,
+            "representative_frame": "data/frames/FRIED_RICE/shot_1.jpg",
+            "audio_text": "রিচার্জেবল মিনি ইলেকট্রিক চপার, অত্যন্ত কম্প্যাক্ট একটা আদা, রসুন, পেঁয়াজ, লঙ্কার জল না কেটে সব চপ হয়ে যাচ্ছে",
+            "audio_text_bn": "রিচার্জেবল মিনি ইলেকট্রিক চপার, অত্যন্ত কম্প্যাক্ট একটা আদা, রসুন, পেঁয়াজ, লঙ্কার জল না কেটে সব চপ হয়ে যাচ্ছে",
+            "audio_text_en": "Rechargeable Mini Electric Chopper, Very Compact A Ginger, Garlic, Onion, Chilli Chops Everything Without Cutting The Water"
+        },
+        {
+            "shot_id": "shot_2",
+            "start_time": 1.0,
+            "end_time": 3.67,
+            "duration": 2.67,
+            "representative_frame": "data/frames/FRIED_RICE/shot_2.jpg",
+            "audio_text": "রিচার্জেবল মিনি ইলেকট্রিক চপার, অত্যন্ত কম্প্যাক্ট একটা আদা, রসুন, পেঁয়াজ, লঙ্কার জল না কেটে সব চপ হয়ে যাচ্ছে",
+            "audio_text_bn": "রিচার্জেবল মিনি ইলেকট্রিক চপার, অত্যন্ত কম্প্যাক্ট একটা আদা, রসুন, পেঁয়াজ, লঙ্কার জল না কেটে সব চপ হয়ে যাচ্ছে",
+            "audio_text_en": "Rechargeable Mini Electric Chopper, Very Compact A Ginger, Garlic, Onion, Chilli Chops Everything Without Cutting The Water"
+        },
+        {
+            "shot_id": "shot_3",
+            "start_time": 3.67,
+            "end_time": 4.97,
+            "duration": 1.3,
+            "representative_frame": "data/frames/FRIED_RICE/shot_3.jpg",
+            "audio_text": "রিচার্জেবল মিনি ইলেকট্রিক চপার, অত্যন্ত কম্প্যাক্ট একটা আদা, রসুন, পেঁয়াজ, লঙ্কার জল না কেটে সব চপ হয়ে যাচ্ছে",
+            "audio_text_bn": "রিচার্জেবল মিনি ইলেকট্রিক চপার, অত্যন্ত কম্প্যাক্ট একটা আদা, রসুন, পেঁয়াজ, লঙ্কার জল না কেটে সব চপ হয়ে যাচ্ছে",
+            "audio_text_en": "Rechargeable Mini Electric Chopper, Very Compact A Ginger, Garlic, Onion, Chilli Chops Everything Without Cutting The Water"
+        },
+        {
+            "shot_id": "shot_4",
+            "start_time": 4.97,
+            "end_time": 6.9,
+            "duration": 1.93,
+            "representative_frame": "data/frames/FRIED_RICE/shot_4.jpg",
+            "audio_text": "রিচার্জেবল মিনি ইলেকট্রিক চপার, অত্যন্ত কম্প্যাক্ট একটা আদা, রসুন, পেঁয়াজ, লঙ্কার জল না কেটে সব চপ হয়ে যাচ্ছে",
+            "audio_text_bn": "রিচার্জেবল মিনি ইলেকট্রিক চপার, অত্যন্ত কম্প্যাক্ট একটা আদা, রসুন, পেঁয়াজ, লঙ্কার জল না কেটে সব চপ হয়ে যাচ্ছে",
+            "audio_text_en": "Rechargeable Mini Electric Chopper, Very Compact A Ginger, Garlic, Onion, Chilli Chops Everything Without Cutting The Water"
+        },
+        {
+            "shot_id": "shot_5",
+            "start_time": 6.9,
+            "end_time": 8.23,
+            "duration": 1.33,
+            "representative_frame": "data/frames/FRIED_RICE/shot_5.jpg",
+            "audio_text": "রিচার্জেবল মিনি ইলেকট্রিক চপার, অত্যন্ত কম্প্যাক্ট একটা আদা, রসুন, পেঁয়াজ, লঙ্কার জল না কেটে সব চপ হয়ে যাচ্ছে",
+            "audio_text_bn": "রিচার্জেবল মিনি ইলেকট্রিক চপার, অত্যন্ত কম্প্যাক্ট একটা আদা, রসুন, পেঁয়াজ, লঙ্কার জল না কেটে সব চপ হয়ে যাচ্ছে",
+            "audio_text_en": "Rechargeable Mini Electric Chopper, Very Compact A Ginger, Garlic, Onion, Chilli Chops Everything Without Cutting The Water"
+        },
+        {
+            "shot_id": "shot_6",
+            "start_time": 8.23,
+            "end_time": 10.67,
+            "duration": 2.44,
+            "representative_frame": "data/frames/FRIED_RICE/shot_6.jpg",
+            "audio_text": "হ্যাঁ, এটা না থাকলে আর মিনিট 15 সময় আপনার এক্সট্রা লাগবেই",
+            "audio_text_bn": "হ্যাঁ, এটা না থাকলে আর মিনিট 15 সময় আপনার এক্সট্রা লাগবেই",
+            "audio_text_en": "Yes, it will cost you 15 minutes extra if you don't have it"
+        },
+        {
+            "shot_id": "shot_7",
+            "start_time": 10.67,
+            "end_time": 12.0,
+            "duration": 1.33,
+            "representative_frame": "data/frames/FRIED_RICE/shot_7.jpg",
+            "audio_text": "হ্যাঁ, এটা না থাকলে আর মিনিট 15 সময় আপনার এক্সট্রা লাগবেই",
+            "audio_text_bn": "হ্যাঁ, এটা না থাকলে আর মিনিট 15 সময় আপনার এক্সট্রা লাগবেই",
+            "audio_text_en": "Yes, it will cost you 15 minutes extra if you don't have it"
+        },
+        {
+            "shot_id": "shot_8",
+            "start_time": 12.0,
+            "end_time": 12.7,
+            "duration": 0.7,
+            "representative_frame": "data/frames/FRIED_RICE/shot_8.jpg",
+            "audio_text": "হ্যাঁ, এটা না থাকলে আর মিনিট 15 সময় আপনার এক্সট্রা লাগবেই",
+            "audio_text_bn": "হ্যাঁ, এটা না থাকলে আর মিনিট 15 সময় আপনার এক্সট্রা লাগবেই",
+            "audio_text_en": "Yes, it will cost you 15 minutes extra if you don't have it"
+        },
+        {
+            "shot_id": "shot_9",
+            "start_time": 12.7,
+            "end_time": 14.2,
+            "duration": 1.5,
+            "representative_frame": "data/frames/FRIED_RICE/shot_9.jpg",
+            "audio_text": "হ্যাঁ, এটা না থাকলে আর মিনিট 15 সময় আপনার এক্সট্রা লাগবেই",
+            "audio_text_bn": "হ্যাঁ, এটা না থাকলে আর মিনিট 15 সময় আপনার এক্সট্রা লাগবেই",
+            "audio_text_en": "Yes, it will cost you 15 minutes extra if you don't have it"
+        },
+        {
+            "shot_id": "shot_10",
+            "start_time": 14.2,
+            "end_time": 16.3,
+            "duration": 2.1,
+            "representative_frame": "data/frames/FRIED_RICE/shot_10.jpg",
+            "audio_text": "হ্যাঁ, এটা না থাকলে আর মিনিট 15 সময় আপনার এক্সট্রা লাগবেই",
+            "audio_text_bn": "হ্যাঁ, এটা না থাকলে আর মিনিট 15 সময় আপনার এক্সট্রা লাগবেই",
+            "audio_text_en": "Yes, it will cost you 15 minutes extra if you don't have it"
+        },
+        {
+            "shot_id": "shot_11",
+            "start_time": 16.3,
+            "end_time": 17.67,
+            "duration": 1.37,
+            "representative_frame": "data/frames/FRIED_RICE/shot_11.jpg",
+            "audio_text": "বাট দ্যাটস দা হোল পয়েন্ট অফ বাইং এ কিচেন গ্যাজেট, রাইট? ইউ ইনভেস্ট অন ইট টু সেভ ইউর প্রিসিয়াস টাইম",
+            "audio_text_bn": "বাট দ্যাটস দা হোল পয়েন্ট অফ বাইং এ কিচেন গ্যাজেট, রাইট? ইউ ইনভেস্ট অন ইট টু সেভ ইউর প্রিসিয়াস টাইম",
+            "audio_text_en": "But that's the whole point of buying a kitchen gadget, right? You invest on it to save your precious time"
+        },
+        {
+            "shot_id": "shot_12",
+            "start_time": 17.67,
+            "end_time": 18.3,
+            "duration": 0.63,
+            "representative_frame": "data/frames/FRIED_RICE/shot_12.jpg",
+            "audio_text": "বাট দ্যাটস দা হোল পয়েন্ট অফ বাইং এ কিচেন গ্যাজেট, রাইট? ইউ ইনভেস্ট অন ইট টু সেভ ইউর প্রিসিয়াস টাইম",
+            "audio_text_bn": "বাট দ্যাটস দা হোল পয়েন্ট অফ বাইং এ কিচেন গ্যাজেট, রাইট? ইউ ইনভেস্ট অন ইট টু সেভ ইউর প্রিসিয়াস টাইম",
+            "audio_text_en": "But that's the whole point of buying a kitchen gadget, right? You invest on it to save your precious time"
+        },
+        {
+            "shot_id": "shot_13",
+            "start_time": 18.3,
+            "end_time": 19.83,
+            "duration": 1.53,
+            "representative_frame": "data/frames/FRIED_RICE/shot_13.jpg",
+            "audio_text": "বাট দ্যাটস দা হোল পয়েন্ট অফ বাইং এ কিচেন গ্যাজেট, রাইট? ইউ ইনভেস্ট অন ইট টু সেভ ইউর প্রিসিয়াস টাইম",
+            "audio_text_bn": "বাট দ্যাটস দা হোল পয়েন্ট অফ বাইং এ কিচেন গ্যাজেট, রাইট? ইউ ইনভেস্ট অন ইট টু সেভ ইউর প্রিসিয়াস টাইম",
+            "audio_text_en": "But that's the whole point of buying a kitchen gadget, right? You invest on it to save your precious time"
+        },
+        {
+            "shot_id": "shot_14",
+            "start_time": 19.83,
+            "end_time": 21.27,
+            "duration": 1.44,
+            "representative_frame": "data/frames/FRIED_RICE/shot_14.jpg",
+            "audio_text": "বাট দ্যাটস দা হোল পয়েন্ট অফ বাইং এ কিচেন গ্যাজেট, রাইট? ইউ ইনভেস্ট অন ইট টু সেভ ইউর প্রিসিয়াস টাইম",
+            "audio_text_bn": "বাট দ্যাটস দা হোল পয়েন্ট অফ বাইং এ কিচেন গ্যাজেট, রাইট? ইউ ইনভেস্ট অন ইট টু সেভ ইউর প্রিসিয়াস টাইম",
+            "audio_text_en": "But that's the whole point of buying a kitchen gadget, right? You invest on it to save your precious time"
+        },
+        {
+            "shot_id": "shot_15",
+            "start_time": 21.27,
+            "end_time": 22.83,
+            "duration": 1.56,
+            "representative_frame": "data/frames/FRIED_RICE/shot_15.jpg",
+            "audio_text": "বাট দ্যাটস দা হোল পয়েন্ট অফ বাইং এ কিচেন গ্যাজেট, রাইট? ইউ ইনভেস্ট অন ইট টু সেভ ইউর প্রিসিয়াস টাইম",
+            "audio_text_bn": "বাট দ্যাটস দা হোল পয়েন্ট অফ বাইং এ কিচেন গ্যাজেট, রাইট? ইউ ইনভেস্ট অন ইট টু সেভ ইউর প্রিসিয়াস টাইম",
+            "audio_text_en": "But that's the whole point of buying a kitchen gadget, right? You invest on it to save your precious time"
+        },
+        {
+            "shot_id": "shot_16",
+            "start_time": 22.83,
+            "end_time": 24.7,
+            "duration": 1.87,
+            "representative_frame": "data/frames/FRIED_RICE/shot_16.jpg",
+            "audio_text": "কড়া হাই ফ্লেমে, তেল, পেঁয়াজ 30 সেকেন্ড, রসুন 10 সেকেন্ড, আদা 10 সেকেন্ড, কাঁচা লঙ্কা আর 30 সেকেন্ড",
+            "audio_text_bn": "কড়া হাই ফ্লেমে, তেল, পেঁয়াজ 30 সেকেন্ড, রসুন 10 সেকেন্ড, আদা 10 সেকেন্ড, কাঁচা লঙ্কা আর 30 সেকেন্ড",
+            "audio_text_en": "On high flame, oil, onion 30 seconds, garlic 10 seconds, ginger 10 seconds, green chillies and 30 seconds"
+        },
+        {
+            "shot_id": "shot_17",
+            "start_time": 24.7,
+            "end_time": 25.7,
+            "duration": 1.0,
+            "representative_frame": "data/frames/FRIED_RICE/shot_17.jpg",
+            "audio_text": "কড়া হাই ফ্লেমে, তেল, পেঁয়াজ 30 সেকেন্ড, রসুন 10 সেকেন্ড, আদা 10 সেকেন্ড, কাঁচা লঙ্কা আর 30 সেকেন্ড",
+            "audio_text_bn": "কড়া হাই ফ্লেমে, তেল, পেঁয়াজ 30 সেকেন্ড, রসুন 10 সেকেন্ড, আদা 10 সেকেন্ড, কাঁচা লঙ্কা আর 30 সেকেন্ড",
+            "audio_text_en": "On high flame, oil, onion 30 seconds, garlic 10 seconds, ginger 10 seconds, green chillies and 30 seconds"
+        },
+        {
+            "shot_id": "shot_18",
+            "start_time": 25.7,
+            "end_time": 27.13,
+            "duration": 1.43,
+            "representative_frame": "data/frames/FRIED_RICE/shot_18.jpg",
+            "audio_text": "কড়া হাই ফ্লেমে, তেল, পেঁয়াজ 30 সেকেন্ড, রসুন 10 সেকেন্ড, আদা 10 সেকেন্ড, কাঁচা লঙ্কা আর 30 সেকেন্ড",
+            "audio_text_bn": "কড়া হাই ফ্লেমে, তেল, পেঁয়াজ 30 সেকেন্ড, রসুন 10 সেকেন্ড, আদা 10 সেকেন্ড, কাঁচা লঙ্কা আর 30 সেকেন্ড",
+            "audio_text_en": "On high flame, oil, onion 30 seconds, garlic 10 seconds, ginger 10 seconds, green chillies and 30 seconds"
+        },
+        {
+            "shot_id": "shot_19",
+            "start_time": 27.13,
+            "end_time": 30.1,
+            "duration": 2.97,
+            "representative_frame": "data/frames/FRIED_RICE/shot_19.jpg",
+            "audio_text": "কড়া হাই ফ্লেমে, তেল, পেঁয়াজ 30 সেকেন্ড, রসুন 10 সেকেন্ড, আদা 10 সেকেন্ড, কাঁচা লঙ্কা আর 30 সেকেন্ড",
+            "audio_text_bn": "কড়া হাই ফ্লেমে, তেল, পেঁয়াজ 30 সেকেন্ড, রসুন 10 সেকেন্ড, আদা 10 সেকেন্ড, কাঁচা লঙ্কা আর 30 সেকেন্ড",
+            "audio_text_en": "On high flame, oil, onion 30 seconds, garlic 10 seconds, ginger 10 seconds, green chillies and 30 seconds"
+        },
+        {
+            "shot_id": "shot_20",
+            "start_time": 30.1,
+            "end_time": 30.73,
+            "duration": 0.63,
+            "representative_frame": "data/frames/FRIED_RICE/shot_20.jpg",
+            "audio_text": "কড়া হাই ফ্লেমে, তেল, পেঁয়াজ 30 সেকেন্ড, রসুন 10 সেকেন্ড, আদা 10 সেকেন্ড, কাঁচা লঙ্কা আর 30 সেকেন্ড",
+            "audio_text_bn": "কড়া হাই ফ্লেমে, তেল, পেঁয়াজ 30 সেকেন্ড, রসুন 10 সেকেন্ড, আদা 10 সেকেন্ড, কাঁচা লঙ্কা আর 30 সেকেন্ড",
+            "audio_text_en": "On high flame, oil, onion 30 seconds, garlic 10 seconds, ginger 10 seconds, green chillies and 30 seconds"
+        },
+        {
+            "shot_id": "shot_21",
+            "start_time": 30.73,
+            "end_time": 31.5,
+            "duration": 0.77,
+            "representative_frame": "data/frames/FRIED_RICE/shot_21.jpg",
+            "audio_text": "ডিম, দুজনের জন্য তিনটে ডিম এনাফ",
+            "audio_text_bn": "ডিম, দুজনের জন্য তিনটে ডিম এনাফ",
+            "audio_text_en": "Eggs, three eggs are enough for two"
+        },
+        {
+            "shot_id": "shot_22",
+            "start_time": 31.5,
+            "end_time": 32.2,
+            "duration": 0.7,
+            "representative_frame": "data/frames/FRIED_RICE/shot_22.jpg",
+            "audio_text": "ডিম, দুজনের জন্য তিনটে ডিম এনাফ",
+            "audio_text_bn": "ডিম, দুজনের জন্য তিনটে ডিম এনাফ",
+            "audio_text_en": "Eggs, three eggs are enough for two"
+        },
+        {
+            "shot_id": "shot_23",
+            "start_time": 32.2,
+            "end_time": 33.43,
+            "duration": 1.23,
+            "representative_frame": "data/frames/FRIED_RICE/shot_23.jpg",
+            "audio_text": "ডিম, দুজনের জন্য তিনটে ডিম এনাফ",
+            "audio_text_bn": "ডিম, দুজনের জন্য তিনটে ডিম এনাফ",
+            "audio_text_en": "Eggs, three eggs are enough for two"
+        },
+        {
+            "shot_id": "shot_24",
+            "start_time": 33.43,
+            "end_time": 34.2,
+            "duration": 0.77,
+            "representative_frame": "data/frames/FRIED_RICE/shot_24.jpg",
+            "audio_text": "ডিম, দুজনের জন্য তিনটে ডিম এনাফ",
+            "audio_text_bn": "ডিম, দুজনের জন্য তিনটে ডিম এনাফ",
+            "audio_text_en": "Eggs, three eggs are enough for two"
+        },
+        {
+            "shot_id": "shot_25",
+            "start_time": 34.2,
+            "end_time": 34.93,
+            "duration": 0.73,
+            "representative_frame": "data/frames/FRIED_RICE/shot_25.jpg",
+            "audio_text": "ডিম, দুজনের জন্য তিনটে ডিম এনাফ",
+            "audio_text_bn": "ডিম, দুজনের জন্য তিনটে ডিম এনাফ",
+            "audio_text_en": "Eggs, three eggs are enough for two"
+        },
+        {
+            "shot_id": "shot_26",
+            "start_time": 34.93,
+            "end_time": 36.43,
+            "duration": 1.5,
+            "representative_frame": "data/frames/FRIED_RICE/shot_26.jpg",
+            "audio_text": "ডিমটা 30 সেকেন্ড, লাগলে আরেকটু তেল দিয়ে টানা এক মিনিট নাড়তে থাকুন",
+            "audio_text_bn": "ডিমটা 30 সেকেন্ড, লাগলে আরেকটু তেল দিয়ে টানা এক মিনিট নাড়তে থাকুন",
+            "audio_text_en": "Beat the egg for 30 seconds, add a little more oil if needed and keep stirring for a minute"
+        },
+        {
+            "shot_id": "shot_27",
+            "start_time": 36.43,
+            "end_time": 37.3,
+            "duration": 0.87,
+            "representative_frame": "data/frames/FRIED_RICE/shot_27.jpg",
+            "audio_text": "ডিমটা 30 সেকেন্ড, লাগলে আরেকটু তেল দিয়ে টানা এক মিনিট নাড়তে থাকুন",
+            "audio_text_bn": "ডিমটা 30 সেকেন্ড, লাগলে আরেকটু তেল দিয়ে টানা এক মিনিট নাড়তে থাকুন",
+            "audio_text_en": "Beat the egg for 30 seconds, add a little more oil if needed and keep stirring for a minute"
+        },
+        {
+            "shot_id": "shot_28",
+            "start_time": 37.3,
+            "end_time": 38.4,
+            "duration": 1.1,
+            "representative_frame": "data/frames/FRIED_RICE/shot_28.jpg",
+            "audio_text": "ডিমটা 30 সেকেন্ড, লাগলে আরেকটু তেল দিয়ে টানা এক মিনিট নাড়তে থাকুন",
+            "audio_text_bn": "ডিমটা 30 সেকেন্ড, লাগলে আরেকটু তেল দিয়ে টানা এক মিনিট নাড়তে থাকুন",
+            "audio_text_en": "Beat the egg for 30 seconds, add a little more oil if needed and keep stirring for a minute"
+        },
+        {
+            "shot_id": "shot_29",
+            "start_time": 38.4,
+            "end_time": 39.1,
+            "duration": 0.7,
+            "representative_frame": "data/frames/FRIED_RICE/shot_29.jpg",
+            "audio_text": "ডিমটা 30 সেকেন্ড, লাগলে আরেকটু তেল দিয়ে টানা এক মিনিট নাড়তে থাকুন",
+            "audio_text_bn": "ডিমটা 30 সেকেন্ড, লাগলে আরেকটু তেল দিয়ে টানা এক মিনিট নাড়তে থাকুন",
+            "audio_text_en": "Beat the egg for 30 seconds, add a little more oil if needed and keep stirring for a minute"
+        },
+        {
+            "shot_id": "shot_30",
+            "start_time": 39.1,
+            "end_time": 40.27,
+            "duration": 1.17,
+            "representative_frame": "data/frames/FRIED_RICE/shot_30.jpg",
+            "audio_text": "ডিমটা 30 সেকেন্ড, লাগলে আরেকটু তেল দিয়ে টানা এক মিনিট নাড়তে থাকুন",
+            "audio_text_bn": "ডিমটা 30 সেকেন্ড, লাগলে আরেকটু তেল দিয়ে টানা এক মিনিট নাড়তে থাকুন",
+            "audio_text_en": "Beat the egg for 30 seconds, add a little more oil if needed and keep stirring for a minute"
+        },
+        {
+            "shot_id": "shot_31",
+            "start_time": 40.27,
+            "end_time": 40.93,
+            "duration": 0.66,
+            "representative_frame": "data/frames/FRIED_RICE/shot_31.jpg",
+            "audio_text": "ফ্রিজে রাখা ভাত",
+            "audio_text_bn": "ফ্রিজে রাখা ভাত",
+            "audio_text_en": "Refrigerated rice"
+        },
+        {
+            "shot_id": "shot_32",
+            "start_time": 40.93,
+            "end_time": 41.73,
+            "duration": 0.8,
+            "representative_frame": "data/frames/FRIED_RICE/shot_32.jpg",
+            "audio_text": "ফ্রিজে রাখা ভাত",
+            "audio_text_bn": "ফ্রিজে রাখা ভাত",
+            "audio_text_en": "Refrigerated rice"
+        },
+        {
+            "shot_id": "shot_33",
+            "start_time": 41.73,
+            "end_time": 42.43,
+            "duration": 0.7,
+            "representative_frame": "data/frames/FRIED_RICE/shot_33.jpg",
+            "audio_text": "ফ্রিজে রাখা ভাত",
+            "audio_text_bn": "ফ্রিজে রাখা ভাত",
+            "audio_text_en": "Refrigerated rice"
+        }
+    ],
+    "frame_information": [
+        {
+            "frame_id": "FRIED_RICE_shot_1_f1",
+            "shot_id": "shot_1",
+            "timestamp": 0.5,
+            "frame_path": "data/frames/FRIED_RICE/shot_1.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_2_f1",
+            "shot_id": "shot_2",
+            "timestamp": 2.33,
+            "frame_path": "data/frames/FRIED_RICE/shot_2.jpg",
+            "ocr_text": "AGARO"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_3_f1",
+            "shot_id": "shot_3",
+            "timestamp": 4.32,
+            "frame_path": "data/frames/FRIED_RICE/shot_3.jpg",
+            "ocr_text": "Hnঙ"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_4_f1",
+            "shot_id": "shot_4",
+            "timestamp": 5.94,
+            "frame_path": "data/frames/FRIED_RICE/shot_4.jpg",
+            "ocr_text": "AGARO"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_5_f1",
+            "shot_id": "shot_5",
+            "timestamp": 7.57,
+            "frame_path": "data/frames/FRIED_RICE/shot_5.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_6_f1",
+            "shot_id": "shot_6",
+            "timestamp": 9.45,
+            "frame_path": "data/frames/FRIED_RICE/shot_6.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_7_f1",
+            "shot_id": "shot_7",
+            "timestamp": 11.34,
+            "frame_path": "data/frames/FRIED_RICE/shot_7.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_8_f1",
+            "shot_id": "shot_8",
+            "timestamp": 12.35,
+            "frame_path": "data/frames/FRIED_RICE/shot_8.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_9_f1",
+            "shot_id": "shot_9",
+            "timestamp": 13.45,
+            "frame_path": "data/frames/FRIED_RICE/shot_9.jpg",
+            "ocr_text": "AGARO"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_10_f1",
+            "shot_id": "shot_10",
+            "timestamp": 15.25,
+            "frame_path": "data/frames/FRIED_RICE/shot_10.jpg",
+            "ocr_text": "তেন পেঁয়়াজ"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_11_f1",
+            "shot_id": "shot_11",
+            "timestamp": 16.98,
+            "frame_path": "data/frames/FRIED_RICE/shot_11.jpg",
+            "ocr_text": "রসুন ১০ সেকেন্ড"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_12_f1",
+            "shot_id": "shot_12",
+            "timestamp": 17.98,
+            "frame_path": "data/frames/FRIED_RICE/shot_12.jpg",
+            "ocr_text": "ভদা ১০ সেকেন্ড"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_13_f1",
+            "shot_id": "shot_13",
+            "timestamp": 19.06,
+            "frame_path": "data/frames/FRIED_RICE/shot_13.jpg",
+            "ocr_text": "সর ৩০ সেকেন্ড"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_14_f1",
+            "shot_id": "shot_14",
+            "timestamp": 20.55,
+            "frame_path": "data/frames/FRIED_RICE/shot_14.jpg",
+            "ocr_text": "ডি; ুড়গ;"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_15_f1",
+            "shot_id": "shot_15",
+            "timestamp": 22.05,
+            "frame_path": "data/frames/FRIED_RICE/shot_15.jpg",
+            "ocr_text": "ডিমটা ৩০ সেকেন্ড"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_16_f1",
+            "shot_id": "shot_16",
+            "timestamp": 23.77,
+            "frame_path": "data/frames/FRIED_RICE/shot_16.jpg",
+            "ocr_text": "একটু তেন"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_17_f1",
+            "shot_id": "shot_17",
+            "timestamp": 25.2,
+            "frame_path": "data/frames/FRIED_RICE/shot_17.jpg",
+            "ocr_text": "নাড়িতে থাকুন"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_18_f1",
+            "shot_id": "shot_18",
+            "timestamp": 26.41,
+            "frame_path": "data/frames/FRIED_RICE/shot_18.jpg",
+            "ocr_text": "ভাত which"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_19_f1",
+            "shot_id": "shot_19",
+            "timestamp": 28.62,
+            "frame_path": "data/frames/FRIED_RICE/shot_19.jpg",
+            "ocr_text": "not বশি ভাত"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_20_f1",
+            "shot_id": "shot_20",
+            "timestamp": 30.41,
+            "frame_path": "data/frames/FRIED_RICE/shot_20.jpg",
+            "ocr_text": "glj শব"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_21_f1",
+            "shot_id": "shot_21",
+            "timestamp": 31.12,
+            "frame_path": "data/frames/FRIED_RICE/shot_21.jpg",
+            "ocr_text": "চিনি নুন"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_22_f1",
+            "shot_id": "shot_22",
+            "timestamp": 31.85,
+            "frame_path": "data/frames/FRIED_RICE/shot_22.jpg",
+            "ocr_text": "একটু soya sauce"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_23_f1",
+            "shot_id": "shot_23",
+            "timestamp": 32.81,
+            "frame_path": "data/frames/FRIED_RICE/shot_23.jpg",
+            "ocr_text": "একটু Ajinomoto"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_24_f1",
+            "shot_id": "shot_24",
+            "timestamp": 33.81,
+            "frame_path": "data/frames/FRIED_RICE/shot_24.jpg",
+            "ocr_text": "বা MSG"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_25_f1",
+            "shot_id": "shot_25",
+            "timestamp": 34.56,
+            "frame_path": "data/frames/FRIED_RICE/shot_25.jpg",
+            "ocr_text": "avoid করতে"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_26_f1",
+            "shot_id": "shot_26",
+            "timestamp": 35.68,
+            "frame_path": "data/frames/FRIED_RICE/shot_26.jpg",
+            "ocr_text": "দিতে পরেন"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_27_f1",
+            "shot_id": "shot_27",
+            "timestamp": 36.86,
+            "frame_path": "data/frames/FRIED_RICE/shot_27.jpg",
+            "ocr_text": "0)( check করে"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_28_f1",
+            "shot_id": "shot_28",
+            "timestamp": 37.85,
+            "frame_path": "data/frames/FRIED_RICE/shot_28.jpg",
+            "ocr_text": "spring onion"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_29_f1",
+            "shot_id": "shot_29",
+            "timestamp": 38.75,
+            "frame_path": "data/frames/FRIED_RICE/shot_29.jpg",
+            "ocr_text": ""
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_30_f1",
+            "shot_id": "shot_30",
+            "timestamp": 39.69,
+            "frame_path": "data/frames/FRIED_RICE/shot_30.jpg",
+            "ocr_text": "এ খক"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_31_f1",
+            "shot_id": "shot_31",
+            "timestamp": 40.6,
+            "frame_path": "data/frames/FRIED_RICE/shot_31.jpg",
+            "ocr_text": "আপর Zorjato-খে"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_32_f1",
+            "shot_id": "shot_32",
+            "timestamp": 41.33,
+            "frame_path": "data/frames/FRIED_RICE/shot_32.jpg",
+            "ocr_text": "offer খুঁজতে"
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_33_f1",
+            "shot_id": "shot_33",
+            "timestamp": 42.08,
+            "frame_path": "data/frames/FRIED_RICE/shot_33.jpg",
+            "ocr_text": "Gls Ibet"
+        }
+    ],
+    "object_detection": [
+        {
+            "frame_id": "FRIED_RICE_shot_1_f1",
+            "shot_id": "shot_1",
+            "detected_objects": [
+                {
+                    "class_name": "cup",
+                    "confidence": 0.44,
+                    "bbox": [
+                        385.07,
+                        30.48,
+                        486.42,
+                        434.26
+                    ]
+                },
+                {
+                    "class_name": "dining table",
+                    "confidence": 0.43,
+                    "bbox": [
+                        167.93,
+                        416.47,
+                        486.03,
+                        793.5
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.42,
+                    "bbox": [
+                        362.23,
+                        645.28,
+                        484.33,
+                        793.84
+                    ]
+                },
+                {
+                    "class_name": "cup",
+                    "confidence": 0.38,
+                    "bbox": [
+                        361.1,
+                        644.55,
+                        484.26,
+                        793.46
+                    ]
+                },
+                {
+                    "class_name": "dining table",
+                    "confidence": 0.35,
+                    "bbox": [
+                        20.45,
+                        401.21,
+                        486.26,
+                        793.47
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.3,
+                    "bbox": [
+                        51.59,
+                        461.2,
+                        353.41,
+                        670.27
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_2_f1",
+            "shot_id": "shot_2",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.75,
+                    "bbox": [
+                        12.38,
+                        24.84,
+                        282.02,
+                        505.43
+                    ]
+                },
+                {
+                    "class_name": "cup",
+                    "confidence": 0.48,
+                    "bbox": [
+                        363.49,
+                        645.25,
+                        484.53,
+                        793.53
+                    ]
+                },
+                {
+                    "class_name": "dining table",
+                    "confidence": 0.44,
+                    "bbox": [
+                        18.79,
+                        397.09,
+                        486.26,
+                        792.01
+                    ]
+                },
+                {
+                    "class_name": "cup",
+                    "confidence": 0.42,
+                    "bbox": [
+                        387.69,
+                        57.29,
+                        486.53,
+                        438.48
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.33,
+                    "bbox": [
+                        13.25,
+                        262.12,
+                        278.21,
+                        506.52
+                    ]
+                },
+                {
+                    "class_name": "knife",
+                    "confidence": 0.26,
+                    "bbox": [
+                        234.34,
+                        755.07,
+                        349.76,
+                        793.76
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_3_f1",
+            "shot_id": "shot_3",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.57,
+                    "bbox": [
+                        12.9,
+                        37.44,
+                        465.19,
+                        663.96
+                    ]
+                },
+                {
+                    "class_name": "cup",
+                    "confidence": 0.39,
+                    "bbox": [
+                        62.99,
+                        416.7,
+                        443.28,
+                        783.15
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_4_f1",
+            "shot_id": "shot_4",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.87,
+                    "bbox": [
+                        376.12,
+                        554.52,
+                        484.42,
+                        661.54
+                    ]
+                },
+                {
+                    "class_name": "dining table",
+                    "confidence": 0.73,
+                    "bbox": [
+                        22.53,
+                        418.01,
+                        485.44,
+                        793.14
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.7,
+                    "bbox": [
+                        12.97,
+                        27.32,
+                        376.64,
+                        547.2
+                    ]
+                },
+                {
+                    "class_name": "cup",
+                    "confidence": 0.6,
+                    "bbox": [
+                        391.2,
+                        23.21,
+                        486.65,
+                        453.19
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.26,
+                    "bbox": [
+                        371.16,
+                        660.27,
+                        485.03,
+                        793.85
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_5_f1",
+            "shot_id": "shot_5",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.76,
+                    "bbox": [
+                        13.03,
+                        272.31,
+                        146.51,
+                        647.7
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.58,
+                    "bbox": [
+                        61.16,
+                        264.36,
+                        436.44,
+                        682.14
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.51,
+                    "bbox": [
+                        13.96,
+                        235.89,
+                        309.97,
+                        652.88
+                    ]
+                },
+                {
+                    "class_name": "cup",
+                    "confidence": 0.46,
+                    "bbox": [
+                        69.43,
+                        261.93,
+                        433.03,
+                        678.2
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_6_f1",
+            "shot_id": "shot_6",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.86,
+                    "bbox": [
+                        12.92,
+                        23.88,
+                        407.34,
+                        476.16
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.84,
+                    "bbox": [
+                        360.71,
+                        545.36,
+                        483.73,
+                        651.27
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.77,
+                    "bbox": [
+                        214.16,
+                        604.35,
+                        351.79,
+                        714.72
+                    ]
+                },
+                {
+                    "class_name": "cup",
+                    "confidence": 0.69,
+                    "bbox": [
+                        146.25,
+                        416.59,
+                        331.29,
+                        601.35
+                    ]
+                },
+                {
+                    "class_name": "dining table",
+                    "confidence": 0.66,
+                    "bbox": [
+                        21.1,
+                        437.33,
+                        485.85,
+                        792.27
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.27,
+                    "bbox": [
+                        13.03,
+                        281.27,
+                        195.3,
+                        474.02
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_7_f1",
+            "shot_id": "shot_7",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.76,
+                    "bbox": [
+                        42.8,
+                        285.1,
+                        409.96,
+                        707.24
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.65,
+                    "bbox": [
+                        12.77,
+                        311.23,
+                        240.65,
+                        712.76
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.61,
+                    "bbox": [
+                        13.55,
+                        435.3,
+                        241.21,
+                        722.84
+                    ]
+                },
+                {
+                    "class_name": "broccoli",
+                    "confidence": 0.3,
+                    "bbox": [
+                        145.64,
+                        369.68,
+                        291.02,
+                        527.94
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.26,
+                    "bbox": [
+                        54.69,
+                        218.53,
+                        342.63,
+                        323.89
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_8_f1",
+            "shot_id": "shot_8",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.89,
+                    "bbox": [
+                        283.12,
+                        670.85,
+                        420.91,
+                        784.23
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.85,
+                    "bbox": [
+                        412.01,
+                        611.19,
+                        484.71,
+                        711.38
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.74,
+                    "bbox": [
+                        13.77,
+                        36.99,
+                        351.8,
+                        611.63
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.7,
+                    "bbox": [
+                        365.87,
+                        709.68,
+                        484.78,
+                        793.65
+                    ]
+                },
+                {
+                    "class_name": "cup",
+                    "confidence": 0.53,
+                    "bbox": [
+                        372.49,
+                        123.92,
+                        486.7,
+                        500.89
+                    ]
+                },
+                {
+                    "class_name": "dining table",
+                    "confidence": 0.5,
+                    "bbox": [
+                        30.34,
+                        479.09,
+                        483.82,
+                        793.25
+                    ]
+                },
+                {
+                    "class_name": "cell phone",
+                    "confidence": 0.44,
+                    "bbox": [
+                        191.26,
+                        374.23,
+                        351.18,
+                        503.9
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_9_f1",
+            "shot_id": "shot_9",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.89,
+                    "bbox": [
+                        13.5,
+                        25.02,
+                        398.57,
+                        470.68
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.88,
+                    "bbox": [
+                        300.56,
+                        657.54,
+                        439.55,
+                        771.01
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.83,
+                    "bbox": [
+                        430.43,
+                        601.83,
+                        484.14,
+                        698.19
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.75,
+                    "bbox": [
+                        380.27,
+                        696.4,
+                        485.26,
+                        793.67
+                    ]
+                },
+                {
+                    "class_name": "dining table",
+                    "confidence": 0.75,
+                    "bbox": [
+                        21.44,
+                        451.97,
+                        483.08,
+                        792.64
+                    ]
+                },
+                {
+                    "class_name": "bottle",
+                    "confidence": 0.63,
+                    "bbox": [
+                        169.63,
+                        373.79,
+                        365.23,
+                        658.92
+                    ]
+                },
+                {
+                    "class_name": "cup",
+                    "confidence": 0.28,
+                    "bbox": [
+                        390.53,
+                        123.15,
+                        486.26,
+                        487.73
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_10_f1",
+            "shot_id": "shot_10",
+            "detected_objects": []
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_11_f1",
+            "shot_id": "shot_11",
+            "detected_objects": [
+                {
+                    "class_name": "pizza",
+                    "confidence": 0.49,
+                    "bbox": [
+                        13.5,
+                        637.66,
+                        484.57,
+                        741.31
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_12_f1",
+            "shot_id": "shot_12",
+            "detected_objects": []
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_13_f1",
+            "shot_id": "shot_13",
+            "detected_objects": []
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_14_f1",
+            "shot_id": "shot_14",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.37,
+                    "bbox": [
+                        13.67,
+                        25.51,
+                        344.92,
+                        431.94
+                    ]
+                },
+                {
+                    "class_name": "apple",
+                    "confidence": 0.28,
+                    "bbox": [
+                        60.51,
+                        472.61,
+                        486.33,
+                        788.9
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_15_f1",
+            "shot_id": "shot_15",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.5,
+                    "bbox": [
+                        15.73,
+                        314.65,
+                        485.55,
+                        753.6
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.26,
+                    "bbox": [
+                        149.75,
+                        23.59,
+                        456.65,
+                        497.22
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_16_f1",
+            "shot_id": "shot_16",
+            "detected_objects": [
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.61,
+                    "bbox": [
+                        14.47,
+                        214.02,
+                        428.76,
+                        642.58
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.55,
+                    "bbox": [
+                        13.45,
+                        204.33,
+                        485.19,
+                        781.57
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_17_f1",
+            "shot_id": "shot_17",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.65,
+                    "bbox": [
+                        12.85,
+                        512.67,
+                        487.76,
+                        792.72
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_18_f1",
+            "shot_id": "shot_18",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.8,
+                    "bbox": [
+                        13.55,
+                        34.71,
+                        299.02,
+                        519.79
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.63,
+                    "bbox": [
+                        12.88,
+                        457.4,
+                        484.22,
+                        790.87
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_19_f1",
+            "shot_id": "shot_19",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.72,
+                    "bbox": [
+                        12.97,
+                        440.36,
+                        485.79,
+                        790.91
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.63,
+                    "bbox": [
+                        13.37,
+                        70.98,
+                        281.25,
+                        481.64
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_20_f1",
+            "shot_id": "shot_20",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.6,
+                    "bbox": [
+                        13.11,
+                        45.49,
+                        305.1,
+                        400.47
+                    ]
+                },
+                {
+                    "class_name": "potted plant",
+                    "confidence": 0.35,
+                    "bbox": [
+                        310.22,
+                        57.19,
+                        486.29,
+                        367.47
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.34,
+                    "bbox": [
+                        17.07,
+                        481.04,
+                        485.97,
+                        792.28
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.32,
+                    "bbox": [
+                        6.35,
+                        320.1,
+                        484.78,
+                        766.63
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_21_f1",
+            "shot_id": "shot_21",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.44,
+                    "bbox": [
+                        15.14,
+                        26.23,
+                        255.28,
+                        201.08
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.43,
+                    "bbox": [
+                        10.11,
+                        497.58,
+                        484.49,
+                        791.75
+                    ]
+                },
+                {
+                    "class_name": "potted plant",
+                    "confidence": 0.31,
+                    "bbox": [
+                        327.68,
+                        85.8,
+                        487.86,
+                        384.43
+                    ]
+                },
+                {
+                    "class_name": "oven",
+                    "confidence": 0.3,
+                    "bbox": [
+                        11.51,
+                        342.21,
+                        483.61,
+                        790.48
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_22_f1",
+            "shot_id": "shot_22",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.55,
+                    "bbox": [
+                        11.72,
+                        288.33,
+                        482.46,
+                        724.81
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.29,
+                    "bbox": [
+                        13.87,
+                        455.89,
+                        485.78,
+                        788.1
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_23_f1",
+            "shot_id": "shot_23",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.83,
+                    "bbox": [
+                        8.42,
+                        345.68,
+                        484.73,
+                        786.86
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.66,
+                    "bbox": [
+                        11.05,
+                        484.64,
+                        483.98,
+                        792.59
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_24_f1",
+            "shot_id": "shot_24",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.42,
+                    "bbox": [
+                        8.48,
+                        300.99,
+                        484.85,
+                        780.05
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.41,
+                    "bbox": [
+                        13.15,
+                        69.19,
+                        69.48,
+                        321.0
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_25_f1",
+            "shot_id": "shot_25",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.8,
+                    "bbox": [
+                        12.79,
+                        401.57,
+                        485.5,
+                        788.32
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.34,
+                    "bbox": [
+                        12.85,
+                        60.36,
+                        69.99,
+                        323.24
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_26_f1",
+            "shot_id": "shot_26",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.77,
+                    "bbox": [
+                        11.16,
+                        330.15,
+                        484.29,
+                        790.22
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.43,
+                    "bbox": [
+                        14.44,
+                        22.85,
+                        433.24,
+                        350.53
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_27_f1",
+            "shot_id": "shot_27",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.89,
+                    "bbox": [
+                        11.81,
+                        79.95,
+                        479.06,
+                        739.42
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.43,
+                    "bbox": [
+                        16.76,
+                        662.13,
+                        374.08,
+                        793.17
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_28_f1",
+            "shot_id": "shot_28",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.66,
+                    "bbox": [
+                        13.06,
+                        26.38,
+                        243.26,
+                        267.85
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.29,
+                    "bbox": [
+                        12.57,
+                        238.64,
+                        479.45,
+                        789.52
+                    ]
+                },
+                {
+                    "class_name": "broccoli",
+                    "confidence": 0.26,
+                    "bbox": [
+                        222.38,
+                        519.0,
+                        256.87,
+                        555.27
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_29_f1",
+            "shot_id": "shot_29",
+            "detected_objects": [
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.61,
+                    "bbox": [
+                        8.4,
+                        191.93,
+                        437.49,
+                        498.53
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.47,
+                    "bbox": [
+                        12.92,
+                        358.8,
+                        485.92,
+                        667.34
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_30_f1",
+            "shot_id": "shot_30",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.75,
+                    "bbox": [
+                        11.87,
+                        372.48,
+                        485.08,
+                        686.43
+                    ]
+                },
+                {
+                    "class_name": "spoon",
+                    "confidence": 0.62,
+                    "bbox": [
+                        12.24,
+                        156.26,
+                        416.39,
+                        505.45
+                    ]
+                },
+                {
+                    "class_name": "dining table",
+                    "confidence": 0.28,
+                    "bbox": [
+                        12.79,
+                        55.08,
+                        481.96,
+                        791.43
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_31_f1",
+            "shot_id": "shot_31",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.9,
+                    "bbox": [
+                        11.3,
+                        400.96,
+                        485.87,
+                        715.79
+                    ]
+                },
+                {
+                    "class_name": "dining table",
+                    "confidence": 0.69,
+                    "bbox": [
+                        12.17,
+                        283.61,
+                        479.98,
+                        794.0
+                    ]
+                },
+                {
+                    "class_name": "cup",
+                    "confidence": 0.35,
+                    "bbox": [
+                        366.47,
+                        99.16,
+                        485.39,
+                        456.53
+                    ]
+                },
+                {
+                    "class_name": "bottle",
+                    "confidence": 0.31,
+                    "bbox": [
+                        367.57,
+                        97.84,
+                        485.15,
+                        455.4
+                    ]
+                },
+                {
+                    "class_name": "potted plant",
+                    "confidence": 0.27,
+                    "bbox": [
+                        53.13,
+                        24.25,
+                        482.5,
+                        339.37
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_32_f1",
+            "shot_id": "shot_32",
+            "detected_objects": [
+                {
+                    "class_name": "person",
+                    "confidence": 0.67,
+                    "bbox": [
+                        13.33,
+                        19.82,
+                        340.67,
+                        368.08
+                    ]
+                },
+                {
+                    "class_name": "potted plant",
+                    "confidence": 0.47,
+                    "bbox": [
+                        13.23,
+                        24.91,
+                        457.28,
+                        324.31
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.47,
+                    "bbox": [
+                        14.22,
+                        282.93,
+                        440.74,
+                        507.92
+                    ]
+                }
+            ]
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_33_f1",
+            "shot_id": "shot_33",
+            "detected_objects": [
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.78,
+                    "bbox": [
+                        13.02,
+                        273.39,
+                        486.96,
+                        775.69
+                    ]
+                },
+                {
+                    "class_name": "person",
+                    "confidence": 0.59,
+                    "bbox": [
+                        14.45,
+                        496.8,
+                        140.65,
+                        792.33
+                    ]
+                },
+                {
+                    "class_name": "dining table",
+                    "confidence": 0.58,
+                    "bbox": [
+                        11.51,
+                        39.85,
+                        481.75,
+                        794.0
+                    ]
+                },
+                {
+                    "class_name": "bowl",
+                    "confidence": 0.52,
+                    "bbox": [
+                        10.8,
+                        280.35,
+                        483.09,
+                        618.76
+                    ]
+                },
+                {
+                    "class_name": "cup",
+                    "confidence": 0.44,
+                    "bbox": [
+                        12.81,
+                        25.85,
+                        80.35,
+                        298.18
+                    ]
+                }
+            ]
+        }
+    ],
+    "visual_descriptions": [
+        {
+            "frame_id": "FRIED_RICE_shot_1_f1",
+            "shot_id": "shot_1",
+            "timestamp": 0.5,
+            "description": "A person uses a compact electric chopper to quickly process ginger, garlic, onion, and chili into a flavorful paste, with a bowl and cup nearby on the dining table. The vibrant chopped ingredients create a colorful addition for a recipe."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_2_f1",
+            "shot_id": "shot_2",
+            "timestamp": 2.33,
+            "description": "A person uses a compact electric chopper to quickly process ginger, garlic, onion, and chili into finely chopped pieces for a vibrant dish. The small appliance sits on a dining table with a knife nearby, preparing fresh ingredients."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_3_f1",
+            "shot_id": "shot_3",
+            "timestamp": 4.32,
+            "description": "A person uses a compact electric chopper to quickly process ginger, garlic, onion, and chili – creating finely chopped ingredients without water. The resulting mixture appears vibrant and ready for use in a recipe."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_4_f1",
+            "shot_id": "shot_4",
+            "timestamp": 5.94,
+            "description": "A person uses a compact electric chopper to quickly process ginger, garlic, onion, and chili into a flavorful paste within a bowl. The small appliance effortlessly chops ingredients without water, creating a vibrant mixture ready for cooking."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_5_f1",
+            "shot_id": "shot_5",
+            "timestamp": 7.57,
+            "description": "A person uses a compact electric chopper to quickly process ginger, garlic, onion, and chili into small pieces – perfect for adding flavor without cutting. The chopped ingredients are displayed in a bowl alongside a cup, ready for use in a recipe."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_6_f1",
+            "shot_id": "shot_6",
+            "timestamp": 9.45,
+            "description": "A person prepares a dish with a bowl and cup on a dining table, likely a quick recipe that adds an extra 15 minutes without specific ingredients. The finished food is presented in a visually appealing manner."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_7_f1",
+            "shot_id": "shot_7",
+            "timestamp": 11.34,
+            "description": "A person prepares broccoli in a bowl, likely aiming for a quick dish that will add an extra fifteen minutes to the cooking time if ingredients are unavailable. The video shows someone adding broccoli to a bowl as part of the preparation process."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_8_f1",
+            "shot_id": "shot_8",
+            "timestamp": 12.35,
+            "description": "A person prepares a dish using a bowl and cup, likely while glancing at a cell phone nearby, showcasing ingredients and a finished product on a dining table. It will take approximately 15 minutes extra if you don’t have all the necessary items."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_9_f1",
+            "shot_id": "shot_9",
+            "timestamp": 13.45,
+            "description": "A person prepares a dish using an AGARO bottle and bowl, likely for a quick recipe taking approximately 15 minutes extra if ingredients aren’t readily available. The finished food appears in a cup on a dining table."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_10_f1",
+            "shot_id": "shot_10",
+            "timestamp": 15.25,
+            "description": "This quick recipe uses onions and requires approximately 15 extra minutes if you don’t have them – perfect for a simple dish.  Watch as you prepare this delicious food with basic kitchen utensils."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_11_f1",
+            "shot_id": "shot_11",
+            "timestamp": 16.98,
+            "description": "A slice of pizza is being prepared, starting with a quick addition of garlic. The video highlights investing in kitchen gadgets to save time while cooking."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_12_f1",
+            "shot_id": "shot_12",
+            "timestamp": 17.98,
+            "description": "This video highlights how a kitchen gadget can save time while preparing a meal – showcasing the simple process and delicious results. The focus is on investing in tools to streamline cooking and enjoy the finished dish."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_13_f1",
+            "shot_id": "shot_13",
+            "timestamp": 19.06,
+            "description": "This video explores the value of kitchen gadgets, focusing on how they save time in preparing delicious food. Watch as we demonstrate a quick and simple technique for enjoying a flavorful meal."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_14_f1",
+            "shot_id": "shot_14",
+            "timestamp": 20.55,
+            "description": "A person is preparing apples with a kitchen gadget, likely aiming to save time in the cooking process. The focus is on the fresh apple ingredient and the efficient use of the device."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_15_f1",
+            "shot_id": "shot_15",
+            "timestamp": 22.05,
+            "description": "A person is preparing a bowl of eggs, suggesting a quick and convenient cooking method for an easy breakfast. The video focuses on the simple act of setting the eggs aside for thirty seconds."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_16_f1",
+            "shot_id": "shot_16",
+            "timestamp": 23.77,
+            "description": "A spoon stirs oil over high heat as diced onion, garlic and ginger sizzle for a short time, followed by green chillies. The ingredients create an aromatic base in a bowl, ready for further cooking."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_17_f1",
+            "shot_id": "shot_17",
+            "timestamp": 25.2,
+            "description": "In a pan over high heat, sauté chopped onion for 30 seconds before adding minced garlic and ginger – followed by sliced green chillies for another 30 seconds. The vibrant mixture is building flavor in a bowl."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_18_f1",
+            "shot_id": "shot_18",
+            "timestamp": 26.41,
+            "description": "A person is preparing rice with onion, garlic, and ginger over a high flame, adding green chillies to the sizzling mixture in a bowl. The ingredients are quickly sautéed for varying lengths of time before being combined into the dish."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_19_f1",
+            "shot_id": "shot_19",
+            "timestamp": 28.62,
+            "description": "A person is frying onions, garlic, and ginger over high heat in a bowl, with green chillies added towards the end of the cooking process. The ingredients sizzle as they cook on the flame."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_20_f1",
+            "shot_id": "shot_20",
+            "timestamp": 30.41,
+            "description": "A person skillfully prepares aromatics – onion, garlic, and ginger – over high heat in a bowl, while green chillies sizzle briefly alongside. The vibrant ingredients create a fragrant base for the dish."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_21_f1",
+            "shot_id": "shot_21",
+            "timestamp": 31.12,
+            "description": "A person is preparing eggs with sugar and salt in a bowl, likely for baking in an oven alongside a potted plant. Three eggs will create enough to serve two."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_22_f1",
+            "shot_id": "shot_22",
+            "timestamp": 31.85,
+            "description": "Three eggs are added to a bowl with a splash of soy sauce, ready for an easy and simple egg dish. The glistening eggs will be cooked into a flavorful breakfast."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_23_f1",
+            "shot_id": "shot_23",
+            "timestamp": 32.81,
+            "description": "Three eggs are whisked in a bowl with a touch of Ajinomoto, creating a light and fluffy base for an easy egg dish. The mixture appears ready to be cooked into a delicious breakfast or snack."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_24_f1",
+            "shot_id": "shot_24",
+            "timestamp": 33.81,
+            "description": "A person cracks three eggs into a bowl, preparing for a simple egg dish. The finished product will be two servings of scrambled eggs."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_25_f1",
+            "shot_id": "shot_25",
+            "timestamp": 34.56,
+            "description": "A person is preparing eggs, using a bowl to hold three eggs for a simple recipe. The finished dish will be two servings of scrambled eggs."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_26_f1",
+            "shot_id": "shot_26",
+            "timestamp": 35.68,
+            "description": "A person beats an egg in a bowl for one minute, adding oil as needed and stirring until smooth. The resulting mixture appears light and creamy."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_27_f1",
+            "shot_id": "shot_27",
+            "timestamp": 36.86,
+            "description": "In this video, a person beats an egg in a bowl for one minute, adding oil as needed to create a smooth mixture. The resulting batter is ready for further use in the recipe."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_28_f1",
+            "shot_id": "shot_28",
+            "timestamp": 37.85,
+            "description": "A person is beating an egg in a bowl with broccoli and spring onion, while adding oil and stirring for a minute to create a creamy sauce. The resulting mixture appears light and fluffy."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_29_f1",
+            "shot_id": "shot_29",
+            "timestamp": 38.75,
+            "description": "In a bowl, whisk an egg vigorously for a minute, adding oil as needed to create a smooth mixture. A spoon is used to stir and ensure the egg is fully combined."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_30_f1",
+            "shot_id": "shot_30",
+            "timestamp": 39.69,
+            "description": "In a bowl, whisk an egg for a minute, adding oil as needed with a spoon while preparing this dish on the dining table. The mixture should be light and airy when finished."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_31_f1",
+            "shot_id": "shot_31",
+            "timestamp": 40.6,
+            "description": "A bowl of refrigerated rice sits on a dining table alongside a bottle and cup, suggesting a simple dish preparation. The scene features a potted plant adding a touch of greenery to the cooking area."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_32_f1",
+            "shot_id": "shot_32",
+            "timestamp": 41.33,
+            "description": "A person prepares refrigerated rice in a bowl, while a potted plant sits nearby. The finished rice appears ready to serve, showcasing a simple and fresh meal."
+        },
+        {
+            "frame_id": "FRIED_RICE_shot_33_f1",
+            "shot_id": "shot_33",
+            "timestamp": 42.08,
+            "description": "A person prepares refrigerated rice in a bowl and cup at a dining table. The finished rice appears ready to be served."
+        }
+    ],
+    "semantic_shot_information": [
+        {
+            "step_id": 1,
+            "start_time": 0.0,
+            "end_time": 8.23,
+            "duration": 8.23,
+            "representative_frame": "data/frames/FRIED_RICE/shot_1.jpg",
+            "audio_text_bn": "রিচার্জেবল মিনি ইলেকট্রিক চপার, অত্যন্ত কম্প্যাক্ট একটা আদা, রসুন, পেঁয়াজ, লঙ্কার জল না কেটে সব চপ হয়ে যাচ্ছে",
+            "audio_text_en": "Rechargeable Mini Electric Chopper, Very Compact A Ginger, Garlic, Onion, Chilli Chops Everything Without Cutting The Water"
+        },
+        {
+            "step_id": 2,
+            "start_time": 8.23,
+            "end_time": 16.3,
+            "duration": 8.07,
+            "representative_frame": "data/frames/FRIED_RICE/shot_6.jpg",
+            "audio_text_bn": "হ্যাঁ, এটা না থাকলে আর মিনিট 15 সময় আপনার এক্সট্রা লাগবেই",
+            "audio_text_en": "Yes, it will cost you 15 minutes extra if you don't have it"
+        },
+        {
+            "step_id": 3,
+            "start_time": 16.3,
+            "end_time": 22.83,
+            "duration": 6.53,
+            "representative_frame": "data/frames/FRIED_RICE/shot_11.jpg",
+            "audio_text_bn": "বাট দ্যাটস দা হোল পয়েন্ট অফ বাইং এ কিচেন গ্যাজেট, রাইট? ইউ ইনভেস্ট অন ইট টু সেভ ইউর প্রিসিয়াস টাইম",
+            "audio_text_en": "But that's the whole point of buying a kitchen gadget, right? You invest on it to save your precious time"
+        },
+        {
+            "step_id": 4,
+            "start_time": 22.83,
+            "end_time": 30.73,
+            "duration": 7.9,
+            "representative_frame": "data/frames/FRIED_RICE/shot_16.jpg",
+            "audio_text_bn": "কড়া হাই ফ্লেমে, তেল, পেঁয়াজ 30 সেকেন্ড, রসুন 10 সেকেন্ড, আদা 10 সেকেন্ড, কাঁচা লঙ্কা আর 30 সেকেন্ড",
+            "audio_text_en": "On high flame, oil, onion 30 seconds, garlic 10 seconds, ginger 10 seconds, green chillies and 30 seconds"
+        },
+        {
+            "step_id": 5,
+            "start_time": 30.73,
+            "end_time": 34.93,
+            "duration": 4.2,
+            "representative_frame": "data/frames/FRIED_RICE/shot_21.jpg",
+            "audio_text_bn": "ডিম, দুজনের জন্য তিনটে ডিম এনাফ",
+            "audio_text_en": "Eggs, three eggs are enough for two"
+        },
+        {
+            "step_id": 6,
+            "start_time": 34.93,
+            "end_time": 40.27,
+            "duration": 5.34,
+            "representative_frame": "data/frames/FRIED_RICE/shot_26.jpg",
+            "audio_text_bn": "ডিমটা 30 সেকেন্ড, লাগলে আরেকটু তেল দিয়ে টানা এক মিনিট নাড়তে থাকুন",
+            "audio_text_en": "Beat the egg for 30 seconds, add a little more oil if needed and keep stirring for a minute"
+        },
+        {
+            "step_id": 7,
+            "start_time": 40.27,
+            "end_time": 42.43,
+            "duration": 2.16,
+            "representative_frame": "data/frames/FRIED_RICE/shot_31.jpg",
+            "audio_text_bn": "ফ্রিজে রাখা ভাত",
+            "audio_text_en": "Refrigerated rice"
+        }
+    ]
+}

@@ -24,7 +24,7 @@ class RecipeInformationGenerator:
         # Ollama Model
         self.model_name = "gemma3:latest"
 
-        print(f"✓ Model Loaded : {self.model_name}")
+        print(f" Model Loaded : {self.model_name}")
 
 
     # =========================================================================
@@ -38,7 +38,7 @@ class RecipeInformationGenerator:
             self.json_directory.glob("*.json")
 
         )
-        # =========================================================================
+    # =========================================================================
     # Generate Recipe Information using Gemma 3
     # =========================================================================
 
@@ -163,7 +163,7 @@ Return ONLY JSON.
                 "tags": []
 
             }
-        # =========================================================================
+    # =========================================================================
     # Process One Master JSON
     # =========================================================================
 
@@ -306,7 +306,7 @@ Return ONLY JSON.
 
             )
 
-        print("✓ Recipe Information Updated")
+        print(" Recipe Information Updated")
 
         print(
 
@@ -368,7 +368,7 @@ Return ONLY JSON.
             )
 
         print("\n========================================")
-        print("✓ Recipe Information Generation Completed")
+        print(" Recipe Information Generation Completed")
         print("========================================")
 # =============================================================================
 # Main
